@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]SIC K[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]BABY TV[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1591.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]CANAL PANDA[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/823.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]PANDA BiGGS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1676.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]PANDA BiGGS[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1590.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]NICKELODEON[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaipro.com:8000/live/swiptv46/1y99741/2363.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]JIM JAM[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1674.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]DISNEY CHANNEL[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]DISNEY JUNIOR[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/825.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]CARTOON NETWORK[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/822.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]ANIME TV[/COLOR] [MEX] </title>
+<link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>
+<thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]TOONAMI[/COLOR] [USA] </title>
+<link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]TA TE TI[/COLOR] [ARG] </title>
+<link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase;=on</link>
+<thumbnail>http://s32.postimg.org/k8ulmsg05/ta_te_ti.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•=•[/B][/COLOR] [COLOR white]TV ESCOLA[/COLOR] [BR] </title>
+<link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
+<thumbnail>http://s32.postimg.org/qxr47qpl1/tvescola.png</thumbnail>
+</item>
