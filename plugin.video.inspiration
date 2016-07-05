@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
- 
+
+
 <channels> 
 <channel>
 <name>[B][COLOR lawngreen] LISTAS CANAIS PT [COLOR red][/COLOR][/B]</name>
@@ -71,5 +71,15 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://goo.gl/ZxbTYb</externallink>
+</channel>
+</channels>
+
+<channels> 
+<channel>
+<name>[B][COLOR blue] TeamBlue Live Events[/COLOR][/B]</name>
+<thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
 </channel>
 </channels>
