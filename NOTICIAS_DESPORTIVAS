@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item> 
+<title>[COLOR lime][B]•=•[/COLOR] [COLOR white]RTP3[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBuLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+red%5DRtp+info+v8%5B%2FCOLOR%5D</jsonrpc>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_3_pt.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SIC NOTICIAS[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/773.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]TVI 24[/B][/COLOR] </title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]TVI 24[/B][/COLOR] live it</title>
+<link>http://5.189.129.250:8888/live/liveit/vCfmCwCbUr/59.ts</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] CMTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/771.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] A Bola TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/781.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Porto Canal[/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/portocanal/jn.m3u8</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Porto Canal[/B][/COLOR]</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/783.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+<sportsdevil>http://firstrowas.co///embed/9DOXhIxxsw</sportsdevil>
+<referer>http://mytvfree4.me/</referer>
+<referer>http://firstrowas.co/</referer>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORTING TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1668.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORTING TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/swiptv46/1y99741/2299.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
+</item>
