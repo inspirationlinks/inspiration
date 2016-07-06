@@ -30,6 +30,11 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1601.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.255.76.26:420/live/StreamTeam/GXnxmf7kSG/4339.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
@@ -38,7 +43,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/B][/COLOR] Sports Devil</title>
+<title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] Sports Devil[/B]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil><referer>http://www.europeu2016.net</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
