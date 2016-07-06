@@ -14,8 +14,8 @@
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] FULL HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptiptv.zapto.org:8000/live/iCnAyNR9Xb/GBciAqaedP/402.ts&amp;name=INSPIRATION@LINKS</link>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=XXXXXX&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 <item>
@@ -25,7 +25,7 @@
 </item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ptiptv.zapto.org:8000/live/iCnAyNR9Xb/GBciAqaedP/87.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
@@ -78,7 +78,11 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.250.17:8000/live/test/test/1500.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]F1[/B][/COLOR] </title>
+<link>http://149.202.207.8:8080/syjkiyf00ne/counter1/index.m3u8</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.250.17:8000/live/test/test/1339.ts&amp;name=INSPIRATION@LINKS</link>
@@ -94,15 +98,4 @@
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]SKY F1[/B][/COLOR] </title>
-<link>http://osltv.zackapps.com/apps/best_app/sky.php?id=f1&type=.m3u8</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]F1[/B][/COLOR] </title>
-<link>http://149.202.207.8:8080/syjkiyf00ne/counter1/index.m3u8</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
