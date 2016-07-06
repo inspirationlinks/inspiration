@@ -25,15 +25,16 @@
 </item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.255.76.26:420/live/StreamTeam/GXnxmf7kSG/4340.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BT Sport 2[/B][/COLOR] [GP/F1]</title>
-<link>http://149.202.207.8:8080/beETy-2/counter1/index.m3u8</link>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] MOVISTAR GP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.250.17:8000/live/test/test/1499.ts&amp;name=INSPIRATION@LINKS</link>
@@ -88,7 +89,17 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.250.17:8000/live/test/test/1339.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.255.76.26:420/live/StreamTeam/GXnxmf7kSG/180.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BT Sport 2[/B][/COLOR] [GP/F1]</title>
+<link>http://149.202.207.8:8080/beETy-2/counter1/index.m3u8</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
