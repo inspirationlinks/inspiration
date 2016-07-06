@@ -23,32 +23,32 @@
 </item>
 
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]RTP ÁFRICA[/COLOR] [rtmp]</title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP ÁFRICA[/B][/COLOR] [rtmp]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]RTP MEMÓRIA[/COLOR] [rtmp]</title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP MEMÓRIA[/B][/COLOR] [rtmp]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]RTP MADEIRA[/COLOR] [rtmp]</title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP MADEIRA[/B][/COLOR] [rtmp]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]RTP AÇORES[/COLOR] [rtmp]</title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP AÇORES[/B][/COLOR] [rtmp]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]RTP INTERNACIONAL[/B][/COLOR] [rtmp] [transmite jogos]</title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP INTERNACIONAL[/B][/COLOR] [rtmp] [transmite jogos]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]RTP INTERNACIONAL [/B][/COLOR] [SPORT DEVIL] </title>
+<title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP INTERNACIONAL [/B][/COLOR] [SPORT DEVIL] </title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
 <referer></referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
@@ -260,11 +260,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/65.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CAZA E PESCA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ruben-mota.mine.nu:9511/live/bernardo1/bernardo1/37.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CACAVISION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/27.ts&amp;name=INSPIRATION@LINKS</link>
