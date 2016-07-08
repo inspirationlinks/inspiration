@@ -76,6 +76,16 @@
 
 <channels> 
 <channel>
+<name>[B][COLOR lawngreen] LISTA SIMPLES [COLOR red][/COLOR][/B]</name>
+<thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://goo.gl/KJYdXn</externallink>
+</channel>
+</channels>
+
+<channels> 
+<channel>
 <name>[B][COLOR blue] TeamBlue Live Events[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
 <fanart></fanart>
