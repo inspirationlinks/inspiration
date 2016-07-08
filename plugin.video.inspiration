@@ -74,7 +74,6 @@
 </channel>
 </channels>
 
-<channels> 
 <channel>
 <name>[B][COLOR lawngreen] LISTA SIMPLES [COLOR red][/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
@@ -82,7 +81,6 @@
 <link>http://goo.gl/KJYdXn</link>
 <externallink>http://goo.gl/KJYdXn</externallink>
 </channel>
-</channels>
 
 <channels> 
 <channel>
@@ -91,5 +89,15 @@
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
+</channel>
+</channels>
+
+<channels> 
+<channel>
+<name>[B][COLOR blue] MARTUNIS[/COLOR][/B]</name>
+<thumbnail>http://s32.postimg.org/t0ihl8olh/martunis.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/K2X65rB3</externallink>
 </channel>
 </channels>
