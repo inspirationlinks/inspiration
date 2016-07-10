@@ -6,7 +6,7 @@
 <name>[B]CANAIS PORTUGAL [/B]</name>
 <thumbnail>http://s32.postimg.org/9gbzrk2dh/image.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/Kfz0Gy</externallink>
 </channel>
 </channels>
@@ -15,7 +15,7 @@
 <name>[B]CANAIS INFANTIS [/B]</name>
 <thumbnail>http://s32.postimg.org/nbaaa0wsl/infantil.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/P4Qd6V</externallink>
 </channel>
 </channels>
@@ -24,7 +24,7 @@
 <name>[B] INF. DESPORTIVA[/B]</name>
 <thumbnail>http://s32.postimg.org/n3r8r9b7p/noticias.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/PU0fJz</externallink>
 </channel>
 </channels>
@@ -33,7 +33,7 @@
 <name>[B] €URO 2016 [/B]</name>
 <thumbnail>http://s32.postimg.org/nck83fymd/futlive.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/YQpz3Y</externallink>
 </channel>
 </channels>
@@ -42,7 +42,7 @@
 <name>[B] MOTOGP [COLOR red]+[/COLOR] F1[/B]</name>
 <thumbnail>http://s32.postimg.org/p60yqhchx/gpf1.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/lRKWWy</externallink>
 </channel>
 </channels>
@@ -51,7 +51,7 @@
 <name>[B] DESPORTO MIX [/B]</name>
 <thumbnail>http://s32.postimg.org/4mwu0fv9h/futmix.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/8QJw0K</externallink>
 </channel>
 </channels>
@@ -60,7 +60,7 @@
 <name>[B]PLEXUS | P2P ...[/B]</name>
 <thumbnail>http://s32.postimg.org/r1eigny11/p2p.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://goo.gl/PivDBp</externallink>
 </channel>
 </channels>
@@ -74,7 +74,7 @@
 </subitem>
 </item>
 <item>
-<title>[COLOR orange]LISTA INSPIRATION M3U[/COLOR]</title>
+<title>LISTA INSPIRATION M3U</title>
 <link>http://pastebin.com</link>
 <externallink>http://pastebin.com/raw.php?i=Gg3fvRWA</externallink>
 <thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
@@ -82,20 +82,20 @@
 
 <channels> 
 <channel>
-<name>[B] TeamBlue Live Events[/B]</name>
+<name>[B]TeamBlue Live Events[/B]</name>
 <thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
 </channel>
 </channels>
 
 <channels> 
 <channel>
-<name>[B] MARTUNIS[/B]</name>
+<name>[B]MARTUNIS[/B]</name>
 <thumbnail>http://s32.postimg.org/t0ihl8olh/martunis.jpg</thumbnail>
 <fanart></fanart>
-<link>http://ignoreme</link>
+<link>http://fui.me</link>
 <externallink>http://pastebin.com/raw/K2X65rB3</externallink>
 </channel>
 </channels>
