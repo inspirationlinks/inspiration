@@ -14,6 +14,12 @@
 </item>
 <item>
 <title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.214.31:5890/live/nostalgia/nostalgia/878.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•€U[COLOR red]RO[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.255.76.26:420/live/StreamTeam/GXnxmf7kSG/4339.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
