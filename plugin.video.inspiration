@@ -66,13 +66,19 @@
 </channels>
 
 
+<item>
 <channel>
-<name>[B]LISTA SIMPLES [/B]</name>
+<name>[B]LISTA SIMPLES PT [/B]</name>
 <thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
 <fanart></fanart>
-<link>http://pastebin.com</link>
+</subitem>
+</item>
+<item>
+<title>[COLOR orange]LISTA INSPIRATION M3U[/COLOR]</title>
+<link>http://fui.me</link>
 <externallink>http://pastebin.com/raw.php?i=Gg3fvRWA</externallink>
-</channel>
+<thumbnail>http://s32.postimg.org/pq2205sn9/images2.jpg</thumbnail>
+</item>
 
 <channels> 
 <channel>
