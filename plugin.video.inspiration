@@ -66,20 +66,6 @@
 </channels>
 
 
-<item>
-<channel>
-<name>[B]LISTA SIMPLES PT [/B]</name>
-<thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
-<fanart></fanart>
-</subitem>
-</item>
-<item>
-<title>LISTA INSPIRATION M3U</title>
-<link>http://pastebin.com</link>
-<externallink>http://pastebin.com/raw.php?i=Gg3fvRWA</externallink>
-<thumbnail>http://s32.postimg.org/q1w7if8ud/smarttv.png</thumbnail>
-</item>
-
 <channels> 
 <channel>
 <name>[B]TeamBlue Live Events[/B]</name>
