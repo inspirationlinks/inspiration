@@ -13,12 +13,13 @@
 </item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][/B] [COLOR white]Wrestling[/COLOR] [UK]</title>
-<link>http://149.202.207.8:8080/dublewoo3/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/KNLdublewoo3/counter1/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
 </item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][/B] [COLOR white]Box Nation[/COLOR]</title>
-<link>http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/KNLbxoo-nan/counter1/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
 </item>
 <item>
@@ -53,7 +54,7 @@
 </item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport 2[/B][/COLOR]</title>
-<link>http://149.202.85.84:8080/eiuor-2/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/KNLeiuor-2/counter1/index.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
 <item>
@@ -91,7 +92,6 @@
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BT Sport Europe[/B][/COLOR]</title>
 <link>http://149.202.85.84:8080/KNLbeETy-U/counter1/index.m3u8</link>
-
 <thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
 </item>
 <item>
@@ -99,6 +99,33 @@
 <link>http://149.202.85.84:8080/bteiSsepn/counter1/index.m3u8</link>
 <thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SKY SPORT 1[/B][/COLOR]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SKY SPORT 2[/B][/COLOR]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SKY SPORT 3[/B][/COLOR]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SKY SPORT 4[/B][/COLOR]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SKY SPORT 5[/B][/COLOR]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] CTH1 Stadium[/B][/COLOR]</title>
 <link>http://149.202.207.8:8080/KNLseeTeechh-1/counter1/index.m3u8</link>
