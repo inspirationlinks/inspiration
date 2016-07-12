@@ -252,10 +252,22 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
+<link>http://85.25.43.23:8080/hls/helloszia2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
+<link>http://85.25.43.23:8080/hls/helloszia3.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Nova SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/ws3d1rfr9/image.png</thumbnail>
 </item>
+
 
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white]  Idman Tv[/B][/COLOR] [AZE]</title>
