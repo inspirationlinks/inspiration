@@ -40,7 +40,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 <item>
-<title>[COLOR gold][B]•=•[/COLOR][COLOR lime] RTP 1 [/B][/COLOR] [live it] </title>
+<title>[COLOR gold][B]•=•[/COLOR][COLOR lime] RTP 1 [/B][/COLOR] [by live it] </title>
 <link>http://5.189.129.250:8888/live/liveit/vCfmCwCbUr/1.ts</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
@@ -245,6 +245,13 @@
 <link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/vrkadrrb9/classtvmodasky.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lawngreen][B]•||•[/COLOR][COLOR white]listas PT Temporarios [/COLOR][COLOR lawngreen]•||•[/B][/COLOR]</title>
+<link>http//fui.me</link>
+<thumbnail>http://s32.postimg.org/72u20jnyd/humor.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CANAL+ Toros[/B][/COLOR] [rtmp]</title>
 <link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
@@ -258,7 +265,7 @@
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]IBERALIA[/B][/COLOR]</title>
+<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]IBERALIA[/B][/COLOR] OFF/ON</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://81.38.6.23:4022/udp/239.0.5.6:8208&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 </item>
