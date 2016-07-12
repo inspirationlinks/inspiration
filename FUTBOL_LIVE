@@ -32,7 +32,7 @@
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.213.186.33.5:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.186.33.5:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 
@@ -76,11 +76,6 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/naser/naser/17.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] beIN Sports1[/COLOR][/B] [FR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/00004/00004/16.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Bein Sports ñ[/B][/COLOR] [ESP] </title>
@@ -96,17 +91,17 @@
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 1[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.207.8:8080/KNLbeETy-1/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/MRTbeETy-1/counter1/index.m3u8</link>
 <thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 2[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.207.8:8080/KNLbeETy-2/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/MRTbeETy-2/counter1/index.m3u8</link>
 <thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT Sport Europe[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.85.84:8080/KNLbeETy-U/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/MRTbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
 </item>
 <item>
@@ -123,12 +118,12 @@
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SKY SPORT 1[/B][/COLOR] [LIGA INGLESA]</title>
-<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/MRTsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] CTH1 Stadium[/B][/COLOR] [LIGA INGLESA]</title>
-<link>http://149.202.207.8:8080/KNLseeTeechh-1/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/MRTseeTeechh-1/counter1/index.m3u8</link>
 <thumbnail>http://i.imgur.com/UnOHyFO.png</thumbnail>
 </item>
 
