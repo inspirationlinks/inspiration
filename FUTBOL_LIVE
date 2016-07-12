@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] RTP1[/B][/COLOR] [rtmp]</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT TV1[/COLOR][/B] OFF/ON [PLEXUL]</title>
+<link>plugin://program.plexus/?url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 9[/COLOR][/B] [PLEXUL]</title>
+<link>plugin://program.plexus/?url=acestream://97f0eaa031804b7c9f5b7f60599047254d9128b1&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 10[/COLOR][/B] [PLEXUL]</title>
+<link>plugin://program.plexus/?url=acestream://6c869c22127b6056d99b5ab1cf9303990e16114c&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
@@ -36,37 +49,21 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] Sports Devil[/B]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil><referer>http://www.europeu2016.net</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 <item>  
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] Sports Devil [/B]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
 <link>rtmp://31.220.40.61/privatestream/chumis?keys=ci963EFQR9tJOle-0npr3w&keyt=1466263613 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=chumis&width=630&height=510</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] Sports Devil [/B]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT TV1[/COLOR][/B] [PLEXUL]</title>
-<link>plugin://program.plexus/?url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 9[/COLOR][/B] [PLEXUL]</title>
-<link>plugin://program.plexus/?url=acestream://97f0eaa031804b7c9f5b7f60599047254d9128b1&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 10[/COLOR][/B] [PLEXUL]</title>
-<link>plugin://program.plexus/?url=acestream://6c869c22127b6056d99b5ab1cf9303990e16114c&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 
 <item>
@@ -98,9 +95,57 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 1[/B][/COLOR] [LIGA NOS]</title>
+<link>http://149.202.207.8:8080/KNLbeETy-1/counter1/index.m3u8</link>
+<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 2[/B][/COLOR] [LIGA NOS]</title>
+<link>http://149.202.207.8:8080/KNLbeETy-2/counter1/index.m3u8</link>
+<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT Sport Europe[/B][/COLOR] [LIGA NOS]</title>
+<link>http://149.202.85.84:8080/KNLbeETy-U/counter1/index.m3u8</link>
+<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT Sport ESPN[/B][/COLOR] [LIGA NOS]</title>
+<link>http://149.202.85.84:8080/bteiSsepn/counter1/index.m3u8</link>
+<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Super Sporlig[/B][/COLOR] [Varias ligas europeias]</title>
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://s32.postimg.org/cfo1stj7p/sport.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SKY SPORT 1[/B][/COLOR] [LIGA INGLESA]</title>
+<link>http://149.202.85.84:8080/KNLsyjkiy-1/counter1/index.m3u8</link>
+<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] CTH1 Stadium[/B][/COLOR] [LIGA INGLESA]</title>
+<link>http://149.202.207.8:8080/KNLseeTeechh-1/counter1/index.m3u8</link>
+<thumbnail>http://i.imgur.com/UnOHyFO.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
+<link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
+<thumbnail>http://s32.postimg.org/ct6i2jgcl/arenaspor1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
+<link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Idman Tv[/B][/COLOR] [AZE]</title>
+<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
+<thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 
 <item>
@@ -110,12 +155,12 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BNT 1[/B][/COLOR] [BUL]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BNT 1[/B][/COLOR] em test[BUL]</title>
 <link>http://109.160.30.249:40554/udp/239.0.41.50:4000</link>
 <thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] TVM[/B][/COLOR] [MALTA]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] TVM[/B][/COLOR] em test[MALTA]</title>
 <link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
 </item>
