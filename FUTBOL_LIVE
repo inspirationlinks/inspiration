@@ -89,21 +89,6 @@
 </regex>
 </item>
 
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT KLUB 1[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.96.35:8000/live/rankoitv/UXiZQPHVBK/439.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT KLUB 2[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.96.35:8000/live/rankoitv/UXiZQPHVBK/440.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT KLUB 3[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.96.35:8000/live/rankoitv/UXiZQPHVBK/441.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ZIGGO VOETBAL VOETBAL[/B][/COLOR] [LIGA NOS]</title>
@@ -191,4 +176,5 @@
 <link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
 </item>
+
 
