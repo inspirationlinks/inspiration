@@ -97,8 +97,15 @@
 
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
+<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<genre>Desporto</genre>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
 <sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
 <referer>http://reformadostv.comunidades.net/index.php</referer>
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
@@ -111,11 +118,7 @@
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
 <referer>http://flashplayer.com</referer>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-<sportsdevil>http://firstrowas.co/embed/9DOXhIxxsw</sportsdevil>
-<referer>http://mytvfree4.me/</referer>
-<thumbnail>https://s19.postimg.org/wrjzxii03/benfica.png</thumbnail>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
 </item>
 
 <item>
@@ -228,5 +231,4 @@
 <link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
 </item>
-
 
