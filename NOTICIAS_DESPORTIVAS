@@ -31,9 +31,17 @@
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] A Bola TV[/B][/COLOR]</title>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Bola TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/nostalgia/nostalgia/1034.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Bola TV[/B] [Sport Devil][/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=abolatv</sportsdevil>
+<referer>http://www.desportonline.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+<genre>Desporto</genre>
 </item>
 
 <item>
@@ -48,27 +56,6 @@
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/783.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
-<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
-<sportsdevil>http://firstrowas.co///embed/9DOXhIxxsw</sportsdevil>
-<referer>http://mytvfree4.me/</referer>
-<referer>http://firstrowas.co/</referer>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
-<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
-<referer>http://www.sporttvsonline.com</referer>
-</item>
-
-<item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORTING TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1668.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
@@ -79,3 +66,9 @@
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORTING TV[/B][/COLOR] [Sport Devil] </title>
+<sportsdevil>http://antena.mytvfree2.me/sporcanal.php</sportsdevil>
+<referer>http://mytvfree2.me/ver/sporting-tv-online</referer>
+<thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
+</item>
