@@ -31,6 +31,13 @@
 </item>
 
 <item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Sportv5[/B][/COLOR] [Sport Devil] </title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] MOVISTAR GP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.250.17:8000/live/test/test/1499.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
