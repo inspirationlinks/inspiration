@@ -31,6 +31,13 @@
 </item>
 
 <item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] CMTV[/B][/COLOR] [Sport Devil] </title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
+<referer>http://www.liveflashplayer.net/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Bola TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://topiptv.net:5890/live/nostalgia/nostalgia/1034.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
@@ -71,4 +78,10 @@
 <sportsdevil>http://antena.mytvfree2.me/sporcanal.php</sportsdevil>
 <referer>http://mytvfree2.me/ver/sporting-tv-online</referer>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] SPORTING TV[/B][/COLOR] [Sport Devil] </title>
+<sportsdevil>http://www.desportodireto.com/sporting/</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail> 
 </item>
