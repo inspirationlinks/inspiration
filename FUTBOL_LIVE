@@ -27,9 +27,21 @@
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/924.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.214.31:5890/live/nostalgia/nostalgia/878.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.202.164:88/live/anas/anas/64.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://213.186.33.5:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIRATION@LINKS</link>
@@ -70,6 +82,40 @@
 <sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/783.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1173.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BTV[/B][/COLOR] Sports Devil</title>
+
+<sportsdevil>http://reformadostv.comunidades.net/index.php</sportsdevil>
+<referer>http://reformadostv.comunidades.net/index.php</referer>
+<sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</sportsdevil>
+<referer>http://www.thefeed2all.eu/watch/408917/6/watch-xonetv.html</referer>
+<sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
+<referer>http://cdn2.zuuk.org/</referer>
+<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
+<referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
+<referer>http://flashplayer.com</referer>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv-2</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<sportsdevil>http://firstrowas.co/embed/9DOXhIxxsw</sportsdevil>
+<referer>http://mytvfree4.me/</referer>
+<thumbnail>https://s19.postimg.org/wrjzxii03/benfica.png</thumbnail>
 </item>
 
 <item>
