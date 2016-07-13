@@ -81,71 +81,7 @@
 <link>rtmp://live3.tdm.com.mo:80/tv/_definst_/ playpath=ch2.live swfUrl=http://www.tdm.com.mo/global/js/jwplayer_5.10/player.swf pageUrl=http://www.tdm.com.mo/c_broadcast/index.php?channel=ptvp token=%Zrey(nKa@#Z</link></link>
 <thumbnail>http://s31.postimg.org/58ysrkbp7/Macau_Cable_TV.png</thumbnail>
 </item>
-<item>                        
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] SIC[/B][/COLOR]</title>                        
-<link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>                        
-<regex>                        
-<name>get-ip</name>                        
-<expres>redirect=(.*)</expres>                        
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>                        
-</regex>                        
-<regex>                        
-<name>pk</name>                        
-<expres>ea=(.*)'</expres>                        
-<page>http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</page>                        
-<referer>http://www.liveflashplayer.net</referer>                        
-<thumbnail>http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png</thumbnail>                        
-</regex>                        
-</item>
-<item>
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] SIC MULHER[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicm02?id=84770&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226   pageUrl=http://www.embeducaster.com/embedplayer/sicm02/1/599/399</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicm02/1/599/399</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png</thumbnail>
-</regex>
-</item>
-<item>
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] SIC RADICAL[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live playpath=sicradicalx?id=84768&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226         pageUrl=http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>get-pk</name>
-<expres>pk=(.*?)'</expres>
-<page>http://www.embeducaster.com/embedplayer/sicradicalx/1/650/500</page>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png</thumbnail>
-</regex>
-</item>
-<item>
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] TVI FICÇÃO[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embedezcast.com/membedplayer/tvicrl/1/650/500</page>
-<agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36 OPR/33.0.1990.115</agent>
-<referer>http://www.embedezcast.com</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
-</regex>
-</item>
+
 <item>
 <title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]TVI [/COLOR] HQ</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
@@ -161,55 +97,15 @@
 <link>http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
+
 <item>
-<title>[COLOR gold][B]•=•[/COLOR][COLOR lime] Tvi Reality[/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.streamifypublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.streamifyplayer.com/membedplayer/TviReality2/1/545/440</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.streamifyplayer.com</referer>
-<thumbnail>http://s20.postimg.org/srxd65wsd/tvi_Reality.jpg</thumbnail>
-</regex>
+<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B]TVI REALITY [Sport Devil]</title>
+<sportsdevil>http://www.tv-motards.com/quinta-das-celebridades-tvi-24-h</sportsdevil>
+<referer>http://www.tv-motards.com/</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] CMTV SD[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=cmtvb?id=21917$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/cmtvb/1/599/399</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
-</regex>
-</item>
-<item>
-<title>[COLOR gold][B]•=•[/B][/COLOR][COLOR lime][B] BOLA TV[/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
-</regex>
-</item>
+
+
 <item>
 <title>[COLOR gold][B]•=•[/COLOR][COLOR lime] Porto Canal[/B][/COLOR] HQ [rtmp]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
@@ -244,6 +140,53 @@
 <title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]CLASS TV MODA[/B][/COLOR] [USA]</title>
 <link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/vrkadrrb9/classtvmodasky.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]AXN[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=axn</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]AXN White[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=axnwhite</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]FOX[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=fox</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]FOX Life[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=foxlife</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vqxvyr1433943623.png</thumbnail>
+</item>
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]FOX Crime[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=foxcrime</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s32.postimg.org/p9ioqj7yd/fox_crime.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]FOX Movies[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=foxmovies</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s32.postimg.org/45qpkkmpx/foxmovies.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]Hollywood[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=hollywood</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png</thumbnail>
 </item>
 
 
@@ -285,6 +228,13 @@
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CACAVISION[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/27.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime][B]Fish Tv[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://tv-msn.com/fishtv2.php</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/02/fishtv.png</thumbnail>
 </item>
 
 <item>
