@@ -83,6 +83,13 @@
 </item>
 
 <item>
+<title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]SIC Noticias [/COLOR] HQ</title>
+<link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR gold][B]•=•[/B][/COLOR] [COLOR lime]TVI [/COLOR] HQ</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
@@ -213,11 +220,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CAZA E PESCA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1383.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
-</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]CAZA E PESCA[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/65.ts&amp;name=INSPIRATION@LINKS</link>
