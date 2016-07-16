@@ -198,6 +198,11 @@
 <link>http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/d86pb1f9h/TIVIBUSPOR.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Tivibus Sport[/B][/COLOR] [LIGA NOS]</title>
+<link>http://188.165.46.79:1935/live/898953tivibuspor2.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/d86pb1f9h/TIVIBUSPOR.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Arena Sport1[/B][/COLOR] [LIGA NOS]</title>
@@ -227,11 +232,6 @@
 <link>http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8</link>
 <thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] CTH1 Stadium[/B][/COLOR] [LIGA INGLESA]</title>
-<link>http://149.202.207.8:8080/FKRseeTeechh-1/counter1/index.m3u8</link>
-<thumbnail>http://i.imgur.com/UnOHyFO.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
@@ -256,14 +256,10 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BNT 1[/B][/COLOR] em test[BUL]</title>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BNT 1[/B][/COLOR] em test [BUL]</title>
 <link>http://109.160.30.249:40554/udp/239.0.41.50:4000</link>
 <thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] TVM[/B][/COLOR] em test[MALTA]</title>
-<link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>http://s32.postimg.org/dpujmhm9x/tvsps.png</thumbnail>
-</item>
+
 
 
