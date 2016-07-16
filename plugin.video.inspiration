@@ -3,61 +3,61 @@
 
 <channels> 
 <channel>
-<name>[B]CANAIS PORTUGAL [/B]</name>
+<name>[COLOR lime][B][I] CANAIS PORTUGAL [/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/9gbzrk2dh/image.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/Kfz0Gy</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[B]CANAIS INFANTIS [/B]</name>
+<name>[COLOR lime][B][I] CANAIS INFANTIS [/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/nbaaa0wsl/infantil.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/P4Qd6V</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[B]INF. DESPORTIVA[/B]</name>
+<name>[COLOR lime][B][I] INF. DESPORTIVA[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/n3r8r9b7p/noticias.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/PU0fJz</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[COLOR lime][B]LIGA [COLOR red]NOS[/COLOR][/COLOR][COLOR white] AND MORE ... [/COLOR][/B]</name>
+<name>[COLOR lime][COLOR lime][B][I] LIGA [COLOR red]NOS[/COLOR][/COLOR][COLOR white] AND MORE ... [/COLOR][/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/nck83fymd/futlive.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/YQpz3Y</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[B]MOTOGP [COLOR red]+[/COLOR] F1[/B]</name>
+<name>[COLOR lime][B][I] MOTOGP [COLOR red]+[/COLOR] F1[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/p60yqhchx/gpf1.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/lRKWWy</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[B]DESPORTO MIX [/B]</name>
+<name>[COLOR lime][B][I] DESPORTO MIX [/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/4mwu0fv9h/futmix.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/8QJw0K</externallink>
 </channel>
 </channels>
-<channels> 
+
 <channel>
-<name>[B]PLEXUS | P2P ...[/B]</name>
+<name>[COLOR lime][B][I] PLEXUS | P2P ...[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/r1eigny11/p2p.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
@@ -66,9 +66,9 @@
 </channels>
 
 
-<channels> 
+
 <channel>
-<name>[B]TeamBlue Live Events[/B]</name>
+<name>[COLOR lime][B][I] TeamBlue Live Events[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/6xv196jk5/teamblue.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
@@ -76,12 +76,19 @@
 </channel>
 </channels>
 
-<channels> 
+
 <channel>
-<name>[B]MARTUNIS[/B]</name>
+<name>[COLOR lime][B][I] MARTUNIS[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/wvwzvv79h/martunis.png</thumbnail>
 <fanart></fanart>
 <link>http://fui.me</link>
 <externallink>http://pastebin.com/raw/K2X65rB3</externallink>
 </channel>
 </channels>
+
+<channel>
+<name>[COLOR red][B][I] XXX Movies [/I][/B][/COLOR]</name>
+<thumbnail>http://s11.postimg.org/54dwcq003/ADULT_MOVIES.png</thumbnail>
+<fanart>https://66.media.tumblr.com/54da7c7e030447a20bdafc97c72f5db1/tumblr_nps9f3DhMz1u4t672o1_500.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw.php?i=7TNqh1zj</externallink>
