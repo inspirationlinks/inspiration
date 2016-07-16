@@ -56,12 +56,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re:80/live/YioryosPlakas/YioryosPlakas/1915.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]SKY F1[/B][/COLOR] </title>
-<link>http://149.202.207.8:8080/FKRsyjkiyf00ne/counter1/index.m3u8</link>
 
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1818.ts&amp;name=INSPIRATION@LINKS</link>
@@ -78,12 +73,6 @@
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] BT Sport 2[/B][/COLOR] [GP/F1]</title>
-<link>http://149.202.207.8:8080/FKRbeETy-2/counter1/index.m3u8</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
