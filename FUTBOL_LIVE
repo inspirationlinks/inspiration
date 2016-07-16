@@ -150,8 +150,18 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] beIN Sports 1[/COLOR][/B] [FR]</title>
+<link>http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
+</item>
+<item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] beIN Sports2[/COLOR][/B] [FR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.am000.tv:8000/live/naser/naser/17.ts&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] beIN Sports2[/COLOR][/B] [FR]</title>
+<link>http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xuxtvx1433381510.png</thumbnail>
 </item>
 
@@ -169,41 +179,42 @@
 
 
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ZIGGO VOETBAL VOETBAL[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/thomas/thomas/1505.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s33.postimg.org/8eh98aydr/ziggo.jpg</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Lig Tv1[/B][/COLOR] [LIGA NOS]</title>
+<link>http://188.165.46.79:1935/live/898953oneliveligtv.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/l4r6j9qpx/Lig_tv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ZIGGO VOETBAL SELECT[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/thomas/thomas/2513.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s33.postimg.org/8eh98aydr/ziggo.jpg</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Lig Tv2[/B][/COLOR] [LIGA NOS]</title>
+<link>http://188.165.46.79:1935/live/898953oneliveligtv2.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/l4r6j9qpx/Lig_tv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ZIGGO VOETBAL EXTRA[/B][/COLOR] [LIGA NOS]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.175.177:8000/live/thomas/thomas/2513.ts&amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s33.postimg.org/8eh98aydr/ziggo.jpg</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Lig Tv3[/B][/COLOR] [LIGA NOS]</title>
+<link>http://188.165.46.79:1935/live/898953oneliveligtv3.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/l4r6j9qpx/Lig_tv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Tivibus Sport[/B][/COLOR] [LIGA NOS]</title>
+<link>http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/d86pb1f9h/TIVIBUSPOR.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 1[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.207.8:8080/FKRbeETy-1/counter1/index.m3u8</link>
-<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Arena Sport1[/B][/COLOR] [LIGA NOS]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT SPORTS 2[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.207.8:8080/FKRbeETy-2/counter1/index.m3u8</link>
-<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Arena Sport2[/B][/COLOR] [LIGA NOS]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT Sport Europe[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.85.84:8080/FKRbeETy-U/counter1/index.m3u8</link>
-<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Arena Sport3[/B][/COLOR] [LIGA NOS]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] BT Sport ESPN[/B][/COLOR] [LIGA NOS]</title>
-<link>http://149.202.85.84:8080/FKRbteiSsepn/counter1/index.m3u8</link>
-<thumbnail>http://s33.postimg.org/fdh5u528f/BT_Sport.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Super Sporlig[/B][/COLOR] [Varias ligas europeias]</title>
@@ -213,13 +224,12 @@
 
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SKY SPORT 1[/B][/COLOR] [LIGA INGLESA]</title>
-<link>http://149.202.85.84:8080/FKRsyjkiy-1/counter1/index.m3u8</link>
+<link>http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8</link>
 <thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] CTH1 Stadium[/B][/COLOR] [LIGA INGLESA]</title>
 <link>http://149.202.207.8:8080/FKRseeTeechh-1/counter1/index.m3u8</link>
-
 <thumbnail>http://i.imgur.com/UnOHyFO.png</thumbnail>
 </item>
 
