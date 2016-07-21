@@ -39,11 +39,6 @@
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHAxLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR%20lime%5DRTP+1%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
-<item>
-<title>[COLOR gold][B]•=•[/COLOR][COLOR lime] RTP 1 [/B][/COLOR] [by live it] </title>
-<link>http://5.189.129.250:8888/live/liveit/vCfmCwCbUr/1.ts</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR gold][B]•=•[/COLOR] [COLOR lime]RTP ÁFRICA[/B][/COLOR] [rtmp]</title>
@@ -247,282 +242,282 @@
 
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RTP1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/918.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/918.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RTP2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/919.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/919.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RTP3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/921.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/921.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RTP Madeira</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/923.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/923.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RTP Acores</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/920.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/920.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] RT Global</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1460.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1460.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Globo Premium</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1184.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1184.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] MTV Portugal</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1183.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1183.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Fox Life HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1180.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1180.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1179.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1179.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Fox Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1657.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1657.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Fox Crime</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1181.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1181.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Fox Movies</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1450.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1450.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Disney Junior</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1187.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1187.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1186.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1186.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Benfica TV 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1173.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1173.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1100.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1100.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SIC Caras</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1650.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1650.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SIC Reality</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1176.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1176.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SIC Mulher</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1366.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1366.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1098.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1098.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TLC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/930.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/930.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Tivi</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1648.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1648.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1649.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1649.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TV Record</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1652.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1652.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Tvi Reality</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1369.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1369.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TVI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/935.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/935.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Record News</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1651.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1651.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1654.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1654.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Cinemundo</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1655.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1655.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TV Cine 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/931.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/931.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TV Cine 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/932.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/932.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TV Cine 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/933.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/933.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] TV Cine 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/934.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/934.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1458.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1458.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] National Geographic HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1449.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1449.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Nat Geo Wild</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1182.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1182.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SYFY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/929.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/929.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Discovery Channel</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1622.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1622.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Mov HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1463.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1463.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] AXN Black HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1459.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1459.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] AXN White HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1656.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1656.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1462.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1462.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] A&E</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1368.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1368.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sporting TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1175.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1175.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sport TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/924.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/924.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sport TV 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/925.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/925.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sport TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/926.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/926.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sport TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/927.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/927.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Sport TV 5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/928.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/928.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] SOL MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1817.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1817.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] CUATRO</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1803.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1803.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Canal  Liga</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1806.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1806.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Canal+ Futbol</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1807.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1807.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Canal+ Deportes</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1808.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1808.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]•=•[/B][/COLOR] Canal+ Deportes 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1809.ts&amp;name=INSPIRATION@LINKS</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1809.ts&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/lv8m0srnp/bandeira_portuguesa_1.jpg</thumbnail>
 </item>
 
