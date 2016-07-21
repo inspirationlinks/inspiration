@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORT TV1[/COLOR][/B] OFF/ON [PLEXUL]</title>
+<link>plugin://program.plexus/?url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 9[/COLOR][/B] [PLEXUL]</title>
 <link>plugin://program.plexus/?url=acestream://0d6999370138033581c37bf2467aa7cb74be3345&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
@@ -172,7 +179,7 @@
 <item>
 <title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] Super Sporlig[/B][/COLOR] [Varias ligas europeias]</title>
 <link>http://92.222.205.40:8085/lighd</link>
-<thumbnail>http://s32.postimg.org/cfo1stj7p/sport.jpg</thumbnail>
+<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
 
 <item>
