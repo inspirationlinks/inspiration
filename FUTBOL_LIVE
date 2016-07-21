@@ -9,7 +9,7 @@
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] AV 9[/COLOR][/B] [PLEXUL]</title>
+<title>[COLOR lime][B]••[COLOR red]@[/COLOR]•[/COLOR][COLOR white] AV 9[/COLOR][/B] [PLEXUL]</title>
 <link>plugin://program.plexus/?url=acestream://0d6999370138033581c37bf2467aa7cb74be3345&amp;mode=1&amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
@@ -174,6 +174,58 @@
 <link>http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORTV[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORTV 2[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV2/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] SPORTV 3[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Sporttv3/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] FOX SPORT 2[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/FoxSports/index.m3u8</link>
+<thumbnail>http://i.imgur.com/LptthJA.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] FOX SPORT 2[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/FoxSport2/index.m3u8</link>
+<thumbnail>http://i.imgur.com/LptthJA.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ESPN BRASIL[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/ESPNbr/index.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/espn_cn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] ESPN[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/ESPN/index.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/espn_cn.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] PREMIERE CLUBES[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5a/Premiere_fc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]•LI[COLOR red]VE[/COLOR]•[/COLOR][COLOR white] PREMIERE[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Premiere2/index.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5a/Premiere_fc.jpg</thumbnail>
+</item>
+
 
 
 <item>
