@@ -13,6 +13,12 @@
 </item>
 
 <item>
+<title>[COLOR lawngreen][B]•=•[/COLOR][/B] [COLOR white]PREMIER COMBATE[/COLOR]</title>
+<link>http://playmovetv.from-id.com:80/Combate/index.m3u8</link>
+<thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Super Tennis[/B][/COLOR] [IT]</title>
 <link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
 <thumbnail></thumbnail>
@@ -32,21 +38,13 @@
 <link>http://81.7.13.162/hls/ss4/index.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport[/B][/COLOR] |UK|</title>
-<link>http://203.162.235.30/hls/SKY_SPORT_N/playlist.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
 <link>http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport 2[/B][/COLOR]</title>
-<link>http://149.202.85.84:8080/FKReiuor-2/counter1/index.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;amp;url=XXXXX&amp;amp;name=INSPIRATION@LINKS</link>
@@ -97,20 +95,14 @@
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] CBC SPORT[/B][/COLOR]</title>
-<link>http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8</link>
-<thumbnail>http://s32.postimg.org/gkflh2lad/39108455.png</thumbnail>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] RED BULL TV[/B][/COLOR]</title>
+<link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
+<thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Ф SPORT[/B][/COLOR] [CHE]</title>
+<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Ф SPORT[/B][/COLOR] [OFF]</title>
 <link>http://iptv.klfree.cz:8014</link>
 <thumbnail>http://www.apk20.com/image/icon-131779</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white] Матч![/B][/COLOR] [RU]</title>
-<link>http://stream.fryazino.net:9081/udp/239.0.1.177:1234</link>
-<thumbnail>http://s32.postimg.org/ul0yjc685/image.png</thumbnail>
 </item>
 
 <item>
@@ -208,11 +200,6 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white]  CCTV 5[/B][/COLOR] (CHI)</title>
-<link>http://183.207.249.6/PLTV/3/224/3221225604/index.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 <item>
 <title>[COLOR lawngreen][B]•=•[/COLOR][COLOR white]  CCTV 5[/B][/COLOR] (CHI)</title>
 <link>http://183.207.249.6/PLTV/3/224/3221225644/playlist.m3u8</link>
