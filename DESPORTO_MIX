@@ -18,12 +18,12 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  Super Tennis[/B][/COLOR] [IT]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Super Tennis[/B][/COLOR] [IT]</title>
 <link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/helt65d6t/Supertennis.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  RAI Sport 1[/B][/COLOR] [IT]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] RAI Sport 1[/B][/COLOR] [IT]</title>
 <link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://s32.postimg.org/7vc4copol/icon175x175.png</thumbnail>
 </item>
@@ -31,42 +31,42 @@
 
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  EUROSPORT 1[/COLOR] [Sport Devil][/B] |PT|</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] EUROSPORT 1[/COLOR] [Sport Devil][/B] |PT|</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=eurosport</sportsdevil>
 <referer>http://www.estadiofutebol.com/</referer>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail> 
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  EUROSPORT 2[/COLOR] [Sport Devil][/B] |PT|</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] EUROSPORT 2[/COLOR] [Sport Devil][/B] |PT|</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=eurosport2</sportsdevil>
 <referer>http://www.estadiofutebol.com/</referer>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail> 
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Eurosport 1[/B][/COLOR] |FR|</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Eurosport 1[/B][/COLOR] |FR|</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Eurosport 1[/B][/COLOR] |UK|</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Eurosport 1[/B][/COLOR] |UK|</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Eurosport 1[/B][/COLOR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Eurosport 1[/B][/COLOR]</title>
 <link>http://81.7.13.162/hls/ss4/index.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Eurosport 2[/B][/COLOR] |bul|</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
 <link>http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;amp;url=XXXXX&amp;amp;name=INSPIRATION@LINKS</link>
 <thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
 </item>
@@ -76,178 +76,178 @@
 
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  PFC[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] PFC[/B][/COLOR] [BR]</title>
 <link>http://art.nextv.ca/nextv/pfci/index.m3u8</link>
 <thumbnail>http://s20.postimg.org/tyoy1z4p9/PFC.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  ESPN Brasil[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] ESPN Brasil[/B][/COLOR] [BR]</title>
 <link>http://213.163.65.9:8081/live/espnbrz/playlist.m3u8</link>
 <thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  FOX SPORT 3[/B][/COLOR] [KR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] FOX SPORT 3[/B][/COLOR] [KR]</title>
 <link>http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8</link>
 <thumbnail>http://s20.postimg.org/6t0raqvf1/Fox_Sport.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lawngreen][B]•=•[/COLOR] [COLOR white]Real Madrid[/B][/COLOR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]Real Madrid[/B][/COLOR]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  POKER CENTRAL[/COLOR][/B]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] POKER CENTRAL[/COLOR][/B]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  POKER 2[/COLOR][/B]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] POKER 2[/COLOR][/B]</title>
 <link>http://veetle.com/index.php/hls/streamMbrfast/4c1b0ef0a2122_/stream.m3u8</link>
 <thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  RED BULL TV[/B][/COLOR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] RED BULL TV[/B][/COLOR]</title>
 <link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
 <thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  Ф SPORT[/B][/COLOR] [OFF]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Ф SPORT[/B][/COLOR] [OFF]</title>
 <link>http://iptv.klfree.cz:8014</link>
 <thumbnail>http://www.apk20.com/image/icon-131779</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  arena SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
 <thumbnail>http://s32.postimg.org/ct6i2jgcl/arenaspor1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://85.25.43.23:8080/hls/helloszia2.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  SPORT2[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
 <link>http://85.25.43.23:8080/hls/helloszia3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white]  Nova SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Nova SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/ws3d1rfr9/image.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   Idman Tv[/B][/COLOR] [AZE]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Idman Tv[/B][/COLOR] [AZE]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  TELEKANAL[/B][/COLOR] [RU]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] TELEKANAL[/B][/COLOR] [RU]</title>
 <link>http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  ORF Sport+[/B][/COLOR] [GER]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] ORF Sport+[/B][/COLOR] [GER]</title>
 <link>http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Versus Tv[/B][/COLOR] [UK]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] Versus Tv[/B][/COLOR] [UK]</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://s32.postimg.org/8w5i4vgxx/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  l'Equipe 21[/B][/COLOR] [FR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] l'Equipe 21[/B][/COLOR] [FR]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
 <thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  l'Equipe 21[/B][/COLOR] [FR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white] l'Equipe 21[/B][/COLOR] [FR]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
 <thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   WIN SPORTS[/B][/COLOR] [MEX]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  WIN SPORTS[/B][/COLOR] [MEX]</title>
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8</link>
 <thumbnail>http://s32.postimg.org/o0x0onfr9/Win_Sports.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   TycSPORTS [/B][/COLOR] [MEX]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  TycSPORTS [/B][/COLOR] [MEX]</title>
 <link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/z2xi9ckg5/Tyc_SPORTS.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   TV ALL SPORTS[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  TV ALL SPORTS[/B][/COLOR] [BR]</title>
 <link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   SPORTS 1[/B][/COLOR] (JAP)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  SPORTS 1[/B][/COLOR] (JAP)</title>
 <link>http://203.162.235.45:17930</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   SPORTS 2[/B][/COLOR] (JAP)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  SPORTS 2[/B][/COLOR] (JAP)</title>
 <link>http://203.162.235.45:17931</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   SPORTS 3[/B][/COLOR] (JAP)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  SPORTS 3[/B][/COLOR] (JAP)</title>
 <link>http://203.162.235.45:17932</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   SPORTS 4[/B][/COLOR] (JAP)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  SPORTS 4[/B][/COLOR] (JAP)</title>
 <link>http://203.162.235.45:17933</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   CCTV 5[/B][/COLOR] (CHI)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  CCTV 5[/B][/COLOR] (CHI)</title>
 <link>http://183.207.249.6/PLTV/3/224/3221225644/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   CCTV 5+[/B][/COLOR] (CHI)</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  CCTV 5+[/B][/COLOR] (CHI)</title>
 <link>http://183.207.249.6/PLTV/3/224/3221225604/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   Bein Sport News[/B][/COLOR] [ARA]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  Bein Sport News[/B][/COLOR] [ARA]</title>
 <link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   True Sport 2[/B][/COLOR] [THA]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  True Sport 2[/B][/COLOR] [THA]</title>
 <link>rtmp://216.185.103.158/live2/chthaipremier31</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   True Sport 2[/B][/COLOR] [THA]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  True Sport 2[/B][/COLOR] [THA]</title>
 <link>rtmp://216.185.103.158/live2/chthaipremier11</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   BIGPOND SPORTS[/B][/COLOR] [AUS]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  BIGPOND SPORTS[/B][/COLOR] [AUS]</title>
 <link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high</link>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]   HI SPORT[/B][/COLOR] [AUS]</title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]  HI SPORT[/B][/COLOR] [AUS]</title>
 <link>http://203.151.87.82:9000/udp/239.101.1.6:1234</link>
 <thumbnail></thumbnail>
 </item>
