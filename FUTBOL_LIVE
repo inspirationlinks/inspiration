@@ -124,7 +124,7 @@
 
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Bein Sports ñ[/B][/COLOR] [ESP] </title>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Bein Sports ñ[/B][/COLOR] [ESP]</title>
 <link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
 <regex>
 <name>tok</name>
@@ -135,6 +135,12 @@
 </regex>
 </item>
 
+<item>
+<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] NBCSN[/COLOR] [Sport Devil][/B] [USA]</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<thumbnail>http://s32.postimg.org/slune9ekl/NBCSN.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] Digi Sport1[/B][/COLOR] [LIGA NOS]</title>
@@ -198,13 +204,13 @@
 <item>
 <title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] ESPN BRASIL[/B][/COLOR] [BR]</title>
 <link>http://playmovetv.from-id.com:80/ESPNbr/index.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/espn_cn.jpg</thumbnail>
+<thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR][COLOR white] ESPN[/B][/COLOR] [BR]</title>
 <link>http://playmovetv.from-id.com:80/ESPN/index.m3u8</link>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/espn_cn.jpg</thumbnail>
+<thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
 </item>
 
 <item>
