@@ -3,14 +3,14 @@
 
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
 </item>
 
 <item>                        
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/COLOR][/B]</title>                                               
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/COLOR][/B]</title>                                               
 <link>http://fui.me</link>                      
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av_schedule</jsonrpc>
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
@@ -18,56 +18,56 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ZemTV Shani[/COLOR][COLOR red] LISTAS IPTV TEMP[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ZemTV Shani[/COLOR][COLOR red] LISTAS IPTV TEMP[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=55&amp;name=ZemTV-shani&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/xz634w5c5/chk.png</thumbnail>
 <fanart></fanart>
 </item>
 <item> 
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ZemTV Shani[/COLOR][COLOR red] ZEMTV-SHANI[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ZemTV Shani[/COLOR][COLOR red] ZEMTV-SHANI[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/xz634w5c5/chk.png</thumbnail>
 </item>
 
 <item> 
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]LiveTV.ru [/COLOR][COLOR red]SPORTS DEVIL[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]LiveTV.ru [/COLOR][COLOR red]SPORTS DEVIL[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/livetv.ru.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://www.userlogos.org/files/logos/Rog/livetv_ru_09.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]ROJADIRECTA[/COLOR][COLOR red] SPORTS DEVIL [/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ROJADIRECTA[/COLOR][COLOR red] SPORTS DEVIL [/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://s32.postimg.org/s9pukkz5x/rojadirecta.png</thumbnail>
 </item
 
 <item> 
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]FIRSTROW SPORTS[/COLOR][COLOR red] SPORTS DEVIL[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]FIRSTROW SPORTS[/COLOR][COLOR red] SPORTS DEVIL[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.ge.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://s32.postimg.org/uyknam4n9/firstrow.png</thumbnail>
 </item>
 
 <item> 
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]BATMAN STREAMS [/COLOR][COLOR red]SPORTS DEVIL[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]BATMAN STREAMS [/COLOR][COLOR red]SPORTS DEVIL[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://s32.postimg.org/rzdqnhv5x/hea.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]•***[COLOR red] @ [/COLOR]***•[/COLOR] [COLOR white]Youtube[/B][/COLOR]</title>
+<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]Youtube[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.youtube</jsonrpc>
 <thumbnail>https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png</thumbnail>
