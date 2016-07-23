@@ -5,10 +5,11 @@
 <channel>
 <name>[B][COLOR deepskyblue]PORTUGAL[/COLOR][COLOR white] [Sinal Aberto] [/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/ow8ue4jd1/portugal_6.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/CANAIS_SUB_PT</externallink>
+<externallink>http://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/CANAIS_PT</externallink>
 <fanart>http://i.imgur.com/119I0EY.jpg</fanart>
 <info>Canais Portugueses Sinal Aberto</info>
 </channel>
+
 
 <channel>
 <name>[B][COLOR deepskyblue]PORTUGAL[/COLOR][COLOR white] [listas TEMP] [/B][/COLOR]</name>
@@ -19,20 +20,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR deepskyblue]ISTO SO VIDEO[/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/guJ7Ibj.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/HUMOR</externallink>
-<fanart>http://i.imgur.com/B7T2gGj.jpg</fanart>
-<info>Canais de Humor</info>
-</channel>
-
-<channel>
 <name>[B][COLOR deepskyblue]CAÇA PESCAS & TAUROMAQUIA[/B][/COLOR]</name>
-<thumbnail>http://i.imgur.com/DCiy9Jf.png</thumbnail>
+<thumbnail>http://icon-icons.com/icons2/308/PNG/512/matador-icon_34105.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/TOROS_CAZA</externallink>
-<fanart>http://i.imgur.com/VPHlenC.jpg</fanart>
+<fanart>http://s32.postimg.org/qjbu4kzk5/CASAS_RUBIAS.jpg</fanart>
 <info>Canais TAUROMAQUIA E PESCA</info>
 </channel>
 
+<channel>
+<name>[B][COLOR deepskyblue]ISTO SO VIDEO[/B][/COLOR]</name>
+<thumbnail>http://s32.postimg.org/ysnpiztad/riratecair.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/inspirationlinks/inspiration/novo-adoon/HUMOR</externallink>
+<fanart>http://s32.postimg.org/4qj4kgrut/Vamos_Rir.jpg</fanart>
+<info>Canais de Humor</info>
+</channel>
 
 
