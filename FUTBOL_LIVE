@@ -20,6 +20,12 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/727.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/924.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
