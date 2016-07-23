@@ -53,7 +53,7 @@
 
 <item>
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] MOVISTAR GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/1281.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1342.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 <item>
@@ -61,10 +61,15 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2182.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] MOVISTAR GP[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.42.220:8000/ncxGSWShRz5/NJCVhLk302p/2496.ch&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]MOVISTAR F1[/B][/COLOR] [UK]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/1661.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1343.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 <item>
