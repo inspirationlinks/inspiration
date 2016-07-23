@@ -1,0 +1,41 @@
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]CANAL+ Toros[/B][/COLOR] [rtmp]</title>
+<link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]CANAL Toros[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/385.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]IBERALIA[/B][/COLOR] OFF/ON</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://81.38.6.23:4022/udp/239.0.5.6:8208&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]CAZA E PESCA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/2974.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]CAZA E PESCA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/65.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]CACAVISION[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ftvnext.stmteam.org:8000/live/Ent4n24o4C/veSZsH7ik9/27.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] @ [/COLOR]***[/COLOR] [COLOR white]Fish Tv[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://tv-msn.com/fishtv2.php</sportsdevil>
+<referer>http://tv-msn.com/</referer>
+<thumbnail>http://www.goltvaovivo.org/wp-content/uploads/2016/02/fishtv.png</thumbnail>
+</item>
