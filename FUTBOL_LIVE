@@ -149,6 +149,74 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] PREMIERE CLUBES[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/p402/index.m3u8?token=f04090e7d8fd2edac8a130bf2e0b3539-1469395883-108835-60106-</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5a/Premiere_fc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] SPORTV[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] SPORTV[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/e201/index.m3u8?token=1e6b3b9ad49a6f276c45e047f4e9bd33-1469395883-108835-60106-</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] SPORTV 2[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/SportTV2/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] SPORTV 3[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Sporttv3/index.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-enCRw0jlLvU/VcKcIN9EZeI/AAAAAAAAk6I/ovmuFSIPEfY/s1600/sportvlogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] FOX SPORT[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/e209/index.m3u8?token=8de9cbc016dfefd3a23d695d5593ec2b-1469395883-108835-60106-</link>
+<thumbnail>http://i.imgur.com/LptthJA.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] FOX SPORT 2[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/FoxSport2/index.m3u8</link>
+<thumbnail>http://i.imgur.com/LptthJA.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] ESPN BRASIL[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/ESPNbr/index.m3u8</link>
+<thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] ESPN[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/e205/index.m3u8?token=be25f479b7912ce8c9c876ab24503f67-1469395883-108835-60106-</link>
+<thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] ESPN+[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/e206/index.m3u8?token=9ef49853d9d2b2185be360772b89b038-1469395883-108835-60106-</link>
+<thumbnail>http://s20.postimg.org/uwr0s4kgd/ESPN.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] PREMIERE CLUBES[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Premiereclubes/index.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5a/Premiere_fc.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] PREMIERE[/B][/COLOR] [BR]</title>
+<link>http://playmovetv.from-id.com:80/Premiere2/index.m3u8</link>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/5/5a/Premiere_fc.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Digi Sport1[/B][/COLOR] [LIGA NOS]</title>
 <link>http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/mldejl0qt/digi_sport_cz.png</thumbnail>
@@ -161,6 +229,11 @@
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Digi Sport3[/B][/COLOR] [LIGA NOS]</title>
 <link>http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8</link>
+<thumbnail>http://s32.postimg.org/mldejl0qt/digi_sport_cz.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Digi Sport3[/B][/COLOR] [LIGA NOS]</title>
+<link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/mldejl0qt/digi_sport_cz.png</thumbnail>
 </item>
 
