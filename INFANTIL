@@ -49,11 +49,54 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.165.181:8000/live/mBIahNoi43/Y4CmLTrqJ3/37.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]Disneyjr[/B][/COLOR] [BR] </title>
+<link>http://ovh.from-al.com:80/i454/index.m3u8?token=83299ed910a46a03785543b4856288bc-1469395883-108835-60106-</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK[/B][/COLOR] [BR] </title>
+<link>http://ovh.from-al.com:80/i452/index.m3u8?token=e395cd21e484f713f2b7a0b0070b69b5-1469395883-108835-60106-</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DisneyXD[/B][/COLOR] [BR] </title>
+<link>http://ovh.from-al.com:80/i455/index.m3u8?token=623d3399676b14706ad6887311b5b643-1469395883-108835-60106-</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY CHANNEL[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/i456/index.m3u8?token=8bdf917df1692c3f46c42a13c84214e7-1469395883-108835-60106-</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]NICKELODEON[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/i453/index.m3u8?token=ef0d5c6fc59cac6679c6fe816362054d-1469395883-108835-60106-</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]Discoverykids[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/i458/index.m3u8?token=77ca274df5632f33a491b7a2f00fe4e5-1469395883-108835-60106-</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]nickjr[/B][/COLOR] [BR]</title>
+<link>http://ovh.from-al.com:80/i457/index.m3u8?token=bd84fd69b0e2f69cc72545dd95057d9d-1469395883-108835-60106-</link>
+<thumbnail>http://www.cuddlycollectibles.com/Backgrounds/image/nick_jr/nick-jr.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]Boomerang [/B][/COLOR][BR]</title>
+<link>http://ovh.from-al.com:80/i459/index.m3u8?token=2ba90f0c6286813fa39247cb39bf06de-1469395883-108835-60106-</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png</thumbnail>
 </item>
 
 
@@ -72,6 +115,12 @@
 <link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
 <thumbnail>http://s32.postimg.org/qxr47qpl1/tvescola.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DUCK TV[/B][/COLOR] [BR] </title>
+<link>http://213.81.153.243/live003/channel021_p5.stream/DVR.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yxwqqx1444833185.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]TOONAMI[/B][/COLOR] [USA] </title>
 <link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
