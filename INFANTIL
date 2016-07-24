@@ -12,6 +12,12 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]BABY TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2311.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]BABY TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/3242.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
 </item>
@@ -21,12 +27,23 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CANAL PANDA[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2306.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]PANDA BiGGS [/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]PANDA BiGGS [/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2295.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]NICKELODEON[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;name=INSPIR@TION</link>
@@ -37,6 +54,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.165.181:8000/live/mBIahNoi43/Y4CmLTrqJ3/56.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]JIM JAM[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2300.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY CHANNEL[/B][/COLOR]</title>
@@ -49,6 +72,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.165.181:8000/live/mBIahNoi43/Y4CmLTrqJ3/37.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY JUNIOR[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2302.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;name=INSPIR@TION</link>
