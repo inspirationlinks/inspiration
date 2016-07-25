@@ -2,13 +2,13 @@
 
 
 <item>
-<title>[COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/COLOR][COLOR white] PORTUGAL [/COLOR][COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/I][/B][/COLOR]</title>
+<title>[COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/COLOR][COLOR white] PORTUGAL [/COLOR][COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/B][/COLOR]</title>
 <link>http//fui.me</link>
 <thumbnail>http://s32.postimg.org/9gbzrk2dh/image.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR red] WEATHER CHANNEL[/COLOR] Pedido (Jony usuario)</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR red] WEATHER CHANNEL[/I][/B][/COLOR] Pedido (Jony usuario)</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://s32.postimg.org/wwca9x3lx/image.png</thumbnail>
 </item>
@@ -18,7 +18,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] RTP 1 [/I][/B][/COLOR] [Sport Devil] </title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] RTP 1 [/I][/B][/COLOR] [Sport Devil] </title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
 <referer>http://www.rtp.pt/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
@@ -135,7 +135,7 @@
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Económico Tv[/I][/B][/COLOR][/COLOR]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Económico Tv[/I][/B][/COLOR]</title>
 <link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png</thumbnail>
 </item>
