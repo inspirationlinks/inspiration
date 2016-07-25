@@ -47,11 +47,6 @@
 
 <item>
 <title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] Bola TV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.165.181:8000/live/mBIahNoi43/Y4CmLTrqJ3/13.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] Bola TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.218.171:8000/live/karimos.sat/skype/2034.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
@@ -91,7 +86,6 @@ http://149.202.218.171:8000/live/karimos.sat/skype/2034.ts
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2273.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
-http://94.23.193.185:8000/mmans100/mmans100/2273
 
 <item>
 <title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] SPORTING TV[/B][/COLOR] [Sport Devil] </title>
