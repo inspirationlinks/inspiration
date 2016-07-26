@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]JAMI[/B][/COLOR] [Séries Infantis]</title>
+<fanart>http://s32.postimg.org/nzdzwooat/fanart.jpg</fanart>
+<thumbnail>http://s32.postimg.org/jozc13j7p/icon.png</thumbnail>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.jami/</jsonrpc>
+</item>
+
+<item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]SIC K[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1376.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png</thumbnail>
@@ -156,4 +164,3 @@
 <link>http://www.streamwebtown.com/player/sat7/kids/stream.m3u8</link>
 <thumbnail>http://s32.postimg.org/xeorjabgl/KIDS.png</thumbnail>
 </item>
-
