@@ -90,7 +90,7 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK[/B][/COLOR] [BR] </title>
-<link>http://ovh.from-al.com:80/i452/index.m3u8?token=e395cd21e484f713f2b7a0b0070b69b5-1469395883-108835-60106-</link>
+<link>http://213.163.65.9:8081/live/cartoonk/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 <item>
@@ -100,7 +100,7 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY CHANNEL[/B][/COLOR] [BR]</title>
-<link>http://ovh.from-al.com:80/i456/index.m3u8?token=8bdf917df1692c3f46c42a13c84214e7-1469395883-108835-60106-</link>
+<link>http://31.204.152.6:8081/live/disney/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
 <item>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]Discoverykids[/B][/COLOR] [BR]</title>
-<link>http://ovh.from-al.com:80/i458/index.m3u8?token=77ca274df5632f33a491b7a2f00fe4e5-1469395883-108835-60106-</link>
+<link>http://31.204.152.6:8081/live/discoverykids/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DiscoveryKidsLatin_2009.svg/1127px-DiscoveryKidsLatin_2009.svg.png</thumbnail>
 </item>
 <item>
