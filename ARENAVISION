@@ -9,21 +9,6 @@
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
 </item>
 
-<item>                        
-<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/COLOR][/B]</title>                                               
-<link>http://fui.me</link>                      
-<jsonrpc>plugin://plugin.video.p2psport/?mode=av_schedule</jsonrpc>
-<thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
-<fanart></fanart>                
-</item>
-
-<item>
-<title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ARENAVISION[/COLOR][COLOR red] P2P [/B][/COLOR]</title>
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.p2p-streams/?mode=401&amp;name=[B][COLOR red]Agenda/Schedule[/COLOR]&amp;parser=arenavision&amp;parserfunction=arenavision_schedule&amp;url=http://www.arenavision.in/agenda</jsonrpc>
-<thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR lime][B]***[COLOR red] •AV• [/COLOR]***[/COLOR] [COLOR white]ZemTV Shani[/COLOR][COLOR red] LISTAS IPTV TEMP[/B][/COLOR]</title>
 <link>http://fui.me</link>
