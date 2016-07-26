@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] SIC NOTICIAS[/B][/COLOR]</title>
+<title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] SIC Noticias[/B][/COLOR]</title>
 <link>http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[COLOR lime][B]|•|[COLOR red] INF• [/COLOR]|•|[/COLOR][COLOR white] CMTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.165.181:8000/live/mBIahNoi43/Y4CmLTrqJ3/26.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
