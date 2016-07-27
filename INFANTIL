@@ -172,5 +172,5 @@
 <fanart>http://s32.postimg.org/nzdzwooat/fanart.jpg</fanart>
 <thumbnail>http://s32.postimg.org/jozc13j7p/icon.png</thumbnail>
 <link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.docspt/</jsonrpc>
+<jsonrpc>plugin.video.pt.docs.hd/</jsonrpc>
 </item>
