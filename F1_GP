@@ -26,6 +26,12 @@
 </item>
 <item>
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/1631.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/928.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
@@ -79,6 +85,22 @@
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1237.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]Sky Sports F1[/B][/COLOR] [Sport Devil]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-formula-1-live-streaming-1.html</sportsdevil>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+<fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
+<referer>referer=http://www.ibrod.tv/skysports2.html</referer>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]Bt Sport 2[/B][/COLOR] [Sport Devil]</title>
+<sportsdevil>http://mamahd.com/live/watch-bt-sport-2-live-stream-1.html</sportsdevil>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png</thumbnail>
+<fanart>http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png</fanart>
+<referer>http://livetvweb.net/</referer>
 </item>
 
 <item>
