@@ -12,9 +12,10 @@
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 
+
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.202.164:88/live/MiMo/MiMo/64.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es3/es3/878.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 
@@ -32,12 +33,6 @@
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/727.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV1[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/924.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 
@@ -90,12 +85,6 @@
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2280.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] BTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/1173.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
 </item>
 
@@ -261,7 +250,7 @@
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] SKY SPORT 1[/B][/COLOR] [LIGA INGLESA]</title>
 <link>http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8</link>
-<thumbnail>http://www.markettiers4dc.com/images/logos/sky-sports-logo.png</thumbnail>
+<thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 </item>
 
 <item>
