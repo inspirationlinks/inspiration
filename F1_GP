@@ -29,13 +29,6 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/1631.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
-
-<item>
-<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] Sportv5[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.69.44:8000/live/Manuel/Coke/928.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-
 <item>  
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR][COLOR white] Sportv5 [/B][/COLOR] SD</title>
 <link>rtmp://31.220.0.187/privatestream/o768uik78?keys=UDeLGUfHQnQSOawUZ1FTuw&keyt=1466517039 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=o768uik78&width=630&height=510</link>
@@ -72,18 +65,6 @@
 <item>
 <title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]MOVISTAR F1[/B][/COLOR] [UK]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1343.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1818.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]***[COLOR red] F1•GP [/COLOR]***[/COLOR] [COLOR white]SKY SPORT F1[/B][/COLOR] [UK]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://df1-premiere.zapto.org:8000/live/Manuel/Coke/1237.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
