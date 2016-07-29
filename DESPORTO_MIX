@@ -165,9 +165,9 @@
 <thumbnail>http://s32.postimg.org/f68j9p3t1/iMixan.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white] TELEKANAL[/B][/COLOR] [RU]</title>
-<link>http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8?sd=10&rebase=on</link>
-<thumbnail></thumbnail>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white] ESPN[/B][/COLOR] [USA]</title>
+<link>http://80.80.160.168/live/6/live.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png</thumbnail>
 </item>
 
 <item>
@@ -252,13 +252,42 @@
 <link>rtmp://216.185.103.158/live2/chthaipremier11</link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  Sharjah Sports[/B][/COLOR] [AR]</title>
+<link>rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2cBJPryRUXK1zdLkLgPoCHS5RMAQv8y7jAzph8ck_-ii2yr24g-myw</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  BIGPOND SPORTS[/B][/COLOR] [AUS]</title>
 <link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high</link>
 <thumbnail></thumbnail>
 </item>
+
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  HI SPORT[/B][/COLOR] [AUS]</title>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  Dubai Sports3[/B][/COLOR] [AR]</title>
+<link>http://38.99.146.38:7777/DubaiSports_HD.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  Alriadia Sport[/B][/COLOR] [AR]</title>
+<link>http://38.99.146.38:7777/Arryadia_HD.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  Abu Dhabi Sports[/B][/COLOR] [AR]</title>
+<link>http://38.99.146.38:7777/ADSport_HD.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  Abu Dhabi Emirates[/B][/COLOR] [AR]</title>
+<link>http://38.99.146.38:7777/ADEmirates_HD.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]  HI SPORT[/B][/COLOR] </title>
 <link>http://203.151.87.82:9000/udp/239.101.1.6:1234</link>
 <thumbnail></thumbnail>
 </item>
