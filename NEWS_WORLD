@@ -99,6 +99,16 @@
 <link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</link>
 <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/SKY-TG24.jpeg</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Rai News 24[/I][/B][/COLOR]</title>
+<link>http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8</link>
+<thumbnail>http://www.livenewsbox.com/wp-content/uploads/2015/03/Rai-News-24.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Rai News 24[/I][/B][/COLOR]</title>
+<link>http://b2.stream8.rai.it/live/smil%3arnews1_android.smil/playlist.m3u8?auth=daEbCcLd2aZdEaLbHcVcBbhaQdjb7cqc7a8-bwOLFE-c0-IlyxvEo&aifp=V001</link>
+<thumbnail>http://www.livenewsbox.com/wp-content/uploads/2015/03/Rai-News-24.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Al Jazeera Internacional[/I][/B][/COLOR]</title>
