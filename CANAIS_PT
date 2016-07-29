@@ -185,21 +185,21 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/vqxvyr1433943623.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]FOX Crime[/I][/B][/COLOR] [Sport Devil]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX Crime[/I][/B][/COLOR] [Sport Devil]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=foxcrime</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/p9ioqj7yd/fox_crime.png</thumbnail>
 </item>
  
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]FOX Movies[/I][/B][/COLOR] [Sport Devil]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX Movies[/I][/B][/COLOR] [Sport Devil]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=foxmovies</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/45qpkkmpx/foxmovies.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]Hollywood[/I][/B][/COLOR] [Sport Devil]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Hollywood[/I][/B][/COLOR] [Sport Devil]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=hollywood</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png</thumbnail>
@@ -208,7 +208,7 @@
 
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]Discovery[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Discovery[/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -224,7 +224,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]História[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] História[/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -240,7 +240,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]Nat Geo[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Nat Geo[/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -257,7 +257,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]Odisseia[/I][/B][/COLOR]</title>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Odisseia[/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex><name>ip</name>
 <expres>redirect=(.*)</expres>
