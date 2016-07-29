@@ -26,6 +26,12 @@
 <link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>
 <thumbnail>http://tv.orange.es/UpImages/2186/horas_22965487acf399c66b3d23159.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Cable Noticias 24[/I][/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2000px-Cable_Noticias_logo.svg.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Russia Today[/I][/B][/COLOR]</title>
@@ -38,12 +44,41 @@
 <link>http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS[/I][/B][/COLOR]</title>
+<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS 2[/I][/B][/COLOR]</title>
+<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] ABC News[/I][/B][/COLOR]</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAVWc/JUPzZ3GjvBQ/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] El Pais News[/I][/B][/COLOR]</title>
+<link>http://elpaishls-i.akamaihd.net/hls/live/203573/elpais24x7iosHD/index.m3u8</link>
+<thumbnail>http://iberosphere.com/wp-content/uploads/2012/10/el-pais.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] CNN Internacional[/I][/B][/COLOR]</title>
 <link>http://149.255.152.110/cnn/index.m3u8</link>
 <thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] BBC News[/I][/B][/COLOR]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<thumbnail>http://rips.in/images/cnnint.gif</thumbnail>
+</item>
+
+
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Sky News[/I][/B][/COLOR]</title>
 <link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
