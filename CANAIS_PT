@@ -208,23 +208,6 @@
 
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]DISCOVERY [/I][/B][/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/live/ playpath=discovery70?id=77970$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/ live=true timeout=17</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.embeducaster.com:1935/loadbalancer?texto</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.embeducaster.com/embedplayer/discovery70/1/650/500
-</page>
-<referer>http://www.embeducaster.com</referer>
-<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg</thumbnail>
-</regex>
-
-<item>
 <title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]Discovery[/I][/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
@@ -236,6 +219,56 @@
 <page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page>
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]História[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex><regex>
+<name>m3u8</name><expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rtyuwx1437950475.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]Nat Geo[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex><regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/natgeoax/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rquqpy1436893327.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime]magellan>[/COLOR][COLOR=yellow][B][I]Odisseia[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex><name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
 </regex>
 </item>
