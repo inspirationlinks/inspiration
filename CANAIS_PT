@@ -103,6 +103,13 @@
 </item>
 
 <item>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI REALITY[/I][/B][/COLOR]</title>
+<link>http://206.190.129.28:8088/live/TviReality2/playlist.m3u8?id=22428&pk=e2c9a8585da2a1b8b652dece34cfd798813628681b0453762477d22b70c4c18a</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI REALITY [/I][/B][/COLOR]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
 <regex>
@@ -196,4 +203,39 @@
 <sportsdevil>http://www.desportonline.com/index.php?canal=hollywood</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]DISCOVERY [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=discovery70?id=77970$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/ live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer?texto</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/discovery70/1/650/500
+</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg</thumbnail>
+</regex>
+
+<item>
+<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]Discovery[/I][/B][/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex><regex>
+<name>m3u8</name><expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vwuxrp1433941282.png/medium</thumbnail>
+</regex>
 </item>
