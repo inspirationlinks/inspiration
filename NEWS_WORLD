@@ -126,6 +126,16 @@
 <link>http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/SunTVNews.png/220px-SunTVNews.png</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] CCTV 4[/I][/B][/COLOR]</title>
+<link>http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/50/CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] CCTV 13 News[/I][/B][/COLOR]</title>
+<link>http://183.207.249.6/PLTV/3/224/3221225560/index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/50/CCTV-4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Reuters News[/I][/B][/COLOR]</title>
