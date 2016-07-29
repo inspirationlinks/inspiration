@@ -87,12 +87,19 @@
 
 
 <item>
-<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK[/B][/COLOR] [BR] </title>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK SD[/B][/COLOR] [BR] </title>
 <link>http://213.163.65.9:8081/live/cartoonk/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY CHANNEL[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]CARTOON NETWORK SD[/B][/COLOR] [BR] </title>
+<link>http://31.204.152.6:8081/live/cartoonk/playlist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] Kids [/COLOR]***[/COLOR] [COLOR white]DISNEY CHANNEL SD[/B][/COLOR] [BR]</title>
 <link>http://31.204.152.6:8081/live/disney/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
