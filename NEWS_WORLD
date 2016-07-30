@@ -37,41 +37,6 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2000px-Cable_Noticias_logo.svg.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Russia Today[/I][/B][/COLOR]</title>
-<link>http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/inspirationlinks.m3u8</link>
-<thumbnail>https://lh6.googleusercontent.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAJQ/eLqpEclFajI/s0-c-k-no-ns/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] RT Documentary[/I][/B][/COLOR]</title>
-<link>http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS[/I][/B][/COLOR]</title>
-<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
-</item>
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS 2[/I][/B][/COLOR]</title>
-<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on</link>
-<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] ABC News[/I][/B][/COLOR]</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8</link>
-<thumbnail>https://lh4.googleusercontent.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAVWc/JUPzZ3GjvBQ/s0-c-k-no-ns/photo.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] El Pais News[/I][/B][/COLOR]</title>
-<link>http://elpaishls-i.akamaihd.net/hls/live/203573/elpais24x7iosHD/index.m3u8</link>
-<thumbnail>http://iberosphere.com/wp-content/uploads/2012/10/el-pais.jpg</thumbnail>
-</item>
-
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] CNN Internacional[/I][/B][/COLOR]</title>
 <link>http://149.255.152.110/cnn/index.m3u8</link>
@@ -82,7 +47,6 @@
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
 <thumbnail>https://lh5.googleusercontent.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAACfmk/OiUv-27nKpE/s0-c-k-no-ns/photo.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Sky News[/I][/B][/COLOR]</title>
@@ -117,6 +81,36 @@
 </item>
 
 <item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Russia Today[/I][/B][/COLOR]</title>
+<link>http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/inspirationlinks.m3u8</link>
+<thumbnail>https://lh6.googleusercontent.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAJQ/eLqpEclFajI/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] RT Documentary[/I][/B][/COLOR]</title>
+<link>http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] NHK WORLD TV[/I][/B][/COLOR]</title>
+<link>http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8</link>
+<thumbnail>http://www.bcctvtagbilaran.com/wp-content/uploads/2013/01/34-nhk-world.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] ABC News[/I][/B][/COLOR]</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAVWc/JUPzZ3GjvBQ/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] El Pais News[/I][/B][/COLOR]</title>
+<link>http://elpaishls-i.akamaihd.net/hls/live/203573/elpais24x7iosHD/index.m3u8</link>
+<thumbnail>http://iberosphere.com/wp-content/uploads/2012/10/el-pais.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] CTV News[/I][/B][/COLOR]</title>
 <link>http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8</link>
 <thumbnail>http://www.ctvnews.ca/polopoly_fs/1.846393.1459491012!/httpImage/image.jpeg_gen/derivatives/landscape_960/image.jpeg</thumbnail>
@@ -141,6 +135,17 @@
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Reuters News[/I][/B][/COLOR]</title>
 <link>http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8</link>
 <thumbnail>http://www.thebaron.info/assets/logos/reuters-tv-banner.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS[/I][/B][/COLOR]</title>
+<link>http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] C-SPAN NEWS 2[/I][/B][/COLOR]</title>
+<link>http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://pbs.twimg.com/profile_images/564508766926696448/h5NqLPhE_400x400.jpeg</thumbnail>
 </item>
 
 <item>
