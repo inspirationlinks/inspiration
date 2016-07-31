@@ -90,7 +90,11 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/857.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] Sport TV2[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/3510.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
 
 
 <item>
@@ -142,6 +146,24 @@
 <thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail> 
 </regex>
 </item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] BEIN SPORT[/B][/COLOR] [ESP]</title>
+<link>https://video10-atl.streamup.com/app/biophobiasdsatas-stream_aac/chunklist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] BEIN SPORT[/B][/COLOR] [ESP]</title>
+<link>rtmp://www1.iguide.to/iguide playpath=6st8gafx637stpb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=600&height=450&channel=34134&autoplay=true token=#ed%h0#w18623jsda6523lDGD</link>
+<thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] CANAL+[/B][/COLOR] [POL]</title>
+<link>rtmp://app.itivi.pl/live/ID08</link>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]***[COLOR red] FUT• [/COLOR]***[/COLOR][COLOR white] NBCSN[/COLOR] [Sport Devil][/B] [USA]</title>
@@ -246,4 +268,5 @@
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
+
 
