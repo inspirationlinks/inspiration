@@ -187,21 +187,6 @@
 <thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B]•PT•[/B][/COLOR] PT_VEVO_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/424.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
-</item>
-<item>
-<title>[COLOR blue][B]•PT•[/B][/COLOR] PT_VEVO_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1175.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
-</item>
-<item>
-<title>[COLOR blue][B]•PT•[/B][/COLOR] PT_VEVO_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1174.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
-</item>
-<item>
 <title>[COLOR blue][B]•PT•[/B][/COLOR] PT_RTP_ACORES</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/805.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
@@ -691,11 +676,6 @@
 <thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SPORT TV AMERICA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2477.ts&amp;name=INSPIR@TION&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
-</item>
-<item>
 <title>[COLOR cyan][B]||•PT•||[/B][/COLOR] Sporting TV HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
@@ -772,4 +752,114 @@
 </item>
 
 
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SIC_NOTICIAS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2366.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] EUROSPORT1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2367.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] NICKELODEON</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2363.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] DISNEY_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2368.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] BABY_TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2370.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SIC_RADICAL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2371.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVCine1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2302.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVCine2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2303.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVCine3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2304.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVCine4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2305.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVCseries</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2306.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] RTP_Madeira</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2318.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] RTP_Informacao</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2319.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] RTP2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2320.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] Fox_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2311.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SPORT_TV1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2325.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] Sporting</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2299.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] Canal_Porto</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2315.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] TVI</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2317.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2316.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] SyFy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2322.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR cyan][B]||•PT•||[/B][/COLOR] Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2324.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/m0ddoaltx/portugal.png</thumbnail>
+</item>
 
