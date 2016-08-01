@@ -11,6 +11,12 @@
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] TEN Golf[/COLOR] [USA][/B]</title>
+<link>http://149.202.207.8:8080/NTSteein-gf/counter1/index.m3u8</link>
+<thumbnail>https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/ten-golf-large.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] VIASAT GOLF[/COLOR] [KOR][/B]</title>
