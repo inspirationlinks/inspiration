@@ -162,13 +162,6 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] NBCSN[/COLOR] [Sport Devil] [USA][/B]</title>
-<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
-<referer>http://hdfree.tv/tvlogos.html</referer>
-<thumbnail>http://s32.postimg.org/slune9ekl/NBCSN.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 1[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://mamahd.com/live/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
 <thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png</thumbnail>
@@ -251,6 +244,75 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 1[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchFutbol1.m3u8</link>
+<thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 2[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchFutbol2.m3u8</link>
+<thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 3[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchFutbol3.m3u8</link>
+<thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Sport[/COLOR] [RU][/B]</title>
+<link>http://176.112.96.17:8000/play/a01j</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Sport[/COLOR] [RU][/B]</title>
+<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/04/plst.m3u8</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Golf[/COLOR] [RU][/B]</title>
+<link>http://er-cdn.ertelecom.ru/os/video/hls/root.m3u8?session=PjeT7iozsvuGoiYpFyE4urtmCxn547FAn6ZvKPj5</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Наш Футбол[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/NashFutbol.m3u8</link>
+<thumbnail>http://ntvplus.ru/files/2016/02/18/913631.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Наш Спорт[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchNashSport.m3u8</link>
+<thumbnail>http://ntvplus.ru/files/2016/02/18/913631.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Боец[/COLOR] [RU][/B]</title>
+<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
+<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! TB[/COLOR] [RU][/B]</title>
+<link>http://176.112.96.17:8000/play/a003</link>
+<thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! TB[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchTV.m3u8</link>
+<thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! Арена[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchArena.m3u8</link>
+<thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! Игра[/COLOR] [RU][/B]</title>
+<link>http://www.sport24.pw/hls/MatchIgra.m3u8</link>
+<thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SKY SPORT 1[/COLOR] [LIGA INGLESA][/B]</title>
 <link>http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
@@ -285,3 +347,9 @@
 <thumbnail>http://s32.postimg.org/atgazpqx1/photo.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] NBCSN[/COLOR] [Sport Devil] [USA][/B]</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/tvlogos.html</referer>
+<thumbnail>http://s32.postimg.org/slune9ekl/NBCSN.png</thumbnail>
+</item>
