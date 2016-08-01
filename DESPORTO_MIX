@@ -3,12 +3,12 @@
 
 
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] Super Tennis[/B][/COLOR] [IT]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Super Tennis[/B][/COLOR] [IT]</title>
 <link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/helt65d6t/Supertennis.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] RAI Sport 1[/B][/COLOR] [IT]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  RAI Sport 1[/B][/COLOR] [IT]</title>
 <link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8</link>
 <thumbnail>http://s32.postimg.org/7vc4copol/icon175x175.png</thumbnail>
 </item>
@@ -111,17 +111,17 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR] [COLOR white]Real Madrid[/B][/COLOR]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Real Madrid[/B][/COLOR]</title>
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] POKER CENTRAL[/COLOR][/B]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  POKER CENTRAL[/COLOR][/B]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] POKER 2[/COLOR][/B]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  POKER 2[/COLOR][/B]</title>
 <link>http://veetle.com/index.php/hls/streamMbrfast/4c1b0ef0a2122_/stream.m3u8</link>
 <thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
 </item>
@@ -132,34 +132,34 @@
 <thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] Ф SPORT[/B][/COLOR] [OFF]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  Ф SPORT[/B][/COLOR] [OFF]</title>
 <link>http://iptv.klfree.cz:8014</link>
 <thumbnail>http://www.apk20.com/image/icon-131779</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] arena SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  arena SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
 <thumbnail>http://s32.postimg.org/ct6i2jgcl/arenaspor1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://85.25.43.23:8080/hls/helloszia2.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  SPORT2[/B][/COLOR] [CHE]</title>
 <link>http://85.25.43.23:8080/hls/helloszia3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]***[COLOR red] Mix [/COLOR]***[/COLOR][COLOR white] Nova SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white]  Nova SPORT1[/B][/COLOR] [CHE]</title>
 <link>http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/ws3d1rfr9/image.png</thumbnail>
 </item>
