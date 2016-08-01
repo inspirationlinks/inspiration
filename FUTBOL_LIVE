@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ARENAVISION.IN[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
+<thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
+<fanart>http://arenavision.in/sites/default/files/logo_av2015.png</fanart>
+</item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] AV 9[/COLOR] [PLEXUL][/B]</title>
-<link>plugin://program.plexus/?url=acestream://0d6999370138033581c37bf2467aa7cb74be3345&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SHANI SPORTS [/B][/COLOR]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
+<thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
+<fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] AV 10[/COLOR] [PLEXUL][/B]</title>
-<link>plugin://program.plexus/?url=acestream://a7e56806221fe255e286605f073fbd8c789458e7&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
-</item>
+
+
+
 
 
 <item>
@@ -267,11 +274,6 @@
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Sport[/COLOR] [RU][/B]</title>
 <link>http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/04/plst.m3u8</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Golf[/COLOR] [RU][/B]</title>
-<link>http://er-cdn.ertelecom.ru/os/video/hls/root.m3u8?session=PjeT7iozsvuGoiYpFyE4urtmCxn547FAn6ZvKPj5</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
 </item>
 <item>
