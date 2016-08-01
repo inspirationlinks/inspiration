@@ -8,13 +8,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SIC[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2276.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.fremantlemedia.pt/sites/default/files/pictures/Logos/small/_sic.png</thumbnail>
-</item>
-
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SIC Noticias [/B][/COLOR]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
