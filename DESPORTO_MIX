@@ -17,52 +17,52 @@
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] EUROSPORT 1[/COLOR] [Sport Devil][/B] |PT|</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=eurosport</sportsdevil>
 <referer>http://www.estadiofutebol.com/</referer>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail> 
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] EUROSPORT 2[/COLOR] [Sport Devil][/B] |PT|</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=eurosport2</sportsdevil>
 <referer>http://www.estadiofutebol.com/</referer>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail> 
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail> 
 </item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR] |FR|</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR] |UK|</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR]</title>
 <link>http://81.7.13.162/hls/ss4/index.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
 <link>http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |SER|</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |RU|</title>
 <link>http://www.sport24.pw/hls/Eurosport2.m3u8</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;amp;url=XXXXX&amp;amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://s28.postimg.org/yd58ul38d/euro.jpg</thumbnail>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 
 <item>
@@ -80,10 +80,21 @@
 <link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
 <thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Real Madrid[/B][/COLOR]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] TycSPORTS [/B][/COLOR] [MEX]</title>
 <link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/z2xi9ckg5/Tyc_SPORTS.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] 360 TV [/B][/COLOR] [COL]</title>
+<link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_7/gallery_11214_7_64790.png</thumbnail>
 </item>
 
 <item>
@@ -110,11 +121,6 @@
 <thumbnail>http://s20.postimg.org/6t0raqvf1/Fox_Sport.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Real Madrid[/B][/COLOR]</title>
-<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
-<thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
-</item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] POKER CENTRAL[/COLOR][/B]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
