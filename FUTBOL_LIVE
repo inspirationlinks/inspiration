@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ARENAVISION.IN[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR gold] ARENAVISION.IN[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
@@ -9,7 +9,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SHANI SPORTS [/B][/COLOR]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR gold] SHANI SPORTS [/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
