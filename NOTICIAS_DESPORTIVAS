@@ -32,9 +32,9 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR] [Sport Devil] </title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
-<referer>http://www.liveflashplayer.net/</referer>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV [/COLOR][/B]</title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
@@ -43,7 +43,6 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2486.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
-http://149.202.218.171:8000/live/karimos.sat/skype/2034.ts
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B] [Sport Devil][/COLOR]</title>
@@ -78,12 +77,5 @@ http://149.202.218.171:8000/live/karimos.sat/skype/2034.ts
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SPORTING TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] TDP TELEDEPORTE[/B][/COLOR]</title>
-<link>http://rlu.ru/11dT6</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png</thumbnail>
 </item>
 
