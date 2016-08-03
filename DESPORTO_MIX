@@ -19,6 +19,7 @@
 <referer>http://www.estadiofutebol.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail> 
 </item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] EUROSPORT 2[/COLOR] [Sport Devil][/B] |PT|</title>
 <sportsdevil>http://www.estadiofutebol.com/embed.php?c=eurosport2</sportsdevil>
@@ -31,6 +32,12 @@
 <link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR] |FR|</title>
+<link>http://er-cdn.ertelecom.ru/os/video/hls/4f503ec0145d42ba5f427c449532b0d01d293c1d868982ce97a6c31ea256fdcf6d4e4b13c0f6dd2def16c9fcabb719a80e843a7665f01e445e562b06b23d3c23a9466f52e083605ccb1e47e973f8202a16606333eab1d867148b944bf6c36a7c74e76f117d0831368a88a9ae540f3a2e405ac327ae69e2f79bae3d521c5e06e775c74246f09e2b351bcd984aeced699307af95d954bfcb83c2a4b472b629a09c22e1877c69c81f4801763f51350c1e9523cc6e32852078be5c4a21c1d2ec9e57a08d94750df02d6a2e842fa9b32380d063f38a96e84455c39e0c05472ddce91c/playlist.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR] |UK|</title>
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
@@ -47,6 +54,12 @@
 <link>http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
+<link>http://84.43.207.130/eurosporthd2/eurosporthd2.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |SER|</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226600/04.m3u8</link>
