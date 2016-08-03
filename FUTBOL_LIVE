@@ -266,6 +266,14 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [Sport Devil] [/B]</title>
+<sportsdevil>http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html</sportsdevil>
+<thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
+<fanart>http://resources-pl.pulselive.com/ver/i/sprites/badges-50-sprite.png</fanart>
+<referer></referer>
+</item>
+
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport1[/COLOR] [LIGA NOS][/B]</title>
 <link>http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/mldejl0qt/digi_sport_cz.png</thumbnail>
@@ -284,17 +292,6 @@
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport4[/COLOR] [LIGA NOS][/B]</title>
 <link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/mldejl0qt/digi_sport_cz.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Diema Sport[/COLOR][/B]</title>
-<link>http://84.43.207.130/diemasport1hd/diemasport1hd.m3u8</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Diema Sport2[/COLOR][/B]</title>
-<link>http://84.43.207.130/diemasport2hd/diemasport2hd.m3u8</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/c8/Diema_Sport_HD_logo.png</thumbnail>
 </item>
 
 
@@ -399,20 +396,6 @@
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! Игра[/COLOR] [RU][/B]</title>
 <link>http://www.sport24.pw/hls/MatchIgra.m3u8</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SKY SPORT 1[/COLOR] [LIGA INGLESA][/B]</title>
-<link>http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8</link>
-<thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [Sport Devil] [/B]</title>
-<sportsdevil>http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html</sportsdevil>
-<thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
-<fanart>http://resources-pl.pulselive.com/ver/i/sprites/badges-50-sprite.png</fanart>
-<referer></referer>
 </item>
 
 <item>
