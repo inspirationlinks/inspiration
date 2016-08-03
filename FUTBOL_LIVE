@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime]****[COLOR cyan] JOGOS OLÍMPICOS [COLOR yellow]RIO 2016 [COLOR lime]****[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.youtube.com</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/29.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/31.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/30.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/34.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/19.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/21.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/20.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|RIO2016|[COLOR red]•[/COLOR]|[COLOR white] SPORT BR[/COLOR][/B]</title>
+<link>http://zial.dyndns.tv:8000/live/alex/alex/23.ts</link>
+<thumbnail>http://www.bestswim.com.br/wp-content/uploads/2016/07/rio-2016-2-2.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR gold] ARENAVISION.IN[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
