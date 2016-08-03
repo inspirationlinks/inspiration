@@ -70,21 +70,26 @@
 </item>
 <item> 
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
-<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 <item> 
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<sportsdevil>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</sportsdevil>
+<referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
-
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.europeu2016.net</referer>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 
