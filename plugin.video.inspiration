@@ -31,14 +31,6 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] DESPORTO MIX [/I][/B][/COLOR]</name>
-<thumbnail>http://s32.postimg.org/qzav4ecud/sports.png</thumbnail>
-<fanart>http://s32.postimg.org/ocqr9pw91/wallhaven_413591.jpg</fanart>
-<link>http://fui.me</link>
-<externallink>https://goo.gl/pj2GO5</externallink>
-</channel>
-
-<channel>
 <name>[COLOR lime][B][I] F1 | MOTOGP[/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/40iqz8685/motof1.png</thumbnail>
 <fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
@@ -55,6 +47,14 @@
 <info>Listas Canais DE VARIAS MODALIDDES DE KOMBATE</info>
 </channel>
 
+
+<channel>
+<name>[COLOR lime][B][I] DESPORTO MIX [/I][/B][/COLOR]</name>
+<thumbnail>http://s32.postimg.org/qzav4ecud/sports.png</thumbnail>
+<fanart>http://s32.postimg.org/ocqr9pw91/wallhaven_413591.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://goo.gl/pj2GO5</externallink>
+</channel>
 
 
 <channel>
