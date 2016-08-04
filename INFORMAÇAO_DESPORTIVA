@@ -45,6 +45,12 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1034.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/2411.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
