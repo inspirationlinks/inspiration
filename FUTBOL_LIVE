@@ -17,6 +17,11 @@
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] AV 7[/COLOR] RIO 2016 [PLEXUL][/B]</title>
+<link>plugin://program.plexus/?url=acestream://1b5e5bf7c53ec1968ee0f1c52aeb9c2e67ee2d37&amp;mode=1&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
 
 
 
@@ -28,7 +33,7 @@
 <thumbnail></thumbnail>
 </item>
 
-acestream://1b5e5bf7c53ec1968ee0f1c52aeb9c2e67ee2d37
+
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
@@ -40,6 +45,12 @@ acestream://1b5e5bf7c53ec1968ee0f1c52aeb9c2e67ee2d37
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/1742.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/878.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1601.ts&amp;name=INSPIR@TION</link>
@@ -268,6 +279,88 @@ acestream://1b5e5bf7c53ec1968ee0f1c52aeb9c2e67ee2d37
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 <fanart>http://resources-pl.pulselive.com/ver/i/sprites/badges-50-sprite.png</fanart>
 <referer></referer>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BAND SPORTS [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e204/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Band%20Sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 1 [/COLOR] [BR][/B]</title>
+<link>http://107.182.231.88:1935/liverepeater/ch01-1/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 1 [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e201/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 2 [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e202/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 3 [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e203/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ESPN BRASIL [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e207/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/ESPN-Brasil.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ESPN [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e205/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/ESPN.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ESPN+ [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e206/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] FOX SPORTS [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e209/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sport.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] FOX SPORTS 2 [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e210/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sport.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] OFF [/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/e208/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE</title>
+<link>http://Ovh.from-al.com/p401/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 2</title>
+<link>http://Ovh.from-al.com/p402/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 3</title>
+<link>http://Ovh.from-al.com/p403/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 4</title>
+<link>http://Ovh.from-al.com/p404/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
 </item>
 
 
