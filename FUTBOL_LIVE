@@ -213,30 +213,6 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BEIN SPORT[/COLOR] [ESP][/B]</title>
-<link>rtmp://www1.iguide.to:1935/iguide playpath=9eeg1imgppj6zy0 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1</link>
-<thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bein Sports ñ[/COLOR] [ESP][/B]</title>
-<link>http://ak-cred-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8?hdnts=$doregex[tok]</link>
-<regex>
-<name>tok</name>
-<expres>"token":"(.*?)"</expres>
-<page>https://api.fubo.tv/public/edgeauth/token</page>
-<referer>https://www.fubo.tv</referer>
-<thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail> 
-</regex>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] TDP [/B][/COLOR]</title>
-<link>http://rlu.ru/11dT6</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tve_teledeporte.png/640px-Tve_teledeporte.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Super Sporlig[/COLOR] [Varias ligas europeias][/B]</title>
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
