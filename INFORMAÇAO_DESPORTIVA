@@ -24,10 +24,15 @@
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/2441.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/CLIENTX484/3222065487/2078.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/771.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
@@ -36,6 +41,18 @@
 <sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
 <referer>http://www.tvdez.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/2411.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/781.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
 <item>
