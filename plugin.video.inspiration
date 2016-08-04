@@ -13,7 +13,7 @@
 
 
 <channel>
-<name>[COLOR lime][COLOR lime][B][I] LIGA [COLOR red]NOS[/COLOR][/COLOR][COLOR white] AND MORE ... [/COLOR][/I][/B][/COLOR]</name>
+<name>[COLOR lime][COLOR lime][B][I] TRANSMISSÕES [/COLOR][COLOR red] LIVE [/COLOR][/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/5q03w12th/logo7.png</thumbnail>
 <fanart>http://s32.postimg.org/lgz6ym4n9/LIVE.jpg</fanart>
 <link>http://fui.me</link>
@@ -49,11 +49,21 @@
 
 
 <channel>
+<name>[COLOR lime][B][I] GOLF[/I][/B][/COLOR]</name>
+<thumbnail>http://s32.postimg.org/xkdxtawzp/GOLF.png</thumbnail>
+<externallink>https://goo.gl/xlOvJN</externallink>
+<fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
+<info>Canais de GOLF</info>
+</channel>
+
+
+
+<channel>
 <name>[COLOR lime][B][I] DESPORTO MIX [/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/qzav4ecud/sports.png</thumbnail>
 <fanart>http://s32.postimg.org/ocqr9pw91/wallhaven_413591.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>https://goo.gl/pj2GO5</externallink>
+<externallink>https://goo.gl/8QJw0K</externallink>
 </channel>
 
 
