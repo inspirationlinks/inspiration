@@ -2,13 +2,6 @@
  
 <channels>
 
-<channel>
-<name>[COLOR lime][B][I] F1 | MOTOGP[/I][/B][/COLOR]</name>
-<thumbnail>http://s32.postimg.org/40iqz8685/motof1.png</thumbnail>
-<fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
-<externallink>https://goo.gl/lRKWWy</externallink>
-<info>Canais MOROTIZADOS</info>
-</channel>
 
 <channel>
 <name>[COLOR lime][B][I] GOLF[/I][/B][/COLOR]</name>
@@ -18,13 +11,7 @@
 <info>Canais de GOLF</info>
 </channel>
 
-<channel>
-<name>[COLOR lime][B][I] COMBATE[/I][/B][/COLOR]</name>
-<thumbnail>http://s32.postimg.org/t11p7sf45/kombate.png</thumbnail>
-<externallink>https://goo.gl/kFNGUG</externallink>
-<fanart>http://oboi-colibri.ru/wp-content/uploads/2014/06/boech.jpg</fanart>
-<info>Listas Canais DE VARIAS MODALIDDES DE KOMBATE</info>
-</channel>
+
 
 <channel>
 <name>[COLOR lime][B][I] SPORT MIX'S[/I][/B][/COLOR]</name>
