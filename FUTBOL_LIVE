@@ -36,6 +36,12 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/1742.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/CLIENTX484/3222065487/858.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
@@ -116,6 +122,11 @@
 <thumbnail>http://i.imgur.com/YYaNrpw.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://serv01.iptvplanet.eu:11118/live/thekodiguy/kodi1234/2412.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/szsrac005/btv.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR][/B]</title>
@@ -158,7 +169,7 @@
 
 
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] Internacional [COLOR lime]****[/COLOR][/B]</title>
+<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] INTERNACIONAL [COLOR lime]****[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.youtube.com</link>
 <thumbnail></thumbnail>
 </item>
