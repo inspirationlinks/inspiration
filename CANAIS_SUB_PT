@@ -58,9 +58,9 @@
 <info>Listas Canais de TV Temporários</info>
 </channel>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR cyan]TEST[/B][/COLOR]</title>
-<fanart>https://goo.gl/uh4apn</fanart>
+<channel>
+<name>DESENHOS</name>
 <thumbnail>https://goo.gl/NyItJI</thumbnail>
-<link>https://cld.pt/dl/download/6be16117-1c55-49dd-8680-8cf4fdf450bf/desenhos.txt</link>
-</item>
+<externallink>https://cld.pt/dl/download/6be16117-1c55-49dd-8680-8cf4fdf450bf/desenhos.txt</externallink>
+<fanart>https://goo.gl/uh4apn</fanart>
+</channel>
