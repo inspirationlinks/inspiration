@@ -312,6 +312,28 @@
 <thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 13[/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/p401/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 14[/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/p402/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 15[/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/p403/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 16[/COLOR] [BR][/B]</title>
+<link>http://Ovh.from-al.com/p404/index.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] ESPN BRASIL [/COLOR] [BR][/B]</title>
 <link>http://Ovh.from-al.com/e207/index.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/ESPN-Brasil.png</thumbnail>
@@ -342,28 +364,6 @@
 <link>http://Ovh.from-al.com/e208/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE</title>
-<link>http://Ovh.from-al.com/p401/index.m3u8</link>
-<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 2</title>
-<link>http://Ovh.from-al.com/p402/index.m3u8</link>
-<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 3</title>
-<link>http://Ovh.from-al.com/p403/index.m3u8</link>
-<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE 4</title>
-<link>http://Ovh.from-al.com/p404/index.m3u8</link>
-<thumbnail>http://iptv.codigolivre.net/logos/PFC.png</thumbnail>
-</item>
-
-
 
 
 
