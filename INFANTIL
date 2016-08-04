@@ -97,31 +97,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]DUCK TV[/B][/COLOR]</title>
-<link>http://213.81.153.243/live003/channel021_p5.stream/DVR.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yxwqqx1444833185.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]ANIME TV[/B][/COLOR] [MEX] </title>
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>
-<thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TA TE TI[/B][/COLOR] [ARG] </title>
-<link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase;=on</link>
-<thumbnail>http://s32.postimg.org/k8ulmsg05/ta_te_ti.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TV ESCOLA[/B][/COLOR] [BR] </title>
-<link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
-<thumbnail>http://s32.postimg.org/qxr47qpl1/tvescola.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CTV Kids[/B][/COLOR] [USA] </title>
-<link>http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv</link>
 <thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
 </item>
 
@@ -129,6 +108,12 @@
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TOONAMI[/B][/COLOR] [USA] </title>
 <link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TV ESCOLA[/B][/COLOR] [BR] </title>
+<link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
+<thumbnail>http://s32.postimg.org/qxr47qpl1/tvescola.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]SAT7 KIDS[/B][/COLOR]</title>
