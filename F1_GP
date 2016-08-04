@@ -7,11 +7,7 @@
 <link>plugin://program.plexus/?url=acestream://b5f5a2da44dd52fef6862f24cd213b838581a719&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] AV 12[/COLOR][/B] [PLEXUL]</title>
-<link>plugin://program.plexus/?url=acestream://66d56efa28a374c4635800001c88dd9f7243fb41&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
@@ -34,7 +30,7 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.74.123:8000/live/karimosat/IIWlu9KVhW/2508.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1247.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
@@ -45,7 +41,13 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR F1[/B][/COLOR] [UK]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR] [UK]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/278.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR F1[/B][/COLOR] [ESP]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1343.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
@@ -62,6 +64,12 @@
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 <fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
 <referer>referer=http://www.ibrod.tv/skysports2.html</referer>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] EXTREME SPORT[/B][/COLOR]</title>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226673/04.m3u8</link>
+<thumbnail>http://media.paperblog.fr/i/400/4008391/extreme-sport-channel-T-HULNBD.jpeg</thumbnail>
 </item>
 
 <item>
