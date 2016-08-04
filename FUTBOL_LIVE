@@ -308,6 +308,12 @@
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 3 [/COLOR] [BR][/B]</title>
+<link>http://107.182.231.88:1935/liverepeater/ch03-1/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORTV 3 [/COLOR] [BR][/B]</title>
 <link>http://Ovh.from-al.com/e203/index.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/SporTV.png</thumbnail>
 </item>
@@ -354,6 +360,12 @@
 <link>http://Ovh.from-al.com/e209/index.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sport.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] FOX SPORTS [/COLOR] [BR][/B]</title>
+<link>http://107.182.231.88:1935/liverepeater/ch13-1/live.m3u8</link>
+<thumbnail>http://iptv.codigolivre.net/logos/Fox%20Sport.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] FOX SPORTS 2 [/COLOR] [BR][/B]</title>
 <link>http://Ovh.from-al.com/e210/index.m3u8</link>
