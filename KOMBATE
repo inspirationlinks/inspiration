@@ -20,11 +20,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE #1[/COLOR][/B] [BR] </title>
-<link>http://Ovh.from-al.com/p411/index.m3u8</link>
-<thumbnail>http://iptv.codigolivre.net/logos/Premiere%20Combate.png</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE #2[/COLOR][/B] [BR] </title>
 <link>http://213.163.65.9:8081/live/combatez/playlist.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/Premiere%20Combate.png</thumbnail>
@@ -34,7 +29,6 @@
 <link>http://107.182.231.88:1935/liverepeater/ch15-1/live.m3u8</link>
 <thumbnail>http://iptv.codigolivre.net/logos/Premiere%20Combate.png</thumbnail>
 </item>
-
 
 
 
