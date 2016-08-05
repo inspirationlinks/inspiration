@@ -51,12 +51,7 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
-<link>http://213.81.153.241/live001/channel014_p5.stream/DVR.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
-<link>http://84.43.207.130/eurosporthd2/eurosporthd2.m3u8</link>
+<link>http://er-cdn.ertelecom.ru/os/video/hls/0dd95eb059bbf1a3681f04aa6597e8494fe2ef567df6a1aaa4cc80ae3402cad3bbd76ddaf67d5c4a6d1eca41bbf9eb89f3b4f7837b0fccdf9482c55b9816410e66e34669459a83ec60b4ba4f352d7f2734eacd6400ffbd4eaaa69d4dc64b3c0cd13f6df58cd7af4f0c9dd3634ce7600dbe51f0d68802fa0f6bc9a9af5fdf6b01504a64730ac588091deac38fbe7796802595f5232bc9f4ab1eb235c884651b0c52bc04d1596c4be4e87565fcbf4aade04ae7d6f493cf4ca63fa0ef64f23483c675bebec481180d3099c129f77dceaa25a882e38b2bea3cd6e11aaa0c0226f558/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 
@@ -179,12 +174,6 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] ESPN[/B][/COLOR] [USA]</title>
-<link>http://80.80.160.168/live/6/live.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] ORF Sport+[/B][/COLOR] [GER]</title>
 <link>http://185.85.28.20/orfs/q8c.sdp/chunklist.m3u8</link>
 <thumbnail></thumbnail>
@@ -200,21 +189,7 @@
 <link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORTS 1[/B][/COLOR] (JAP)</title>
-<link>http://203.162.235.45:17930</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORTS 2[/B][/COLOR] (JAP)</title>
-<link>http://203.162.235.45:17931</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORTS 3[/B][/COLOR] (JAP)</title>
-<link>http://203.162.235.45:17932</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORTS 4[/B][/COLOR] (JAP)</title>
 <link>http://203.162.235.45:17933</link>
@@ -223,12 +198,7 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] CCTV 5[/B][/COLOR] (CHI)</title>
-<link>http://183.207.249.6/PLTV/3/224/3221225644/playlist.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] CCTV 5+[/B][/COLOR] (CHI)</title>
-<link>http://183.207.249.6/PLTV/3/224/3221225604/playlist.m3u8</link>
+<link>http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
