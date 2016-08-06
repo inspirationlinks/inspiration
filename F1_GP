@@ -64,19 +64,17 @@
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR F1[/B][/COLOR] [ESP]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3183.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR] [IT]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/2284.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports F1[/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://mamahd.com/live/watch-sky-sports-formula-1-live-streaming-1.html</sportsdevil>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-<fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
-<referer>referer=http://www.ibrod.tv/skysports2.html</referer>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport4[/COLOR][/B]</title>
