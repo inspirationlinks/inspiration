@@ -226,34 +226,32 @@
 
 
 
+
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 1[/COLOR] [Sport Devil][/B]</title>
-<sportsdevil>http://mamahd.com/live/watch-bt-sport-1-live-streaming-1.html</sportsdevil>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png</thumbnail>
-<fanart>http://www.lyngsat-logo.com/hires/bb/bt_sport_1_hd.png</fanart>
-<referer>http://livetvweb.net/</referer>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 1[/COLOR] [/B]</title>
+<link>http://149.202.207.8:8080/GTXbeETy-1/counter1/index.m3u8</link>
+<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 2[/COLOR] [Sport Devil][/B]</title>
-<sportsdevil>http://mamahd.com/live/watch-bt-sport-2-live-stream-1.html</sportsdevil>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png</thumbnail>
-<fanart>http://www.lyngsat-logo.com/hires/bb/bt_sport_2_hd.png</fanart>
-<referer>http://livetvweb.net/</referer>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 2[/COLOR] [/B]</title>
+<link>http://149.202.85.84:8080/GTXbeETy-2/counter2/index.m3u8</link>
+<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport Europe[/COLOR] [Sport Devil][/B]</title>
-<sportsdevil>http://mamahd.com/live/watch-bt-sport-europe-live-stream-1.html</sportsdevil>
-<thumbnail>http://i.imgur.com/kjgGR28.png</thumbnail>
-<fanart>http://i.imgur.com/kjgGR28.png</fanart>
-<referer>http://livetvweb.net/</referer>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport/Espn[/COLOR] [/B]</title>
+<link>http://149.202.85.84:8080/GTXbteiSsepn/counter1/index.m3u8</link>
+<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 3[/COLOR] [/B]</title>
+<link>http://149.202.85.84:8080/GTXbeETy-U/counter1/index.m3u8</link>
+<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [Sport Devil] [/B]</title>
-<sportsdevil>http://mamahd.com/live/watch-sky-sports-1-live-streaming-free-1.html</sportsdevil>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [/B]</title>
+<link>http://149.202.85.84:8080/GTXsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
-<fanart>http://resources-pl.pulselive.com/ver/i/sprites/badges-50-sprite.png</fanart>
-<referer></referer>
 </item>
 
 
@@ -385,8 +383,8 @@
 <thumbnail>http://s32.postimg.org/7lbtmo4n9/logo_as1_black_0.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORT1[/COLOR] [CHE][/B]</title>
-<link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/COLOR] [CHE][/B]</title>
+<link>http://195.113.80.204:9001/sport2</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
 <item>
