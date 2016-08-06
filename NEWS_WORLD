@@ -38,6 +38,13 @@
 <link>http://v1.fabricahost.com.br:1935/tvguara/tvguara/inspiration.m3u8</link>
 <thumbnail>http://i39.tinypic.com/of7uhw.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] BH News[/I][/B][/COLOR]</title>
+<link>http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/maxibhnews.jpg</thumbnail>
+</item>
+
+
 
 
 <item>
@@ -122,6 +129,19 @@
 <link>http://abclive.abcnews.com/i/abc_live4@136330/index_800_av-b.m3u8</link>
 <thumbnail>https://lh4.googleusercontent.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAVWc/JUPzZ3GjvBQ/s0-c-k-no-ns/photo.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] FOX 23 News[/I][/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8</link>
+<thumbnail>http://mediaweb.fox23.com/theme/images/placeholder-16x9.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] FOX 30 News[/I][/B][/COLOR]</title>
+<link>http://cmghlslive-i.akamaihd.net/hls/live/224710/WFOX/904k/prog.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Wgbc_fox_2010.png/150px-Wgbc_fox_2010.png</thumbnail>
+</item>
+
+
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] El Pais News[/I][/B][/COLOR]</title>
