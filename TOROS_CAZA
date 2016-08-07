@@ -6,7 +6,11 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/1470.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1345.ts&amp;name=INSPIR@TION</link>
