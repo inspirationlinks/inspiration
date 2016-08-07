@@ -78,12 +78,6 @@
 </item>
 
 <item> 
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [RTMP][/B]</title>
-<link>rtmp://179.43.158.195:16625/stream/ playPath=NdTaX9Epd0.stream?t441i623yt2211i2470tt2211i711mt726i711kt949i57nt949i57nt2211i711mt2470a623kt2211i2470tt623i95b swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t446i725yt7862i7909tt7862i396mt201i396kt841i2157nt841i2157nt7862i396mt7909a725kt7862i7909tt725i928b&st;=04o205n4w574v2s27436q24693u5c4q3g58533d3g4b4w234e4b4u234v2v234x2u2p2s2a4u2&adx;=&stream;=24u2b4l564d49484d4i5z294x28423n22434o3a3f4w2z2747476w226d3j4l5u354v303q4i4h5w2u294u244745494q2u28404r284v204v2p2x4m4l4t2r2w2x2766476e3s5b4s3i5y313c3j4l5i2i4o4p4p564q345i5o554l4r5v3n226o204t2n264a4x2u2x243d4j5d4a4a48484x2d4a494u2s2i5746433b45464e4649494s2x234z3n204o204t2n204&sooor;=MTA=&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-
-<item> 
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
@@ -102,7 +96,11 @@
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
-
+<item> 
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [RTMP][/B]</title>
+<link>rtmp://179.43.158.195:16625/stream/ playPath=NdTaX9Epd0.stream?t441i623yt2211i2470tt2211i711mt726i711kt949i57nt949i57nt2211i711mt2470a623kt2211i2470tt623i95b swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t446i725yt7862i7909tt7862i396mt201i396kt841i2157nt841i2157nt7862i396mt7909a725kt7862i7909tt725i928b&st;=04o205n4w574v2s27436q24693u5c4q3g58533d3g4b4w234e4b4u234v2v234x2u2p2s2a4u2&adx;=&stream;=24u2b4l564d49484d4i5z294x28423n22434o3a3f4w2z2747476w226d3j4l5u354v303q4i4h5w2u294u244745494q2u28404r284v204v2p2x4m4l4t2r2w2x2766476e3s5b4s3i5y313c3j4l5i2i4o4p4p564q345i5o554l4r5v3n226o204t2n264a4x2u2x243d4j5d4a4a48484x2d4a494u2s2i5746433b45464e4649494s2x234z3n204o204t2n204&sooor;=MTA=&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
 
 
 
@@ -144,12 +142,6 @@
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [RTMP] [/B]</title>
-<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title>
@@ -183,7 +175,11 @@
 <referer>http://flashplayer.com</referer>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [RTMP] [/B]</title>
+<link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
+</item>
 
 
 
@@ -247,15 +243,16 @@
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport/Espn[/COLOR] [/B]</title>
-<link>http://149.202.85.84:8080/PIKUbteiSsepn/counter1/index.m3u8</link>
-<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 3[/COLOR] [/B]</title>
 <link>http://149.202.85.84:8080/PIKUbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport/Espn[/COLOR] [/B]</title>
+<link>http://149.202.85.84:8080/PIKUbteiSsepn/counter1/index.m3u8</link>
+<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [/B]</title>
@@ -326,17 +323,7 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 1[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchFutbol1.m3u8</link>
-<thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 2[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchFutbol2.m3u8</link>
-<thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Футбол 3[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchFutbol3.m3u8</link>
+<link>http://persik.by/stream/2887/384/33.m3u8</link>
 <thumbnail>http://s.ill.in.ua/i/news/570x380/201/201424.jpg</thumbnail>
 </item>
 
@@ -352,19 +339,21 @@
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Наш Футбол[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/NashFutbol.m3u8</link>
+<link>http://persik.by/stream/2887/384/284.m3u8</link>
 <thumbnail>http://ntvplus.ru/files/2016/02/18/913631.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Наш Спорт[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchNashSport.m3u8</link>
-<thumbnail>http://ntvplus.ru/files/2016/02/18/913631.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Боец[/COLOR] [RU][/B]</title>
 <link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Боец[/COLOR] [RU][/B]</title>
+<link>http://persik.by/stream/2887/384/310.m3u8</link>
+<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! TB[/COLOR] [RU][/B]</title>
 <link>http://176.112.96.17:8000/play/a003</link>
@@ -372,12 +361,14 @@
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! TB[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchTV.m3u8</link>
+<link>http://persik.by/stream/2887/384/144.m3u8</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
 </item>
+
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! Арена[/COLOR] [RU][/B]</title>
-<link>http://www.sport24.pw/hls/MatchArena.m3u8</link>
+<link>http://persik.by/stream/2887/384/724.m3u8</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
 </item>
 <item>
