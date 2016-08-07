@@ -63,12 +63,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]DISNEY JUNIOR[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.23.193.185:8000/mmans100/mmans100/2302.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CARTOON NETWORK[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
@@ -89,13 +83,28 @@
 <link>http://31.204.152.6:8081/live/cartoonk/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
-
-
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]DISNEY CHANNEL SD[/B][/COLOR] [BR]</title>
 <link>http://31.204.152.6:8081/live/disney/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]Discovery Kids[/B][/COLOR] [BR]</title>
+<link>http://31.204.152.6:8081/live/discoverykids/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]MILK PLAY[/B][/COLOR] [BR]</title>
+<link>http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8</link>
+<thumbnail>http://oi63.tinypic.com/250v6yo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]RCR tv[/B][/COLOR] [BR]</title>
+<link>http://painel.tvdigitalhd.org:1935/rcrtv/rcrtv/live.m3u8</link>
+<thumbnail>http://oi64.tinypic.com/oucv37.jpg</thumbnail>
+</item>
+
+
 
 
 <item>
