@@ -112,3 +112,16 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2299.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
+
+
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] l'Equipe 21[/B][/COLOR] [FR]</title>
+<link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
+<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white]  l'Equipe 21[/B][/COLOR] [FR]</title>
+<link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
+<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
+</item>
