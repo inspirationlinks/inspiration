@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] BOX NATION[/COLOR][/B] [UK]</title>
-<link>http://149.202.207.8:8080/PIKUbxoo-nan/counter1/index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c3/BoxNation_logo.jpg</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] FIGHT NETWORK[/COLOR][/B] [UK]</title>
@@ -20,20 +14,12 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE #2[/COLOR][/B] [BR] </title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE[/COLOR][/B] [BR] </title>
 <link>http://213.163.65.9:8081/live/combatez/playlist.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/250ruol.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE #3[/COLOR][/B] [BR] </title>
-<link>http://107.182.231.88:1935/liverepeater/ch15-1/live.m3u8</link>
-<thumbnail>http://oi66.tinypic.com/250ruol.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] COMBATE[/COLOR][/B] [BR]</title>
-<link>http://playmovetv.from-id.com:80/Combate/index.m3u8</link>
-<thumbnail>http://oi66.tinypic.com/250ruol.jpg</thumbnail>
-</item>
+
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] WWE NetWork[/COLOR] [Sport Devil] [/B]</title>
 <sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
