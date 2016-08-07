@@ -225,32 +225,30 @@
 
 
 
-
-
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 1[/COLOR] [/B]</title>
-<link>http://149.202.207.8:8080/GTXbeETy-1/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/PIKUbeETy-1/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 2[/COLOR] [/B]</title>
-<link>http://149.202.85.84:8080/GTXbeETy-2/counter2/index.m3u8</link>
+<link>http://149.202.85.84:8080/PIKUbeETy-2/counter2/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport/Espn[/COLOR] [/B]</title>
-<link>http://149.202.85.84:8080/GTXbteiSsepn/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/PIKUbteiSsepn/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 3[/COLOR] [/B]</title>
-<link>http://149.202.85.84:8080/GTXbeETy-U/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/PIKUbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [/B]</title>
-<link>http://149.202.85.84:8080/GTXsyjkiy-1/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/PIKUsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 </item>
 
