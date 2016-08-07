@@ -22,6 +22,12 @@
 </item>
 
 <item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] GV/NEWS [/I][/B][/COLOR]</title>
+<link>rtmp://172.93.110.130:1935/gvnews/ playpath=gvnews swfUrl=http://wse01.logicahost.com.br/wseplugins/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://gvnews.com.br/tv-online-gv-news/</link>
+<thumbnail>http://oi65.tinypic.com/256y1w8.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] GAZETA TV[/I][/B][/COLOR]</title>
 <link>http://streaming50.sitehosting.com.br:1935/alternativa/alternativa/playlist.m3u8</link>
 <thumbnail>http://i39.tinypic.com/of7uhw.jpg</thumbnail>
@@ -73,6 +79,12 @@
 <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
 <thumbnail>https://lh5.googleusercontent.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAACfmk/OiUv-27nKpE/s0-c-k-no-ns/photo.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] BBC News[/I][/COLOR][AR]</title>
+<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
+<thumbnail>https://lh5.googleusercontent.com/-Em-drWQ3uYI/AAAAAAAAAAI/AAAAAAACfmk/OiUv-27nKpE/s0-c-k-no-ns/photo.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Sky News[/I][/B][/COLOR]</title>
@@ -99,6 +111,12 @@
 <link>http://b2.stream8.rai.it/live/smil%3arnews1_android.smil/playlist.m3u8?auth=daEbCcLd2aZdEaLbHcVcBbhaQdjb7cqc7a8-bwOLFE-c0-IlyxvEo&aifp=V001</link>
 <thumbnail>http://www.livenewsbox.com/wp-content/uploads/2015/03/Rai-News-24.png</thumbnail>
 </item>
+<item>
+<title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] TG NORBA24[/I][/B][/COLOR]</title>
+<link>http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8</link>
+<thumbnail>http://a1.mzstatic.com/eu/r30/Purple2/v4/0f/7d/de/0f7ddef0-8a51-ae6d-a08e-1dfec31b988e/icon175x175.jpeg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR blue][B][I]•|| NEWS ||•[/COLOR][COLOR lime] Al Jazeera Internacional[/I][/B][/COLOR]</title>
