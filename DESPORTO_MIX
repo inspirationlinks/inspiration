@@ -78,16 +78,7 @@
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 <thumbnail>http://s32.postimg.org/8w5i4vgxx/image.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] l'Equipe 21[/B][/COLOR] [FR]</title>
-<link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
-<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] l'Equipe 21[/B][/COLOR] [FR]</title>
-<link>http://streaming-hub.com/stream/lequipe21.m3u8|User-Agent: Mozilla/5.0 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:43.0) Gecko/20100101</link>
-<thumbnail>http://n4mb3rs.com/wp-content/uploads/2015/10/lequipe_21_number_tv_brand.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Real Madrid[/B][/COLOR]</title>
@@ -171,6 +162,12 @@
 <link>http://85.25.43.23:8080/hls/helloszia3.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
+<link>http://195.113.80.204:9001/sport2</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -230,27 +227,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Dubai Sports3[/B][/COLOR] [AR]</title>
-<link>http://38.99.146.38:7777/DubaiSports_HD.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Alriadia Sport[/B][/COLOR] [AR]</title>
-<link>http://38.99.146.38:7777/Arryadia_HD.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Abu Dhabi Sports[/B][/COLOR] [AR]</title>
-<link>http://38.99.146.38:7777/ADSport_HD.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Abu Dhabi Emirates[/B][/COLOR] [AR]</title>
-<link>http://38.99.146.38:7777/ADEmirates_HD.m3u8</link>
-<thumbnail></thumbnail>
-</item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] HI SPORT[/B][/COLOR] </title>
 <link>http://203.151.87.82:9000/udp/239.101.1.6:1234</link>
