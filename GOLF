@@ -10,7 +10,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/881.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] Sportv4[/COLOR] [Sport Devil][/B]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv4</sportsdevil>
+<referer>http://www.europeu2016.net</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GOLF[/COLOR] [ESP][/B]</title>
@@ -25,7 +30,7 @@
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] TEN Golf[/COLOR] [USA][/B]</title>
-<link>http://149.202.207.8:8080/GTXteein-gf/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/PIKUteein-gf/counter1/index.m3u8</link>
 <thumbnail>https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/ten-golf-large.jpg</thumbnail>
 </item>
 
