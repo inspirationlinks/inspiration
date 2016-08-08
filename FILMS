@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|FILM|[COLOR red]•[/COLOR]|[COLOR white] Specto TV Shows [/COLOR][/B]</title>
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvNavigator</jsonrpc>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
+</item>
+
+
+
+
