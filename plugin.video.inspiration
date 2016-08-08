@@ -3,8 +3,17 @@
 
 <channels> 
 
+
 <channel>
-<name>[COLOR lime][B][I] CANAIS PORTUGAL [/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] CLEAR CACHE [COLOR red]•[/COLOR][/B]</name>
+<thumbnail>http://s10.postimg.org/7z16feleh/cacheclear.png</thumbnail>
+<fanart>http://s10.postimg.org/9fcoxjobd/image.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://goo.gl/rq68ak</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] CANAIS PORTUGAL [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/yz897441x/PT1.png</thumbnail>
 <fanart>http://s32.postimg.org/5w4r0ammd/por.png</fanart>
 <link>http://fui.me</link>
@@ -13,7 +22,7 @@
 
 
 <channel>
-<name>[COLOR lime][COLOR lime][B][I] TRANSMISSÕES [/COLOR][COLOR red] LIVE [/COLOR][/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] TRANSMISSÕES LIVE [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/5q03w12th/logo7.png</thumbnail>
 <fanart>http://s32.postimg.org/lgz6ym4n9/LIVE.jpg</fanart>
 <link>http://fui.me</link>
@@ -22,7 +31,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] NOTICIAS DESP.[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] NOTICIAS DESP. [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/qugam7kat/info.png</thumbnail>
 <fanart>http://image.prntscr.com/image/cc64682066f94c99baa6c80419e25ef3.png</fanart>
 <link>http://fui.me</link>
@@ -31,7 +40,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] F1 | MOTOGP[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] F1 | MOTOGP [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/40iqz8685/motof1.png</thumbnail>
 <fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
 <externallink>https://goo.gl/lRKWWy</externallink>
@@ -40,7 +49,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] COMBATE[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] COMBATE [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/t11p7sf45/kombate.png</thumbnail>
 <externallink>https://goo.gl/kFNGUG</externallink>
 <fanart>http://oboi-colibri.ru/wp-content/uploads/2014/06/boech.jpg</fanart>
@@ -49,7 +58,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] GOLF[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] GOLF [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/xkdxtawzp/GOLF.png</thumbnail>
 <externallink>https://goo.gl/xlOvJN</externallink>
 <fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
@@ -59,7 +68,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] DESPORTO MIX [/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] DESPORTO MIX [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/qzav4ecud/sports.png</thumbnail>
 <fanart>http://s32.postimg.org/ocqr9pw91/wallhaven_413591.jpg</fanart>
 <link>http://fui.me</link>
@@ -68,7 +77,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] SPECTO [/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] SPECTO [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 <fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
 <link>http://fui.me</link>
@@ -76,7 +85,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime][B][I] CANAIS BRASIL [/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] CANAIS BRASIL [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/inyyjbcsl/image.png</thumbnail>
 <fanart>http://wallpapercave.com/wp/Feg06s4.jpg</fanart>
 <link>http://fui.me</link>
@@ -85,7 +94,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] TeamBlue Live Events[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] TeamBlue Live Events [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/tl2ppm1ol/icon.png</thumbnail>
 <fanart>http://s32.postimg.org/wt772nnyd/fanart.jpg</fanart>
 <link>http://fui.me</link>
@@ -95,7 +104,7 @@
 
 
 <channel>
-<name>[COLOR lime][B][I] MARTUNIS[/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] MARTUNIS [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/l09dyfrid/icon.png</thumbnail>
 <fanart>http://s32.postimg.org/o8dvbhds5/fanart.jpg</fanart>
 <link>http://fui.me</link>
