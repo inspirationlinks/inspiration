@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CLEAR CACHE [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.phstreams/?action=clearCache</link>
+<thumbnail>http://s10.postimg.org/7z16feleh/cacheclear.png</thumbnail>
+<fanart>http://s10.postimg.org/9fcoxjobd/image.jpg</fanart>
+</item>
