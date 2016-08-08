@@ -68,6 +68,14 @@
 
 
 <channel>
+<name>[COLOR lime][B][I] Specto TV Shows [/I][/B][/COLOR]</name>
+<thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
+<fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://goo.gl/NsGVrH</externallink>
+</channel>
+
+<channel>
 <name>[COLOR lime][B][I] CANAIS BRASIL [/I][/B][/COLOR]</name>
 <thumbnail>http://s32.postimg.org/inyyjbcsl/image.png</thumbnail>
 <fanart>http://wallpapercave.com/wp/Feg06s4.jpg</fanart>
@@ -76,7 +84,7 @@
 </channel>
 
 <channel>
-<name>[COLOR lime][B][I] Lista M3U VLC  [/I][/B][/COLOR]</name>
+<name>[COLOR lime][B][I] INSPIR@TION M3U  [/I][/B][/COLOR]</name>
 <thumbnail>http://s10.postimg.org/bmye1op95/logo9.png</thumbnail>
 <externallink>http://pastebin.com/raw/Gg3fvRWA</externallink>
 <fanart>http://3.bp.blogspot.com/-43HWXIFNw-A/URQiWpB6ndI/AAAAAAAABCo/pJ0sIl_tN60/s1600/vlc_logo_text.gif</fanart>
