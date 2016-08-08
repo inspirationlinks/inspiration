@@ -213,11 +213,7 @@
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport4[/COLOR] [Varias ligas europeias][/B]</title>
-<link>http://188.93.94.133/silk_sport4/index.m3u8</link>
-<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
-</item>
+
 
 
 
@@ -313,17 +309,22 @@
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 1[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 2[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 3[/COLOR][/B]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 4[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport4[/COLOR] [Varias ligas europeias][/B]</title>
+<link>http://188.93.94.133/silk_sport4/index.m3u8</link>
+<thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 
 
