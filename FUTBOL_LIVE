@@ -202,6 +202,11 @@
 
 
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Extra Deportes[/COLOR] [MEX][/B]</title>
+<link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-kKhVHgce85I/AAAAAAAAAAI/AAAAAAAAAAA/vgq3xLwtT7k/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BEIN SPORT[/COLOR] [ESP][/B]</title>
 <link>https://video10-atl.streamup.com/app/biophobiasdsatas-stream_aac/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
@@ -327,7 +332,21 @@
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] arena Sport1[/COLOR] [CHE][/B]</title>
+<link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
+<thumbnail>http://s32.postimg.org/7lbtmo4n9/logo_as1_black_0.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/COLOR] [CHE][/B]</title>
+<link>http://195.113.80.204:9001/sport2</link>
+<thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Idman Tv[/COLOR] [AZE][/B]</title>
+<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
+<thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
+</item>
 
 
 <item>
@@ -355,28 +374,9 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] arena Sport1[/COLOR] [CHE][/B]</title>
-<link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
-<thumbnail>http://s32.postimg.org/7lbtmo4n9/logo_as1_black_0.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/COLOR] [CHE][/B]</title>
-<link>http://195.113.80.204:9001/sport2</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Idman Tv[/COLOR] [AZE][/B]</title>
-<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
-<thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] CANAL+[/COLOR] [POL][/B]</title>
 <link>rtmp://app.itivi.pl/live/ID08</link>
 <thumbnail>http://s32.postimg.org/atgazpqx1/photo.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Direct Sports[/COLOR] [mex][/B]</title>
-<link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
-<thumbnail>http://s32.postimg.org/atgazpqx1/photo.jpg</thumbnail>
-</item>
+
 
