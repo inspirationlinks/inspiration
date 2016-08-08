@@ -7,11 +7,6 @@
 <link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/helt65d6t/Supertennis.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] RAI Sport 1[/B][/COLOR] [IT]</title>
-<link>http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8</link>
-<thumbnail>http://s32.postimg.org/7vc4copol/icon175x175.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] EUROSPORT 1[/COLOR] [Sport Devil][/B] |PT|</title>
@@ -125,11 +120,6 @@
 <link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
 <thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] POKER 2[/COLOR][/B]</title>
-<link>http://veetle.com/index.php/hls/streamMbrfast/4c1b0ef0a2122_/stream.m3u8</link>
-<thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] RED BULL TV[/B][/COLOR]</title>
@@ -152,16 +142,7 @@
 <link>http://213.81.170.239/live002/channel044_p5.stream/DVR.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORT1[/B][/COLOR] [CHE]</title>
-<link>http://85.25.43.23:8080/hls/helloszia2.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
-<link>http://85.25.43.23:8080/hls/helloszia3.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/Sport1_hu.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/B][/COLOR] [CHE]</title>
 <link>http://195.113.80.204:9001/sport2</link>
@@ -204,11 +185,7 @@
 <link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] True Sport 2[/B][/COLOR] [THA]</title>
-<link>rtmp://216.185.103.158/live2/chthaipremier31</link>
-<thumbnail></thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] True Sport 2[/B][/COLOR] [THA]</title>
 <link>rtmp://216.185.103.158/live2/chthaipremier11</link>
@@ -224,12 +201,5 @@
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] BIGPOND SPORTS[/B][/COLOR] [AUS]</title>
 <link>mms://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_high</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] HI SPORT[/B][/COLOR] </title>
-<link>http://203.151.87.82:9000/udp/239.101.1.6:1234</link>
 <thumbnail></thumbnail>
 </item>
