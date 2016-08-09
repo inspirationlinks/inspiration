@@ -4,7 +4,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] FILMS [COLOR red]•[/COLOR][/B]</title>
 <link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.specto/?action=movieWidget</jsonrpc>
+<jsonrpc>plugin://plugin.video.specto/?action=movieNavigator</jsonrpc>
 <thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 <fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
 </item>
