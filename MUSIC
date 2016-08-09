@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] MTV PORTUGAL [/COLOR][/B]</title>  
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres><page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/mtvax/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20140730081259/the-hills/images/7/75/MTV_Logo_white1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] hit tv [COLOR red]•[/COLOR][/B]</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Radio 105 TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://fms.105.net:1935/live/105Test1/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Virgin Tv Radio [COLOR red]•[/COLOR][/B]</title>
+<link>http://fms.105.net:1935/live/virgin1/playlist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/446220611447033856/t6ghnFTy.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Virgin Tv [COLOR red]•[/COLOR][/B]</title>
+<link>http://wow01.105.net:1935/live/virgin1/livestream.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/446220611447033856/t6ghnFTy.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO EUROPEU HQ [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 3 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] 6 Music [COLOR red]•[/COLOR][/B]</title>
+<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] M MUSIQUE [COLOR red]•[/COLOR][/B]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8</link>
+<thumbnail>http://dj-josemix.hol.es/fotomusica/mimusica.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CAPITAL TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
+<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DREAM TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] M20 TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_(2012).png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ONE 1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://rtmp.one.by:1300/</link>
+<thumbnail>https://divan.tv/img/global_img/channel_website/ua_270.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Heavy Metal [COLOR red]•[/COLOR][/B]</title>
+<link>rtmp://70.166.98.130:1935/hmtv/myStream</link>
+<thumbnail>https://s3.amazonaws.com/fundanything/uploads/redactor/bd314f8905075e8b64c53bd6527d9d5b088f2c99/1736fcc6-a8b6-49ba-8e6a-1650833de8ea_815d3c7f68a722da2112085cd1b12cce2dbf5d8b.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CLASSIC MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://www.iptvsaga.com/play/tv3/0077.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/jgpJVI3tDbY/maxresdefault.jpg</thumbnail>
+</item>
+<item>  
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] DJING ANIMATION  [/COLOR][/B] [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://www.djing.com/tv/a-05.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>                                                                
+<title>[COLOR lawngreen][B]•[/B][/COLOR][COLOR white][B] DJING CLASSIC [/COLOR][/B] [COLOR red]•[/COLOR][/B]</title>                                              
+<link>http://www.djing.com/tv/i-05.m3u8</link>
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                              
+</item>
