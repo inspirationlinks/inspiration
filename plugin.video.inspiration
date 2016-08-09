@@ -5,14 +5,6 @@
 
 
 <channel>
-<name>[COLOR lime][B][COLOR red]•[/COLOR] CLEAR CACHE [COLOR red]•[/COLOR][/B]</name>
-<thumbnail>http://s10.postimg.org/7z16feleh/cacheclear.png</thumbnail>
-<fanart>http://s10.postimg.org/9fcoxjobd/image.jpg</fanart>
-<link>http://fui.me</link>
-<externallink>https://goo.gl/rq68ak</externallink>
-</channel>
-
-<channel>
 <name>[COLOR lime][B][COLOR red]•[/COLOR] CANAIS PORTUGAL [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/yz897441x/PT1.png</thumbnail>
 <fanart>http://s32.postimg.org/5w4r0ammd/por.png</fanart>
@@ -82,6 +74,14 @@
 <fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
 <link>http://fui.me</link>
 <externallink>https://goo.gl/NsGVrH</externallink>
+</channel>
+
+<channel>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] MUSIC [COLOR red]•[/COLOR][/B]</name>
+<thumbnail>http://s10.postimg.org/v1t30p1p5/music.png</thumbnail>
+<fanart>http://s10.postimg.org/uxz9kfw7t/wallhaven_157331.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://goo.gl/rq68ak</externallink>
 </channel>
 
 <channel>
