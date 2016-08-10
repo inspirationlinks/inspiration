@@ -22,6 +22,29 @@
 <thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] AMAZING [COLOR red]•[/COLOR][/B]</title>
+<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
+<thumbnail>http://oi63.tinypic.com/w6t8u9.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC [COLOR red]•[/COLOR][/B]</title>
+<link>rtmp://5.154.185.153/live/live.flv</link>
+<thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RETRO MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8</link>
+<thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VISUAL RADIO TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8</link>
+<thumbnail>http://oi63.tinypic.com/rk7i44.jpg</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Radio 105 TV [COLOR red]•[/COLOR][/B]</title>
 <link>http://fms.105.net:1935/live/105Test1/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png</thumbnail>
