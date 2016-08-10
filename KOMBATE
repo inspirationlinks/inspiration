@@ -3,25 +3,37 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] FIGHT NETWORK[/COLOR][/B] [UK]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] KOMBAT SPORT [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.109.16.8:8880/live/myhome/myhome/995.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] UFC [COLOR red]•[/COLOR][/B]</title>
+<link>rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos</link>
+<thumbnail>http://oi63.tinypic.com/2d7a4hh.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FIGHT NETWORK [COLOR red]•[/COLOR][/B]</title>
 <link>http://118.97.183.222:1935/discover/fight/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] FIGHT SPORT[/COLOR][/B] [UK]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FIGHT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226585/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] PREMIERE COMBATE[/COLOR][/B] [BR] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] PREMIERE COMBATE [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.163.65.9:8081/live/combatez/playlist.m3u8</link>
 <thumbnail>http://oi66.tinypic.com/250ruol.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] WWE NetWork[/COLOR] [Sport Devil] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] WWE NetWork[/COLOR] [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://hdfree.tv/wwe-network-live-stream.html</sportsdevil>
 <thumbnail>http://s32.postimg.org/5adah9csl/box1.png</thumbnail>
 <fanart>http://s32.postimg.org/5adah9csl/box1.png</fanart>
@@ -29,13 +41,13 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] Боец[/COLOR] [RU][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Боец [COLOR red]•[/COLOR][/B]</title>
 <link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|KOMBAT|[COLOR red]•[/COLOR]|[COLOR white] Nova SPORT1[/B][/COLOR] [CHE]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Nova SPORT1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.153.241/live001/channel028_p3.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/ws3d1rfr9/image.png</thumbnail>
 </item>
