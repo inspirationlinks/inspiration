@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR gold] ARENAVISION.IN[/COLOR][COLOR red] PLEXUS[/B][/COLOR]</title>
+<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR lime]**** [/COLOR][/B]</title>
+<link>plugin://</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white] PLEXUS[/COLOR][/B]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.p2psport/?mode=av</jsonrpc>
 <thumbnail>http://s32.postimg.org/ryvd4j1mt/Arenavision.png</thumbnail>
@@ -10,26 +20,32 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR gold] SHANI SPORTS [/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] PAKTV SPORTS [COLOR red]•[/COLOR][COLOR white] ZEMTV-SHANI[/COLOR][/B]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] AV 7[/COLOR] RIO 2016 [PLEXUL][/B]</title>
-<link>plugin://program.plexus/?url=acestream://1b5e5bf7c53ec1968ee0f1c52aeb9c2e67ee2d37&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+<item> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] ZEMTV-SHANI [/COLOR][/B]</title> 
+<link>http://fui.me</link> 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
 </item>
 
 
 
 
 
+
+
+
+
+
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] NACIONAL [COLOR lime]****[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.youtube.com</link>
+<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] NACIONAL [COLOR lime]**** [/COLOR][/B]</title>
+<link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -37,74 +53,74 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.109.16.8:8880/live/myhome/myhome/517.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/2325.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/1912.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/878.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1601.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/727.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/CLIENTX484/3222065487/858.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.218.171:8000/live/karimos.sat/skype/1056.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/501.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item> 
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/sporttv.php?width=599&height=399</sportsdevil>
 <referer>http://www.idimsports.eu/watch/408917/1/watch-xonetv.html</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV1[/COLOR] [RTMP][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://179.43.158.195:16625/stream/ playPath=NdTaX9Epd0.stream?t441i623yt2211i2470tt2211i711mt726i711kt949i57nt949i57nt2211i711mt2470a623kt2211i2470tt623i95b swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width;=600&height;=460&a;=t446i725yt7862i7909tt7862i396mt201i396kt841i2157nt841i2157nt7862i396mt7909a725kt7862i7909tt725i928b&st;=04o205n4w574v2s27436q24693u5c4q3g58533d3g4b4w234e4b4u234v2v234x2u2p2s2a4u2&adx;=&stream;=24u2b4l564d49484d4i5z294x28423n22434o3a3f4w2z2747476w226d3j4l5u354v303q4i4h5w2u294u244745494q2u28404r284v204v2p2x4m4l4t2r2w2x2766476e3s5b4s3i5y313c3j4l5i2i4o4p4p564q345i5o554l4r5v3n226o204t2n264a4x2u2x243d4j5d4a4a48484x2d4a494u2s2i5746433b45464e4649494s2x234z3n204o204t2n204&sooor;=MTA=&str;=is&ok;=&cat;=3&link;=1&idom;=firstrowas.co&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
@@ -112,41 +128,46 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/789.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport TV2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/3510.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.109.16.8:8880/live/myhome/myhome/558.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/782.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2542.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://cdn2.zuuk.org/benficatv.php</sportsdevil>
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title
 <sportsdevil>http://firstrowas.co///embed/9DOXhIxxsw</sportsdevil>
 <referer>http://mytvfree4.me/</referer>
 <referer>http://firstrowas.co/</referer>
@@ -154,25 +175,25 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=benficatv</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/benficatv</sportsdevil>
 <referer>http://flashplayer.com</referer>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BTV[/COLOR] [RTMP] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://31.220.0.187/privatestream/gergtrg?keys=NU4qltlc2xuy7XAZt7hg3A&keyt=1470068995 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
@@ -180,27 +201,27 @@
 
 
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR lime]****[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.youtube.com</link>
+<title>[COLOR lime][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR lime]**** [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport Klub1[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://streamking.cc/player?channel=sportklub&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport Klub2[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub2 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://streamking.cc/player?channel=sportklub2&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sport Klub3[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub3 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
 <sportsdevil>http://streamking.cc/player?channel=sportklub3&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
@@ -208,19 +229,19 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Extra Deportes[/COLOR] [MEX][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Extra Deportes [COLOR red]•[/COLOR][COLOR white] [MEX][/COLOR][/B]</title>
 <link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/-kKhVHgce85I/AAAAAAAAAAI/AAAAAAAAAAA/vgq3xLwtT7k/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] BEIN SPORT[/COLOR] [ESP][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BEIN SPORT [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
 <link>https://video10-atl.streamup.com/app/biophobiasdsatas-stream_aac/chunklist.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Super Sporlig[/COLOR] [Varias ligas europeias][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white]  [Varias ligas europeias][/COLOR][/B]</title>
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
@@ -230,29 +251,29 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 1[/COLOR] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://149.202.207.8:8080/PIKUbeETy-1/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 2[/COLOR] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 2 [COLOR red]•[/COLOR][/B]</title>
 <link>http://149.202.85.84:8080/PIKUbeETy-2/counter2/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport 3[/COLOR] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://149.202.85.84:8080/PIKUbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Bt Sport/Espn[/COLOR] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport/Espn [COLOR red]•[/COLOR][/B]</title>
 <link>http://149.202.85.84:8080/PIKUbteiSsepn/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Sky Sports 1[/COLOR] [/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sky Sports 1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://149.202.85.84:8080/PIKUsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 </item>
@@ -262,55 +283,55 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport2 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport3[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport4[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8</link>
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.247.133.18:8888/ipvt_002</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport2 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport3[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport4[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Arena Sport5[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport5 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
@@ -318,69 +339,69 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 1[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Silk Sport 1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL527/bitrates.m3u8</link>
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 2[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Silk Sport 2 [COLOR red]•[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL532/bitrates.m3u8</link>
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport 4[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Silk Sport 4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://94.43.239.178:8080/CHANNEL813/bitrates.m3u8</link>
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Silk Sport4[/COLOR] [Varias ligas europeias][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Silk Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.93.94.133/silk_sport4/index.m3u8</link>
 <thumbnail>http://televiziebi.com/templates/Default/images/tv/silkuniversal.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] arena Sport1[/COLOR] [CHE][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] arena Sport1 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
 <link>http://cdn0.poda.tv/hls/SlovakSport1_low.m3u8</link>
 <thumbnail>http://s32.postimg.org/7lbtmo4n9/logo_as1_black_0.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] SPORT2[/COLOR] [CHE][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT2 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
 <link>http://195.113.80.204:9001/sport2</link>
 <thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Idman Tv[/COLOR] [AZE][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Idman Tv [COLOR red]•[/COLOR][COLOR white] [AZE][/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/f68j9p3t1/idman.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Sport[/COLOR] [RU][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Viasat Sport [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
 <link>http://176.112.96.17:8000/play/a01j</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Viasat Sport[/COLOR] [RU][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Viasat Sport [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
 <link>http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/04/plst.m3u8</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Боец[/COLOR] [RU][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Боец [COLOR red]•[/COLOR][COLOR white]  [RU][/COLOR][/B]</title>
 <link>http://vs8.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] Матч! TB[/COLOR] [RU][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Матч! TB [COLOR red]•[/COLOR][COLOR white]  [RU][/COLOR][/B]</title>
 <link>http://176.112.96.17:8000/play/a003</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Live|[COLOR red]•[/COLOR]|[COLOR white] CANAL+[/COLOR] [POL][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL+ [COLOR red]•[/COLOR][COLOR white] [POL][/COLOR][/B]</title>
 <link>rtmp://app.itivi.pl/live/ID08</link>
 <thumbnail>http://s32.postimg.org/atgazpqx1/photo.jpg</thumbnail>
 </item>
