@@ -59,6 +59,11 @@
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR F1[/B][/COLOR] [ESP]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/3102.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR F1[/B][/COLOR] [ESP]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1343.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
@@ -69,11 +74,15 @@
 </item>
 
 <item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2528.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR] [IT]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/2284.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
-
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Digi Sport4[/COLOR][/B]</title>
