@@ -60,26 +60,6 @@
 <thumbnail>https://pbs.twimg.com/profile_images/446220611447033856/t6ghnFTy.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO EUROPEU HQ [COLOR red]•[/COLOR][/B]</title>
-<link>http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8</link>
-<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
-<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
-<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
-<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] 6 Music [COLOR red]•[/COLOR][/B]</title>
 <link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 <thumbnail></thumbnail>
@@ -124,6 +104,61 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CLASSIC MUSIC [COLOR red]•[/COLOR][/B]</title>
 <link>http://www.iptvsaga.com/play/tv3/0077.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/jgpJVI3tDbY/maxresdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO EUROPEU HQ [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VEVO 3 [COLOR red]•[/COLOR][/B]</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>http://musically.com/wp-content/uploads/2013/05/vevo-logo.jpg</thumbnail>
+</item>
+
+
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING TV [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://www.djing.com/tv/05.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING IBIZA [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://cdn.djing.com/tv/05.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING HITS [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://www.djing.com/tv/d-04.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING UNDERGROUND [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://www.djing.com/tv/u-05.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING HOT HOT  [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://www.djing.com/tv/h-05.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
+</item>
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DJING DANCEFLOOR [COLOR red]•[/COLOR][/B]</title>                                               
+<link>http://cdn.djing.com/tv/d-03.m3u8</link> 
+<thumbnail>http://www.djing.com/img/facebook.png</thumbnail>                                               
 </item>
 <item>  
 <title>[COLOR lime][B][COLOR red]•[/COLOR] DJING ANIMATION [COLOR red]•[/COLOR][/B]</title>                                               
