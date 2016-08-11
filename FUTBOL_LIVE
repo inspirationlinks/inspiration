@@ -312,6 +312,12 @@
 <thumbnail>http://s32.postimg.org/z3nlgncw5/digi.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CT SPORT [COLOR red]•[/COLOR][/B]</title>
+<link>http://46.47.133.90:80/hls/CT4Sport_low.m3u8</link>
+<thumbnail>http://www.jergym.cz/wp-content/uploads/2015/04/Logo-%C4%8CT-4.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
@@ -378,6 +384,12 @@
 <link>http://195.113.80.204:9001/sport2</link>
 <thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT2 [COLOR red]•[/COLOR][COLOR white] [CHE][/COLOR][/B]</title>
+<link>http://213.81.153.243/live003/channel045_p5.stream/DVR.m3u8</link>
+<thumbnail>http://on-line-televize.cz/wp-content/uploads/2015/10/sport2.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Idman Tv [COLOR red]•[/COLOR][COLOR white] [AZE][/COLOR][/B]</title>
 <link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
