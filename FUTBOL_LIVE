@@ -91,7 +91,7 @@
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.218.171:8000/live/karimos.sat/skype/1056.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/1813.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
@@ -206,7 +206,16 @@
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR white] [NL][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2621.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Select  [COLOR red]•[/COLOR][COLOR white] [NL][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2622.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/COLOR][/B]</title>
@@ -252,29 +261,29 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.207.8:8080/PIKUbeETy-1/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/KTWbeETy-1/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/PIKUbeETy-2/counter2/index.m3u8</link>
+<link>http://149.202.85.84:8080/KTWbeETy-2/counter2/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/PIKUbeETy-U/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/KTWbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport/Espn [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/PIKUbteiSsepn/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/KTWbteiSsepn/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sky Sports 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/PIKUsyjkiy-1/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/KTWsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 </item>
 
