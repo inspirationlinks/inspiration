@@ -227,7 +227,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2621.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
 </item>
@@ -350,7 +350,11 @@
 <link>http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.247.133.18:8888/ipvt_002</link>
@@ -362,13 +366,28 @@
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+</item>
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8</link>
+<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
+<link>http://195.230.24.166:1935/live/898953arenasport4.stream/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
