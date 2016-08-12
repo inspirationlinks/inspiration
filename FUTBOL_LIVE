@@ -154,6 +154,12 @@
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.20.110:8000/live/portughesezaza/tvstarcccam.com/625.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/500.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
@@ -256,6 +262,11 @@
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
+<link>rtmp://188.165.46.79/live/898953tivibuspor.stream</link>
+<thumbnail>http://s10.postimg.org/lwkthwna1/screenshot_18.png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
 <link>http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8</link>
@@ -364,7 +375,6 @@
 <link>http://46.47.133.90:80/hls/Nova_Sport_2_HD_low.m3u8</link>
 <thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
 </item>
-
 
 
 <item>
@@ -485,13 +495,6 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Матч! TB [COLOR red]•[/COLOR][COLOR white]  [RU][/COLOR][/B]</title>
 <link>http://176.112.96.17:8000/play/a003</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL+ [COLOR red]•[/COLOR][COLOR white] [POL][/COLOR][/B]</title>
-<link>rtmp://app.itivi.pl/live/ID08</link>
-<thumbnail>http://s32.postimg.org/atgazpqx1/photo.jpg</thumbnail>
 </item>
 
 
