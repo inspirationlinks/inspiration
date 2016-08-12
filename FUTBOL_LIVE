@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR lime]**** [/COLOR][/B]</title>
+<title>[COLOR blue][B]****[COLOR cyan] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR blue]**** [/COLOR][/B]</title>
 <link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
@@ -44,12 +44,32 @@
 
 
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] DESPORTO [COLOR red] NACIONAL [COLOR lime]**** [/COLOR][/B]</title>
+<title>[COLOR blue][B]****[COLOR cyan] JOGOS LIGA NOS [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
 <link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
 
 
+
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RIO AVE-PORTO | SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://e41b279673f22ef7e5dae421f6799fa86742e73e&amp;mode=1&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RIO AVE-PORTO | SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://036abe63bee1ee360a5725d76abe3ba3999b9fdf&amp;mode=1&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue][B]****[COLOR cyan] DESPORTO [COLOR red] NACIONAL [COLOR blue]**** [/COLOR][/B]</title>
+<link>plugin://</link>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
@@ -201,7 +221,7 @@
 
 
 <item>
-<title>[COLOR lime][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR lime]**** [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR blue][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR blue]**** [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
@@ -243,9 +263,9 @@
 <thumbnail>https://yt3.ggpht.com/-kKhVHgce85I/AAAAAAAAAAI/AAAAAAAAAAA/vgq3xLwtT7k/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] BEIN SPORT [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
-<link>https://video10-atl.streamup.com/app/biophobiasdsatas-stream_aac/chunklist.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmlq5a96t/be_IN_Sports.png</thumbnail>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] tdp [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<link>http://rlu.ru/12fqK</link>
+<thumbnail>http://img.blogs.es/zenithmedia/wp-content/uploads/2015/06/deporte-tdp-copia.jpg</thumbnail>
 </item>
 
 
