@@ -227,7 +227,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR white] [liga NOS][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2621.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
 </item>
@@ -244,7 +244,7 @@
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub2 [COLOR red]•[/COLOR][COLOR white] [liga NOS][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport Klub2 [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
 <sportsdevil>http://streamking.cc/player?channel=sportklub2&type=p2p</sportsdevil>
 <referer>http://streamking.co/player?channel=premiersport&type=p2p</referer>
 <thumbnail>http://s32.postimg.org/5yf6y58ud/image.png</thumbnail>
@@ -257,7 +257,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR white]  [liga NOS][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
 <link>http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8</link>
 <thumbnail>http://s10.postimg.org/lwkthwna1/screenshot_18.png</thumbnail>
 </item>
@@ -275,7 +275,7 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white]  [Varias ligas europeias][/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
 <link>http://92.222.205.40:8085/lighd</link>
 <thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
 </item>
