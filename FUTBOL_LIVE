@@ -339,10 +339,32 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CT SPORT [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ČT SPORT [COLOR red]•[/COLOR][/B]</title>
 <link>http://46.47.133.90:80/hls/CT4Sport_low.m3u8</link>
 <thumbnail>http://www.jergym.cz/wp-content/uploads/2015/04/Logo-%C4%8CT-4.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ČT SPORT2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://46.47.133.91:80/hls/CT2HD_low.m3u8</link>
+<thumbnail>http://www.jergym.cz/wp-content/uploads/2015/04/Logo-%C4%8CT-4.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://213.81.153.241/live001/channel028_p4.stream/DVR.m3u8</link>
+<thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://46.47.133.90:80/hls/Nova_Sport_1_HD_low.m3u8</link>
+<thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://46.47.133.90:80/hls/Nova_Sport_2_HD_low.m3u8</link>
+<thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
+</item>
+
 
 
 <item>
