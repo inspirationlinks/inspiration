@@ -54,12 +54,12 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] RIO AVE-PORTO | SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://e41b279673f22ef7e5dae421f6799fa86742e73e&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] RIO AVE-PORTO | SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://036abe63bee1ee360a5725d76abe3ba3999b9fdf&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
@@ -263,17 +263,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
-<link>rtmp://188.165.46.79/live/898953tivibuspor.stream</link>
-<thumbnail>http://s10.postimg.org/lwkthwna1/screenshot_18.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Tivibu Sport [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
-<link>http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8</link>
-<thumbnail>http://s10.postimg.org/lwkthwna1/screenshot_18.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Extra Deportes [COLOR red]•[/COLOR][COLOR white] [MEX][/COLOR][/B]</title>
 <link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
 <thumbnail>https://yt3.ggpht.com/-kKhVHgce85I/AAAAAAAAAAI/AAAAAAAAAAA/vgq3xLwtT7k/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
@@ -298,29 +287,29 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.207.8:8080/MNLbeETy-1/counter1/index.m3u8</link>
+<link>http://149.202.207.8:8080/OPTPbeETy-1/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/MNLbeETy-2/counter2/index.m3u8</link>
+<link>http://149.202.85.84:8080/OPTPbeETy-2/counter2/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/MNLbeETy-U/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/OPTPbeETy-U/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport/Espn [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/MNLbteiSsepn/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/OPTPbteiSsepn/counter1/index.m3u8</link>
 <thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sky Sports 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/MNLsyjkiy-1/counter1/index.m3u8</link>
+<link>http://149.202.85.84:8080/OPTPsyjkiy-1/counter1/index.m3u8</link>
 <thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
 </item>
 
@@ -496,5 +485,4 @@
 <link>http://176.112.96.17:8000/play/a003</link>
 <thumbnail>http://gfaclaims.com/uploads/posts/2015-09/match-tv-predstavil-oficialnyy-logotip_1.jpeg</thumbnail>
 </item>
-
 
