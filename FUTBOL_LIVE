@@ -44,7 +44,7 @@
 
 
 <item>
-<title>[COLOR blue][B]****[COLOR cyan] JOGOS LIGA NOS [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
+<title>[COLOR blue][B]****[COLOR white] Jogos LIGA NOS dos 3 Grandes [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
 <link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
@@ -74,7 +74,7 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.109.16.8:8880/live/myhome/myhome/517.ts&amp;name=INSPIR@TION</link>
+<link>http://83.78.191.43:2065/</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
@@ -146,6 +146,11 @@
 </item>
 
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
+<link>http://83.78.191.43:2066/</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][/B]</title>
