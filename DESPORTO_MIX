@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Super Tennis[/B][/COLOR] [IT]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Super Tennis[/B][/COLOR] [OFF]</title>
 <link>http://94.100.31.242:8183/hls/xz3125/index.m3u8</link>
 <thumbnail>http://s32.postimg.org/helt65d6t/Supertennis.png</thumbnail>
 </item>
@@ -38,11 +38,6 @@
 <link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 1[/B][/COLOR]</title>
-<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport 2[/B][/COLOR] |bul|</title>
@@ -61,13 +56,6 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR] OFF</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;amp;url=XXXXX&amp;amp;name=INSPIRATION@LINKS</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] Versus Tv[/B][/COLOR] [UK]</title>
 <link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
@@ -80,27 +68,11 @@
 <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] TycSPORTS [/B][/COLOR] [MEX]</title>
-<link>http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/33/chunklist.m3u8</link>
-<thumbnail>http://s32.postimg.org/z2xi9ckg5/Tyc_SPORTS.png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] 360 TV [/B][/COLOR] [COL]</title>
 <link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link>
 <thumbnail>http://foromedios.com/uploads/gallery/category_7/gallery_11214_7_64790.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] SPORTMANIA[/B][/COLOR] [BR]</title>
-<link>http://srv7.zoeweb.tv:1935/esportemais/esportemais.smil/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/tyoy1z4p9/PFC.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|MIX|[COLOR red]•[/COLOR]|[COLOR white] PFC[/B][/COLOR] [BR]</title>
-<link>http://art.nextv.ca/nextv/pfci/index.m3u8</link>
-<thumbnail>http://s20.postimg.org/tyoy1z4p9/PFC.png</thumbnail>
 </item>
 
 <item>
