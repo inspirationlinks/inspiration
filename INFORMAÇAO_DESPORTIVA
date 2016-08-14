@@ -3,96 +3,96 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SPORTING TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SPORTING TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SPORTING TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3622101.ip-149-202-201.eu:8000/live/fr443500/75019pa/2299.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
 
 
 <item> 
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] RTP3[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] RTP3 [COLOR red]•[/COLOR][/B]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHBuLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR+red%5DRtp+info+v8%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>http://www.lyngsat-logo.com/hires/rr/rtp_3_pt.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SIC Noticias [/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias  [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] SIC Noticias[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/sicnoticias/inspiration.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] TVI 24[/B][/COLOR] </title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] TVI 24 [COLOR red]•[/COLOR][/B]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/jn.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>http://83.78.191.43:2018/</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/CLIENTX103/65sijod/1965.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/1965.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] CMTV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/498.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
 <link>http://83.78.191.43:2085/</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1034.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Bola TV[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2486.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Porto Canal[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/portocanal/jn.m3u8</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|INFO|[COLOR red]•[/COLOR]|[COLOR white] Porto Canal[/B][/COLOR]</title>
+<title><title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
