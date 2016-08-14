@@ -27,18 +27,6 @@
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
-<item> 
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] ZEMTV-SHANI [/COLOR][/B]</title> 
-<link>http://fui.me</link> 
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-</item>
-
-
-
-
-
-
 
 
 
@@ -48,6 +36,14 @@
 <link>plugin://</link>
 <thumbnail></thumbnail>
 </item>
+
+<item> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
+<link>http://fui.me</link> 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
+</item>
+
 
 
 <item>
