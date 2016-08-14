@@ -54,12 +54,12 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING-MARITIMO | TONDELA-BENFICA[COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
@@ -282,7 +282,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Super Sporlig [COLOR red]•[/COLOR][COLOR white] [Varias ligas europeias][/COLOR][/B]</title>
 <link>http://92.222.205.40:8085/lighd</link>
-<thumbnail>http://s32.postimg.org/r63ax1og5/fgf.jpg</thumbnail>
+<thumbnail>http://s4.postimg.org/3t3bs2o7x/13902679_1826032374274870_9086030379362663343_n.jpg</thumbnail>
 </item>
 
 
@@ -471,11 +471,6 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Viasat Sport [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
 <link>http://176.112.96.17:8000/play/a01j</link>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Viasat Sport [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
-<link>http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/04/plst.m3u8</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Viasat_Sport_2008.png</thumbnail>
 </item>
 
