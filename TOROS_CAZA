@@ -30,7 +30,7 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] IBERALIA[/B][/COLOR]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] IBERALIA[/B] [OFF/ON] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=XXXXXXXXXXX&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 </item>
@@ -67,7 +67,7 @@
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] NAUTICAL CHANNEL[/COLOR] [mudem o audio para UK][/B]</title>
 <link>http://82.200.127.58:8080/udp/233.12.144.11:5050</link>
-<thumbnail>http://s10.postimg.org/6grxfgoux/screenshot_9.png</thumbnail>
+<thumbnail>https://media.licdn.com/media/p/7/000/1e1/331/0ff1f77.png</thumbnail>
 </item>
 
 <item>
