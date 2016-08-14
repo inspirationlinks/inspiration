@@ -1,44 +1,38 @@
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] Sport TV4/5[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4/5 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2475.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] Sport TV4[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/881.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] Sportv4[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sportv4/5 [COLOR red]•[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv4</sportsdevil>
 <referer>http://www.europeu2016.net</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GOLF[/COLOR] [ESP][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GOLF [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://31.220.40.63:1935/privatestream playpath=golf8?keys=zmbsoAoFT1FtYVt66VzRSw&keyt=1460720380 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=golf8&width=800&height=600</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/be/Logo-golf.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] NBCS Golf[/COLOR] [USA][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NBCS Golf [COLOR red]•[/COLOR][/B]</title>
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] NBCS Golf[/COLOR] [USA][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NBCS Golf [COLOR red]•[/COLOR][/B]</title>
 <link>http://46.47.133.90:80/hls/Golf_Channel_HD_low.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] TEN Golf[/COLOR] [USA][/B]</title>
-<link>http://149.202.207.8:8080/MNLteein-gf/counter1/index.m3u8</link>
-<thumbnail>https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/ten-golf-large.jpg</thumbnail>
 </item>
 
 <item>
@@ -48,13 +42,13 @@
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] VIASAT GOLF[/COLOR] [KOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VIASAT GOLF [COLOR red]•[/COLOR][/B]</title>
 <link>http://er-cdn.ertelecom.ru/os/video/hls/bc66cb45c0664a0a55c4029b6a4a41e74c4890297b2e382ae85cacf855d2066f0406ef865a5f380dac9ff2e9cef6f1cf1be6575cc55600e0bfc100db56264290b3ddb343a46143ff08fc528b35ee388a295f29dfc3d900b8f68d14050360d599050642b662f7959fb2d609de8b6cabfc271539462c4312e0378ee5a90044106e40670c7a602b73ff6f22c0febee91a3af67b12565eb3a6def0b0e89189cd4f9e364a10724865740f54473eddbae97733f90b7d03e2e82aa6811157861add349d5c4c9aaba837760c17b5c81507c3c821704a44e7cb374172c3e740d3e3c3c7c0/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/1c/Viasat_Golf_old_logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|GOLF|[COLOR red]•[/COLOR]|[COLOR white] JTBC GOLF[/COLOR] [KOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] JTBC GOLF [COLOR red]•[/COLOR][/B]</title>
 <link>http://edge1.everyon.tv/etv1sb/phd58/chunklist_w570063991.m3u8?time=1454374878239</link>
 <thumbnail>http://photo.jtbc.joins.com/news/2015/03/17/201503170130391808.jpg</thumbnail>
 </item>
