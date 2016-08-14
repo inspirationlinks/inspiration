@@ -38,7 +38,7 @@
 </item>
 
 <item> 
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
+<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
@@ -47,12 +47,12 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
