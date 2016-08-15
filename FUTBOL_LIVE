@@ -295,39 +295,6 @@
 </item>
 
 
-
-
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.207.8:8080/OPTPbeETy-1/counter1/index.m3u8</link>
-<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/OPTPbeETy-2/counter2/index.m3u8</link>
-<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport 3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/OPTPbeETy-U/counter1/index.m3u8</link>
-<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Bt Sport/Espn [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/OPTPbteiSsepn/counter1/index.m3u8</link>
-<thumbnail>http://img01.bt.co.uk/s/assets/260716/images/BT_logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sky Sports 1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://149.202.85.84:8080/OPTPsyjkiy-1/counter1/index.m3u8</link>
-<thumbnail>http://chockakodi.com/Sky-sports.jpg</thumbnail>
-</item>
-
-
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] l'Equipe 21 [COLOR red]•[/COLOR][COLOR white] [FR][/COLOR][/B]</title>
 <link>http://streaming-hub.com/stream/lequipe21.m3u8</link>
@@ -375,11 +342,6 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://213.81.153.241/live001/channel028_p4.stream/DVR.m3u8</link>
-<thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] NOVA SPORT1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://46.47.133.90:80/hls/Nova_Sport_1_HD_low.m3u8</link>
 <thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
 </item>
 <item>
@@ -440,6 +402,37 @@
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Eurosport 1 [COLOR red]•[/COLOR][COLOR white] [UK][/COLOR][/B]</title>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rxuusq1462992367.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Eurosport 2 [COLOR red]•[/COLOR][COLOR white] [RU][/COLOR][/B]</title>
+<link>http://www.sport24.pw/hls/Eurosport2.m3u8</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rspyuw1462992381.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Real Madrid [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
+<link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8</link>
+<thumbnail>http://s32.postimg.org/b9xd3yu11/real_madrid.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Versus Tv [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>http://s32.postimg.org/8w5i4vgxx/image.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] POKER CENTRAL [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>http://pokerground.com/en/wp-content/uploads/2015/10/PC-poker-central-tv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RED BULL TV [COLOR red]•[/COLOR][COLOR white]   [/COLOR][/B]</title>
+<link>http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_fb1660.m3u8</link>
+<thumbnail>http://s32.postimg.org/o4dfpu96t/redbull_tv_logo_2x.png</thumbnail>
+</item>
 
 
 <item>
