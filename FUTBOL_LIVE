@@ -77,6 +77,12 @@
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/902.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/fr443500/75019pa/2325.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
@@ -167,6 +173,12 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.78.191.43:2008&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/907.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/782.ts&amp;name=INSPIR@TION</link>
