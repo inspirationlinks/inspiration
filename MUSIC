@@ -15,6 +15,39 @@
 <referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20140730081259/the-hills/images/7/75/MTV_Logo_white1.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] iConcerts [COLOR red]•[/COLOR][/B]</title>
+<link>http://er-cdn.ertelecom.ru/os/video/hls/65c44bb9e7e19c1dc6049b1f5ce535487ea962f7a98fb40ba12c9125918481df4eb4f5de875beb4f1f7c7323ad8653dba36f8f9d5465a5a7aa157404915fa38898abf307a23a3e0a0a198fb74600d743ef6242bd2d26f2a8f3185a4df477567ec8fcb29ecb99824ea0a342e105f709fbf793b1f1ab3eb5f29a7a7792370deec1be23597f317e3d56e9e3e130eeeeda7a8d29e2e1b69d45fa3946b7c1f42c6f8cf37fb117d182bbc86be9b0e991307e5b04b4b9be56d2460138d36f4cb89eb0837b3e9563560f985e7710f25e4317df4c74c248f73013b5643669c4107162f677/playlist.m3u8</link>
+<thumbnail>https://www.thematv.com/medias/channels/iconcerts/iConcerts_logo_officiel_300dpi.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TELE MUSICA [COLOR red]•[/COLOR][/B]</title>
+<link>http://186.155.200.118:1935/live/telemusica/playlist.m3u8</link>
+<thumbnail>http://s4.postimg.org/rogbj2eql/TEM.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] STARDS TV [COLOR red]•[/COLOR][COLOR white] [POL][/COLOR][/B]</title>
+<link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8</link>
+<thumbnail>http://i.wp.pl/a/f/png/32041/stars-tv-logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] AMAZING TV [COLOR red]•[/COLOR][COLOR white] [POL][/COLOR][/B]</title>
+<link>http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
+<thumbnail>http://www.a-mazingshop.com/wp-content/uploads/2015/01/AMAZING-LOGO-BRANCO3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] REAL HIP HOP TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://rhn.tulix.tv/live/Stream1/playlist.m3u8</link>
+<thumbnail>http://media1.webgarden.com/images/media1:507efeceec68e.jpg/real-hip-hop-1.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TIGO MUSIC [COLOR red]•[/COLOR][COLOR white] [COL][/COLOR][/B]</title>
+<link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8</link>
+<thumbnail>https://media.licdn.com/media/p/4/005/097/191/0d8cfc7.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] hit tv [COLOR red]•[/COLOR][/B]</title>
