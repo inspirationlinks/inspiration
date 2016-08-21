@@ -21,6 +21,31 @@
 <thumbnail>https://www.thematv.com/medias/channels/iconcerts/iConcerts_logo_officiel_300dpi.png</thumbnail>
 </item>
 
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 CLASSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://92.50.181.6/tv/1282/index.m3u8?extension=m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/2000px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://92.50.181.6/tv/1281/index.m3u8?ts?fix</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://84.43.207.130/vh1/vh1.m3u8?ts?fix</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MCM TOP [COLOR red]•[/COLOR][/B]</title>
+<link>http://92.50.181.6/tv/1161/index.m3u8?ts?fix</link>
+<thumbnail>http://images2.wikia.nocookie.net/__cb20100405070728/logopedia/images/9/94/MCM_Top_2004.svg</thumbnail>
+</item>
+
+
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] TELE MUSICA [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://186.155.200.118:1935/live/telemusica</link>
