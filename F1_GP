@@ -1,6 +1,12 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] EXTREME SPORT [/COLOR][/B]</title>
+<link>http://93.87.85.70/PLTV/88888888/224/3221226673/04.m3u8</link>
+<thumbnail>http://media.paperblog.fr/i/400/4008391/extreme-sport-channel-T-HULNBD.jpeg</thumbnail>
+</item>
 	
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY FORMULA1[/COLOR][/B] [PLEXUL]</title>
@@ -8,12 +14,6 @@
 <thumbnail>http://s32.postimg.org/cvsoe8wp1/image.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Eurosport [COLOR red]2 Xtra[/COLOR][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.109.16.8:8880/live/myhome/myhome/561.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Sportv5[/B][/COLOR]</title>
@@ -28,22 +28,11 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] Sportv 4/5[/COLOR] [RTMP][/B]</title>
-<link>rtmp://179.43.158.195:16625/stream/ playPath=0tkVGgd2jl.stream?t2466a617kt260i6714rt408i3422nt2466a617kt260i628kt260i6714rt2466a617kt260i6714rt260i6714rt409i617yt409i617y swfUrl=http://thecdn.04stream.com/p/ooolo1.swf flashver=WIN/2021,0,0,242 timeout=10 live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=ttother&width=600&height=460&a=t6617a936kt734i9934rt457i2946nt6617a936kt734i722kt734i9934rt6617a936kt734i9934rt734i9934rt494i936yt494i936y&st=14l4t5n4w5c4t2s4643683u5t3q4f46454q5i4p2p243z244746453z3w213e4s203z2&adx=&stream=i574j564c4k5w254645434b444h5c4n23406h4a3f413x2766476e3s5x3f3o5a4u2d4f424r2a4z2v224p2f43464f413p2e4a4n234n4q5e3h49454v4s2p4d3n485t4p5c434h4k2m4m4k4f484p3p3e5e4a4v5a4z3244634p2o23434u2c4z2h5x2q2l554b45434d403b4l5n5438433z2d4c4u2y284n5x284y233i5m234242434p2o234z3&sooor=NA==&str=is&ok=&cat=3&link=1&idom=firstrowas.co</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail> </item>
-</item>
-
-
-<item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/1247.ts&amp;name=INSPIR@TION</link>
+<link>http://premium.exabytetv.info/xtc/oekxkosnenfkznenfkxkzndkd/972/exabytetv.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GP[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/1499.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] MOVISTAR GP[/B][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/1070.ts&amp;name=INSPIR@TION</link>
@@ -56,11 +45,6 @@
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR] [UK]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/278.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] SKY F1[/B][/COLOR] [UK]</title>
@@ -147,10 +131,4 @@
 <title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] HORSE BRASIL[/COLOR][/B]</title>
 <link>rtmp://490636978.r.worldcdn.net/490636978/_definst_/ playpath=horsebrasil1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/horse-brasil-channel</link>
 <thumbnail>https://lh3.googleusercontent.com/E3PYrUYXpI6d1SCz-4evIlka5JXwV7qjJpccxtklNM7dGe_IV4_PGHtNPf8Am-WR6w=w300</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|F1/GP|[COLOR red]•[/COLOR]|[COLOR white] EXTREME SPORT [/COLOR][/B]</title>
-<link>http://93.87.85.70/PLTV/88888888/224/3221226673/04.m3u8</link>
-<thumbnail>http://media.paperblog.fr/i/400/4008391/extreme-sport-channel-T-HULNBD.jpeg</thumbnail>
 </item>
