@@ -3,6 +3,13 @@
 
 
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][/B]</title>
+<link>http://5.249.85.21:9981/stream/channelid/1778557490?ticket=2FA609581C1881CD64E8CACF3A819C4A642E4FD6&profile=pass</link>
+<thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
@@ -96,3 +103,4 @@
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
+
