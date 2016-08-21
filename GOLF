@@ -1,21 +1,11 @@
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4/5 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2475.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/881.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sportv4/5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil][/B][/COLOR]</title>
-<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv4</sportsdevil>
-<referer>http://www.europeu2016.net</referer>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=sporttv4-2</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
 
 <item>
@@ -28,17 +18,6 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] NBCS Golf [COLOR red]•[/COLOR][/B]</title>
 <link>http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] NBCS Golf [COLOR red]•[/COLOR][/B]</title>
-<link>http://46.47.133.90:80/hls/Golf_Channel_HD_low.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] ČT SPORT2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://46.47.133.91:80/hls/CT2HD_low.m3u8</link>
-<thumbnail>http://www.jergym.cz/wp-content/uploads/2015/04/Logo-%C4%8CT-4.png</thumbnail>
 </item>
 
 <item>
