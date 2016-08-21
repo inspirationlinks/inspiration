@@ -123,12 +123,6 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/3510.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv2</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
@@ -203,8 +197,8 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR FUTBOL [COLOR red]•[/COLOR] [COLOR white][RTMP][/B][/COLOR]</title>
-<link>rtmp://www1.iguide.to/iguide playpath=qps2xky5x5q2d5w swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR FUTBOL [COLOR red]•[/COLOR] [COLOR white][/B][/COLOR]</title>
+<link>http://getanotherurl.com/got.php</link>
 <thumbnail>http://www.adslzone.net/app/uploads/2015/09/movistar-plus-bein-sports.jpg</thumbnail>
 </item>
 
