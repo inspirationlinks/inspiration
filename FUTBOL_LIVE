@@ -36,6 +36,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR blue][B]****[COLOR white] LIGA NOS | CHAMPIONS LEAGUE [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
 <link>http://chupamos.com</link>
@@ -45,14 +48,20 @@
 
 <item>
 <title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://c648625319d6d4890ad809038ca529a347107bac&amp;mode=1&amp;name=INSPIR@TION</link>
+<link>plugin://program.plexus/?url=acestream://bb025fa041af88d244e2d679618f7d776513a3c8&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
 </item>
 <item>
 <title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://c950cbbfbfb27b8d93bfa2e69149ab775d3aad72&amp;mode=1&amp;name=INSPIR@TION</link>
+<link>plugin://program.plexus/?url=acestream://5d2e9ed30c83fc9af260f71b6cff5b6bdb97d22c&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
 </item>
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] OLYMPIACOS-AROUCA [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -117,6 +126,12 @@
 </item>
 
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV2 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://83.78.191.43:2066/</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
@@ -129,6 +144,11 @@
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV3 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://83.78.191.43:2067/</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV4 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -141,6 +161,20 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=sporttv5</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=sporttv5</sportsdevil>
+<referer>http://www.sporttvsonline.net</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV5 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv5</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
