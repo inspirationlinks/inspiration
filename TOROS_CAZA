@@ -1,82 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL+ Toros[/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL+ Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://31.220.40.63/privatestream/torosch?keys=M8ReMYY8tGpfltWwBP6kWA&amp;keyt=1462784358 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3186.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/1470.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/797.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1345.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CANAL Toros[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.18.33:7777/live/bakrired/Zux6Q4x6HN/3186.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] IBERALIA[/B] [OFF/ON] [/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [OFF/ON][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=XXXXXXXXXXX&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CAZA E PESCA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/es4/es4/981.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
-</item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CAZA E PESCA[/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CAZA E PESCA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1126.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CAZA E PESCA[/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CAZA E PESCA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2485.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] CACAVISION[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/794.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CACAVISION[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://83.78.191.43:2011/</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] Fishing & Hunting[/COLOR] [RU][/B]</title>
-<link>http://46.47.133.91:80/hls/FishHunt_low.m3u8</link>
-<thumbnail>http://s10.postimg.org/6grxfgoux/screenshot_9.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] OUTDOOR [COLOR red]•[/COLOR] [COLOR white][PLEXUL] [mudar audio para UK] [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://221ec965e2ed95e7dacb9d9775e4800e87c65ec7&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Outdoor_Channel.svg/1280px-Outdoor_Channel.svg.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] NAUTICAL CHANNEL[/COLOR] [mudem o audio para UK][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NAUTICAL CHANNEL[/COLOR] [mudem o audio para UK][/B]</title>
 <link>http://82.200.127.58:8080/udp/233.12.144.11:5050</link>
 <thumbnail>https://media.licdn.com/media/p/7/000/1e1/331/0ff1f77.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|CAZA|[COLOR red]•[/COLOR]|[COLOR white] Fish Tv[/COLOR] [Sport Devil][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Fish Tv[/COLOR] [Sport Devil][/B]</title>
 <sportsdevil>http://tv-msn.com/fishtv2.php</sportsdevil>
 <referer>http://tv-msn.com/</referer>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png</thumbnail>
