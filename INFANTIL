@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR cyan]JAMI[/B][/COLOR] [Séries Infantis]</title>
+<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR cyan]JAMI[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [Séries Infantis]</title>
 <fanart>http://s32.postimg.org/nzdzwooat/fanart.jpg</fanart>
 <thumbnail>http://s32.postimg.org/jozc13j7p/icon.png</thumbnail>
 <link>http://fui.me</link>
@@ -10,65 +10,60 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]SIC K[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2052.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SIC K[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/3936.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]BABY FIRTS[/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BABY FIRTS[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://178.33.226.36:8000/live/olsi/olsi/1961.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]BABY TV[/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BABY TV[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/3242.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qwyswv1433940875.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CANAL PANDA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1165.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL PANDA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://83.78.191.43:2044</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CANAL PANDA[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/823.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL PANDA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1193.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]PANDA BiGGS [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]PANDA BiGGS [/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1676.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] PANDA BiGGS [/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/4335.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]NICKELODEON[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] NICKELODEON[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-214-31.rev.poneytelecom.eu:5890/live/101158/101158/1206.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]JIM JAM[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1423.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] JIM JAM[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/3692.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]DISNEY CHANNEL[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1162.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DISNEY CHANNEL[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/3696.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CARTOON NETWORK[/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1161.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CARTOON NETWORK[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/210070886404/566a94fd44fc2/2323.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
@@ -78,38 +73,38 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CARTOON NETWORK SD[/B][/COLOR] [BR] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CARTOON NETWORK SD[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR] </title>
 <link>http://213.163.65.9:8081/live/cartoonk/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CARTOON NETWORK SD[/B][/COLOR] [BR] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CARTOON NETWORK SD[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR] </title>
 <link>http://31.204.152.6:8081/live/cartoonk/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]DISNEY CHANNEL SD[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DISNEY CHANNEL SD[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR]</title>
 <link>http://31.204.152.6:8081/live/disney/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]Discovery Kids[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Discovery Kids[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR]</title>
 <link>http://31.204.152.6:8081/live/discoverykids/playlist.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]MILK PLAY[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] MILK PLAY[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR]</title>
 <link>http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8</link>
 <thumbnail>http://oi63.tinypic.com/250v6yo.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]RCR tv[/B][/COLOR] [BR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RCR tv[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR]</title>
 <link>http://painel.tvdigitalhd.org:1935/rcrtv/rcrtv/live.m3u8</link>
 <thumbnail>http://oi64.tinypic.com/oucv37.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]CARTOON OLD[/B][/COLOR] [UK] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CARTOON OLD[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [UK] </title>
 <link>rtsp://72.13.93.186/campcartoon</link>
 <thumbnail></thumbnail>
 </item>
@@ -117,19 +112,19 @@
 
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]ANIME TV[/B][/COLOR] [MEX] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ANIME TV[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [MEX] </title>
 <link>http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8</link>
 <thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TOONAMI[/B][/COLOR] [USA] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TOONAMI[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [USA] </title>
 <link>http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/6uhiqr9c5/animetv.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B]|[COLOR red]•[/COLOR]|Kids|[COLOR red]•[/COLOR]|[COLOR white]  [COLOR white]TV ESCOLA[/B][/COLOR] [BR] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TV ESCOLA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B] [BR] </title>
 <link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
 <thumbnail>http://s32.postimg.org/qxr47qpl1/tvescola.png</thumbnail>
 </item>
