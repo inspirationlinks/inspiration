@@ -10,12 +10,12 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2476.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORTING TV [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/210070886404/566a94fd44fc2/2299.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://i.imgur.com/QxojNeQ.png</thumbnail>
 </item>
@@ -59,6 +59,11 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/326.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][/B]</title>
