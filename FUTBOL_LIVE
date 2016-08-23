@@ -27,15 +27,6 @@
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
-<item> 
-<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
-<link>http://fui.me</link> 
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
-<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
-</item>
-
-
-
 
 
 
@@ -46,18 +37,27 @@
 </item>
 
 
+
+<item> 
+<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
+<link>http://fui.me</link> 
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
+<thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
+</item>
+
+
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL-IT][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://bb025fa041af88d244e2d679618f7d776513a3c8&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
 </item>
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://5d2e9ed30c83fc9af260f71b6cff5b6bdb97d22c&amp;mode=1&amp;name=INSPIR@TION</link>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL-PT][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
 </item>
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] OLYMPIACOS-AROUCA [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] OLYMPIACOS-AROUCA [COLOR red]•[/COLOR] [COLOR white][PLEXUL-PT][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
@@ -88,6 +88,13 @@
 <link>http://83.78.191.43:2065/</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.51.46:8000/live/silvanoferreira.sf@Alfa/QeYnuV89H3/1157.ts&amp;name=INSPIR@TION</link>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/1619.ts&amp;name=INSPIR@TION</link>
@@ -230,11 +237,7 @@
 </item>
 
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR FUTBOL [COLOR red]•[/COLOR] [COLOR white][/B][/COLOR]</title>
-<link>http://tinyurl.com/jbqaptj</link>
-<thumbnail>http://www.adslzone.net/app/uploads/2015/09/movistar-plus-bein-sports.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT 1 [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
