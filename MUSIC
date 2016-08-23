@@ -34,20 +34,19 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://84.43.207.130/vh1/vh1.m3u8?ts?fix</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] MCM TOP [COLOR red]•[/COLOR][/B]</title>
 <link>http://92.50.181.6/tv/1161/index.m3u8?ts?fix</link>
 <thumbnail>http://images2.wikia.nocookie.net/__cb20100405070728/logopedia/images/9/94/MCM_Top_2004.svg</thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] BEATZ TV [COLOR red]•[/COLOR] [COLOR white][/B][/COLOR]</title>
+<link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
+<thumbnail>https://rpmedia.radiopilatus.ch/media/1/15664_23-07-2013_18-37-34_large.jpg</thumbnail>
+</item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] TELE MUSICA [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TELE MUSICA [COLOR red]•[/COLOR] [COLOR white][LATINO][/B][/COLOR]</title>
 <link>rtmp://186.155.200.118:1935/live/telemusica</link>
 <thumbnail>http://s4.postimg.org/rogbj2eql/TEM.png</thumbnail>
 </item>
@@ -61,6 +60,12 @@
 <link>http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
 <thumbnail>http://www.a-mazingshop.com/wp-content/uploads/2015/01/AMAZING-LOGO-BRANCO3.png</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] AMAZING TV [COLOR red]•[/COLOR][COLOR white] [POL][/COLOR][/B]</title>
+<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
+<thumbnail>http://www.a-mazingshop.com/wp-content/uploads/2015/01/AMAZING-LOGO-BRANCO3.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] REAL HIP HOP TV [COLOR red]•[/COLOR][/B]</title>
@@ -80,19 +85,61 @@
 <thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] AMAZING [COLOR red]•[/COLOR][/B]</title>
-<link>http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8</link>
-<thumbnail>http://oi63.tinypic.com/w6t8u9.jpg</thumbnail>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] hit tv [COLOR red]•[/COLOR][/B]</title>
+<link>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8</link>
+<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
 </item>
+
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC [COLOR red]•[/COLOR][/B]</title>
 <link>rtmp://5.154.185.153/live/live.flv</link>
 <thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC1 [COLOR red]•[/COLOR][/B]</title>
+<link>http://5.154.185.153/hls/live.m3u8</link>
+<thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTL 102.5 [COLOR red]•[/COLOR] [COLOR white][IT][/B][/COLOR]</title>
+<link>http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/3/34/Logo-RTL.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FOR MUSIC TV [COLOR red]•[/COLOR] [COLOR white][IT][/B][/COLOR]</title>
+<link>http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/572029553032175616/D_Lw88lW.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ReTV Jamaica [COLOR red]•[/COLOR][/B]</title>
+<link>http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8</link>
+<thumbnail>http://realjamaicantelevision.com/sites/default/files/retv_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TV 538 MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/85/538_logo_2012.png</thumbnail>
+</item>
+
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] RETRO MUSIC [COLOR red]•[/COLOR][/B]</title>
 <link>http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8</link>
 <thumbnail>http://okteve.com/wp-content/uploads/media/ce702977d6c9d02d36d78bc8ba517c42.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Big Pond Music [COLOR red]•[/COLOR][/B]</title>
+<link>http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high</link>
+<thumbnail>http://www.musicoz.org/media/663-BPM_Logo_stores_lightbg.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] City Radio & TV [COLOR red]•[/COLOR] [COLOR white][BULGARIA][/B][/COLOR]</title>
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif</thumbnail>
 </item>
 
 <item>
@@ -101,7 +148,32 @@
 <thumbnail>http://oi63.tinypic.com/rk7i44.jpg</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CAPITAL TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
+<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
+<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
+</item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DREAM TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
+<thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] M20 TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_(2012).png</thumbnail>
+</item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Radio 105 TV [COLOR red]•[/COLOR][/B]</title>
 <link>http://fms.105.net:1935/live/105Test1/playlist.m3u8</link>
@@ -118,9 +190,10 @@
 <thumbnail>https://pbs.twimg.com/profile_images/446220611447033856/t6ghnFTy.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] 6 Music [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] 6 Music [COLOR red]•[/COLOR] [COLOR white][FR][/B][/COLOR]</title>
 <link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 <thumbnail></thumbnail>
+
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] M MUSIQUE [COLOR red]•[/COLOR][/B]</title>
@@ -128,26 +201,7 @@
 <thumbnail>http://dj-josemix.hol.es/fotomusica/mimusica.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CAPITAL TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
-<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] DREAM TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
-<thumbnail>http://vector.me/files/images/1/1/11221/dream_tv.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] M20 TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_(2012).png</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] ONE 1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://rtmp.one.by:1300/</link>
@@ -163,7 +217,11 @@
 <link>http://www.iptvsaga.com/play/tv3/0077.m3u8</link>
 <thumbnail>https://i.ytimg.com/vi/jgpJVI3tDbY/maxresdefault.jpg</thumbnail>
 </item>
-
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] DELUXE MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/2000px-DeluxeMusic2013.svg.png</thumbnail>
+</item>
 
 
 <item>
