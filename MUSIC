@@ -29,6 +29,12 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/2000px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
 </item>
 <item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 CLASSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://hls.novotelecom.ru/streaming/vh1/tvrec/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/2000px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://92.50.181.6/tv/1281/index.m3u8?ts?fix</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
@@ -43,6 +49,17 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] BEATZ TV [COLOR red]•[/COLOR] [COLOR white][/B][/COLOR]</title>
 <link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
 <thumbnail>https://rpmedia.radiopilatus.ch/media/1/15664_23-07-2013_18-37-34_large.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
+<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
+<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
 </item>
 
 <item>
@@ -152,16 +169,6 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CAPITAL TV [COLOR red]•[/COLOR][/B]</title>
 <link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Capital_TV_logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8</link>
-<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] HEART TV [COLOR red]•[/COLOR][/B]</title>
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&amp;rebase;=on</link>
-<thumbnail>http://i3.mirror.co.uk/incoming/article7729903.ece/ALTERNATES/s615b/Heart-FM.jpg</thumbnail>
 </item>
 
 <item>
