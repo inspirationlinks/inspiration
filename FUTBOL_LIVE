@@ -27,17 +27,6 @@
 <fanart>http://www.simplysmartapps.net/img/icon03.png</fanart>
 </item>
 
-
-
-
-<item>
-<title>[COLOR blue][B]****[COLOR white] LIGA NOS | CHAMPIONS LEAGUE [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
-<link>http://chupamos.com</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
-</item>
-
-
-
 <item> 
 <title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
@@ -47,40 +36,147 @@
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL-IT][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://bb025fa041af88d244e2d679618f7d776513a3c8&amp;mode=1&amp;name=INSPIR@TION</link>
+<title>[COLOR blue][B]****[COLOR white] JOGOS EM DESTAQUE [COLOR red] PLEXUS [COLOR blue]**** [/COLOR][/B]</title>
+<link>http://chupamos.com</link>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] MANCHESTER CITY-STEAUA BUCHAREST [COLOR red]•[/COLOR] [COLOR white][19:45H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av12</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
 </item>
+
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ROMA VS PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL-PT][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=INSPIR@TION</link>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ROSTOV-AJAX [COLOR red]•[/COLOR] [COLOR white][19:45H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
 <thumbnail>http://www.pictureshack.ru/images/4242uefa_champions_league512a.png</thumbnail>
-</item>
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] OLYMPIACOS-AROUCA [COLOR red]•[/COLOR] [COLOR white][PLEXUL-PT][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
 </item>
 
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b3ff36a1ae5c349dec02e2efaf8dee5e65721405&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<title>[COLOR green][B][COLOR red]•[/COLOR] OLYMPIACOS VS AROUCA [COLOR red]•[/COLOR] [COLOR white][QUI-19:45H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e4/Uefa_europa_league_logo_20152018.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
 </item>
+
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://db52bd3a7514bfeccc247287215fa9d130da0886&amp;mode=1&amp;name=INSPIR@TION</link>
+<title>[COLOR green][B][COLOR red]•[/COLOR] HULL CITY-MANCHESTER UNITED [COLOR red]•[/COLOR] [COLOR white][SAB-17:30H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6e/Premiership20072008.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] REAL MADRID-CELTA [COLOR red]•[/COLOR] [COLOR white][SAB-19:15H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av1</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://www.ogol.com.br/img/logos/competicoes/5_imgbank_d1_20150421164611.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ATHLETIC CLUB-FC BARCELONA [COLOR red]•[/COLOR] [COLOR white][DOM-19:15H][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://www.ogol.com.br/img/logos/competicoes/5_imgbank_d1_20150421164611.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B]****[COLOR white] LIGA NOS [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
+<link>http://chupamos.com</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR blue][B]****[COLOR cyan] DESPORTO [COLOR red] NACIONAL [COLOR blue]**** [/COLOR][/B]</title>
-<link>plugin://</link>
+<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR blue][LIGA NOS][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av8</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
 </item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] SPORTING | BENFICA | PORTO [COLOR red]•[/COLOR] [COLOR blue][LIGA NOS][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av9</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+
+
+
 
 
 <item>
