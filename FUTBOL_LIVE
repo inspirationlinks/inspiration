@@ -49,7 +49,7 @@
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av12</page>
+<page>http://www.arenavision.in/av4</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
