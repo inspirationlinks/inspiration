@@ -149,9 +149,9 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Big Pond Music [COLOR red]•[/COLOR][/B]</title>
-<link>http://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high</link>
-<thumbnail>http://www.musicoz.org/media/663-BPM_Logo_stores_lightbg.jpg</thumbnail>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Electro Sound Tv [COLOR red]•[/COLOR][/B]</title>
+<link>http://www.electrosound.tv:1935/public/stream/chunklist.m3u8</link>
+<thumbnail>http://static.radio.net/images/broadcasts/0b/10/3697/c175.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] City Radio & TV [COLOR red]•[/COLOR] [COLOR white][BULGARIA][/B][/COLOR]</title>
@@ -199,7 +199,7 @@
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] 6 Music [COLOR red]•[/COLOR] [COLOR white][FR][/B][/COLOR]</title>
 <link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
-<thumbnail></thumbnail>
+<thumbnail>http://m6music.free.fr/m6music/im2/m6_music.png</thumbnail>
 
 </item>
 <item>
