@@ -52,6 +52,14 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
@@ -60,13 +68,38 @@
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] F4M [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/326.ts&amp;name=INSPIR@TION</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex><name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/yameu/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<fanart></fanart>                        
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>                
+<sportsdevil>http://www.europeu2016.net/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.europeu2016.com
+</referer>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
