@@ -321,6 +321,10 @@
 </item>
 
 
+
+
+
+
 <item>
 <title>[COLOR blue][B]****[COLOR cyan] CANAIS [COLOR red] INTERNACIONAIS [COLOR blue]**** [COLOR red]•[/COLOR][/B]</title>
 <link>plugin://</link>
@@ -330,16 +334,8 @@
 
 
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT 1 [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://torrent-tv.ru/uploads/XqwvMS8Hn0mOpbh79esrIqELTsvo5b.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT 2 [COLOR red]•[/COLOR] [COLOR white][PLEXUL][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=acestream://b2825d1f94b08f246051365a75ad3b9198832705&amp;mode=1&amp;name=INSPIR@TION</link>
-<thumbnail>http://torrent-tv.ru/uploads/q0PokCXx6jtCHEPMvE42I0pD3ZNY0o.png</thumbnail>
-</item>
+
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
@@ -350,18 +346,6 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Select  [COLOR red]•[/COLOR][COLOR white] [NL][/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2622.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Extra Deportes [COLOR red]•[/COLOR][COLOR white] [MEX][/COLOR][/B]</title>
-<link>http://stream.ssh101.com:1935/live/extra500/chunklist.m3u8</link>
-<thumbnail>https://yt3.ggpht.com/-kKhVHgce85I/AAAAAAAAAAI/AAAAAAAAAAA/vgq3xLwtT7k/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] tdp [COLOR red]•[/COLOR][COLOR white] [ESP][/COLOR][/B]</title>
-<link>http://rlu.ru/12fqK</link>
-<thumbnail>http://img.blogs.es/zenithmedia/wp-content/uploads/2015/06/deporte-tdp-copia.jpg</thumbnail>
 </item>
 
 
