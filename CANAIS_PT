@@ -2,68 +2,62 @@
 
 
 <item>
-<title>[COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/COLOR][COLOR white] PORTUGAL [/COLOR][COLOR lime] [B]***[COLOR red] •PT• [/COLOR]***[/B][/COLOR]</title>
-<link>http//fui.me</link>
-<thumbnail>http://s32.postimg.org/9gbzrk2dh/image.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR red] WEATHER CHANNEL[/I][/B][/COLOR] Pedido (Jony usuario)</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] WEATHER CHANNEL [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B] Pedido (Jony usuario)</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://s32.postimg.org/wwca9x3lx/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] RTP 1 [/I][/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] [rtmp]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] RTP 1 [/I][/B][/COLOR] [Sport Devil] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] [Sport Devil] </title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
 <referer>http://www.rtp.pt/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 <item> 
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] RTP 1 [/I][/B][/COLOR]</title> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title> 
 <link>http//fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?url=ZGlyZWN0MjpodHRwOi8vcnRwLXB1bGwtbGl2ZS5obHMuYWRhcHRpdmUubGV2ZWwzLm5ldC9saXZlcmVwZWF0ZXIvc21pbDpydHAxLnNtaWwvcGxheWxpc3QubTN1OHxVc2VyLUFnZW50PUFwcGxlQ29yZU1lZGlhLzEuMC4wLjEzQTQ1MiAoaVBob25lOyBVOyBDUFUgT1MgOV8wXzIgbGlrZSBNYWMgT1MgWDsgZW5fZ2Ip&amp;mode=11&amp;name=%5BCOLOR%20lime%5DRTP+1%5B%2FCOLOR%5D</jsonrpc>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP ÁFRICA[/I][/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP ÁFRICA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP MEMÓRIA[/I][/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP MEMÓRIA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ysyyxw1438185870.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP MADEIRA[/I][/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP MADEIRA [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uqsxxr1438186346.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP AÇORES[/I][/B][/COLOR] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP AÇORES [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP INTERNACIONAL[/I][/B][/COLOR] [rtmp] [transmite jogos]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B] [transmite jogos]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR] [COLOR lime] RTP INTERNACIONAL [/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtpinternacional</sportsdevil>
 <referer></referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 </item>
 
 <item> 
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] SIC [/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SIC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>rtmp://$doregex[get-ip]/stream playpath=SIC813747234?id=23687&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf flashver=MAC20,0,0,306 pageUrl=http://www.liveflashplayer.net/embedplayer/SIC813747234/1/565/440</link>
 <regex>
 <name>get-ip</name>
@@ -79,38 +73,49 @@
 </regex>
 </item>
 
+<item> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SIC [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/sic77888/1/600/450</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.fremantlemedia.pt/sites/default/files/pictures/Logos/small/_sic.png</thumbnail>
+</regex>
+</item>
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] SIC Noticias [/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SIC Noticias [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.43/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tviol.com/tv/sicnoticias.html</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wtpyqt1436899156.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI [/I][/B][/COLOR] HQ</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TVI [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] HQ</title>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TVI [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://195.23.102.218:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_pt.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI 24[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TVI 24 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://195.23.102.218:1935/live_tvi24/LIVE_TVI24-1/inspirationlinks.m3u8</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/tt/tvi_24.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI REALITY[/I][/B][/COLOR]</title>
-<link>http://206.190.129.28:8088/live/TviReality2/playlist.m3u8?id=22428&pk=e2c9a8585da2a1b8b652dece34cfd798813628681b0453762477d22b70c4c18a</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png</thumbnail>
-</item>
-
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] TVI REALITY [/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TVI REALITY [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>rtmp://$doregex[get-ip]/live/ playpath=TviReality2?id=22428$doregex[pk] conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/TviReality2/1/545/440 live=true</link>
 <regex>
 <name>get-ip</name>
@@ -127,79 +132,162 @@
 
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Porto Canal[/I][/B][/COLOR] HQ [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Porto Canal[/I][/B][/COLOR] HQ</title>
-<link>http://213.13.26.11:1935/live/portocanal/jn.m3u8</link>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Porto Canal [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
+<link>http://213.13.26.11:1935/live/portocanal/INSPIR@TION.m3u8</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Económico Tv[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][/B]</title>
+<fanart></fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
+<info>...</info>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Económico Tv [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/qsxstr1436844125.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] ARTV[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ARTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvswvy1437956693.png</thumbnail>
 </item>
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]TV LISBOA[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] [B]TV LISBOA [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
 <thumbnail>http://i.imgur.com/tiLO5Il.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] [B]CLASS TV MODA[/I][/B][/COLOR] [USA]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] [B]CLASS TV MODA [COLOR red]•[/COLOR][COLOR white] [USA] [/COLOR][/B]</title>
 <link>http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8</link>
 <thumbnail>http://s32.postimg.org/vrkadrrb9/classtvmodasky.jpg</thumbnail>
 </item>
 
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] AXN[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=axn</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] AXN [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/axn1x/1/650/450</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rysqvw1445113783.png</thumbnail>
+</regex>
 </item>
 
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] AXN White[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=axnwhite</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] AXN White [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sqrpvs1445114021.png</thumbnail>
+</regex>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=fox</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FOX [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/foxcrl/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xquwxv1436847349.png</thumbnail>
+</regex>
 </item>
-<item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX Life[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=foxlife</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vqxvyr1433943623.png</thumbnail>
+
+
+<item>                        
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FOX Life [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/foxlifea/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vqxvyr1433943623.png</thumbnail>                      
+</regex>                        
 </item>
+
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX Crime[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=foxcrime</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FOX Crime [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/foxcrimex/1/650/500</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
 <thumbnail>http://s32.postimg.org/p9ioqj7yd/fox_crime.png</thumbnail>
+</regex>
 </item>
- 
+
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] FOX Movies[/I][/B][/COLOR] [Sport Devil]</title>
-<sportsdevil>http://www.desportonline.com/index.php?canal=foxmovies</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] FOX Movies [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title> 
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embedezcast.com</referer>
 <thumbnail>http://s32.postimg.org/45qpkkmpx/foxmovies.png</thumbnail>
+</regex>
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Hollywood[/I][/B][/COLOR] [Sport Devil]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Hollywood [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.desportonline.com/index.php?canal=hollywood</sportsdevil>
 <referer>http://www.sportvdireto.online/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tupvuv1436899688.png</thumbnail>
@@ -208,7 +296,7 @@
 
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Discovery[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Discovery [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -224,7 +312,7 @@
 </item>
 
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] História[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] História [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
@@ -239,27 +327,13 @@
 </regex>
 </item>
 
+
+
 <item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Nat Geo[/I][/B][/COLOR]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Odisseia [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 <regex>
 <name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex><regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embeducaster.com/membedplayer/natgeoax/1/650/500</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/rquqpy1436893327.png</thumbnail>
-</regex>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]•|| PT ||•[/COLOR][COLOR lime] Odisseia[/I][/B][/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex><name>ip</name>
 <expres>redirect=(.*)</expres>
 <page>http://www.pubucaster.com:1935/loadbalancer</page>
 </regex>
@@ -272,3 +346,22 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png</thumbnail>
 </regex>
 </item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Nat Geo [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>rtmp://$doregex[get-ip]/live playpath=natgeoax?id=84757&amp;pk=$doregex[get-pk] swfVfy=1 timeout=10 conn=S:OK live=1 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2019,0,0,226 pageUrl=http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>get-pk</name>
+<expres>pk=(.*?)'</expres>
+<page>http://www.embeducaster.com/embedplayer/natgeoax/1/650/500</page>
+<referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/rquqpy1436893327.png</thumbnail>
+</regex>
+</item>
+
+
