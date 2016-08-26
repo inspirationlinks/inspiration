@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] YOUTUBE REPLAY [COLOR red]•[/COLOR][COLOR white] Resumos de programas televisivos [/COLOR][/B]</title>
+<utube>UCl6GClF3K5NuEHJSXBKNexQ</utube>
+<thumbnail>http://s15.postimg.org/7048c7sq3/REPLAY.jpg</thumbnail>
+<fanart>http://www.teknolojii.net/wp-content/uploads/youtube1.jpg</fanart>
+</item>
+
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][/B]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] SPORT TV + [COLOR red]•[/COLOR][COLOR white] OFF [/COLOR][/B]</title>
 <link>http://5.249.85.21:9981/stream/channelid/1778557490?ticket=2FA609581C1881CD64E8CACF3A819C4A642E4FD6&profile=pass</link>
 <thumbnail>http://s13.postimg.org/uwqzaajvr/screenshot_33.png</thumbnail>
 </item>
