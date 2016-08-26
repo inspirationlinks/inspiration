@@ -197,7 +197,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][LIGA NOS][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][PLEXUS][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -212,7 +212,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][LIGA NOS][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][PLEXUS][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
