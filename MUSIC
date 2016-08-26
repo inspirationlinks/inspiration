@@ -24,28 +24,6 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 CLASSIC [COLOR red]•[/COLOR][/B]</title>
-<link>http://92.50.181.6/tv/1282/index.m3u8?extension=m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/2000px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 CLASSIC [COLOR red]•[/COLOR][/B]</title>
-<link>http://hls.novotelecom.ru/streaming/vh1/tvrec/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/2000px-LOGO_VH1_CLASSIC.svg.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] VH1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://92.50.181.6/tv/1281/index.m3u8?ts?fix</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1280px-VH1_Denmark.svg.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MCM TOP [COLOR red]•[/COLOR][/B]</title>
-<link>http://92.50.181.6/tv/1161/index.m3u8?ts?fix</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/9/90/MCM_TOP_2008.png</thumbnail>
-</item>
-
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] BEATZ TV [COLOR red]•[/COLOR] [COLOR white][/B][/COLOR]</title>
 <link>http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8</link>
 <thumbnail>https://rpmedia.radiopilatus.ch/media/1/15664_23-07-2013_18-37-34_large.jpg</thumbnail>
@@ -67,6 +45,12 @@
 <link>http://stream.smcloud.net/tv/vox/vox_720p/index.m3u8</link>
 <thumbnail>http://oklivetv.com/wp-content/uploads/2015/05/vox_tv_music_logo.jpg</thumbnail>
 </item>
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ESKA TV  [COLOR red]•[/COLOR][/B]</title>
+<link>http://stream.smcloud.net/live/eskatv/aylist.m3u8</link>
+<thumbnail>http://www.digitaltveurope.net/wp-content/uploads/2011/09/Eska-TV.jpg</thumbnail>
+</item>
+
 
 
 <item>
