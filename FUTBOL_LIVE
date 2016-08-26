@@ -7,14 +7,14 @@
 
 
 <item>
-<title>[COLOR blue][B]****[COLOR cyan] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR blue]**** [/COLOR][/B]</title>
+<title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
 <thumbnail></thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] PAKTV SPORTS [COLOR red]•[/COLOR][COLOR white] ZEMTV-SHANI[/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] PAKTV SPORTS [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=52&amp;name=PAKTVSPORTS&amp;url=sss</jsonrpc>
 <thumbnail>http://s32.postimg.org/9h6gqq5xh/zemtv.jpg</thumbnail>
@@ -22,14 +22,14 @@
 </item>
 
 <item> 
-<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title> 
+<title>[COLOR gold][B][COLOR red]•[/COLOR] SPORTS 365 LIVE [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title> 
 <link>http://fui.me</link> 
 <jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc> 
 <thumbnail>http://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/66-300x287.jpg</thumbnail> 
 </item>
 
 <item>
-<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white] LIVE FUTBOL AGENDA [/COLOR][/B]</title>
+<title>[COLOR gold][B][COLOR red]•[/COLOR] ARENAVISION.IN [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -69,10 +69,12 @@
   <referer>http://wizhdsports.com</referer>
 ]]></listrepeat>
 <expres><![CDATA[(?s)class="match".+?class="name">\s*(.+?)\s*<.*?margin.*?>([\d:\s-]+).+?channel.+?>(.+?)<script]]></expres>
-<page>http://wizhdsports.com/</page>
+<page>http://wizhdsports.to</page>
 <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
 <cookieJar></cookieJar>
 </regex>
+<thumbnail>http://wizhdsports.to/images/wiz.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/FUCtgye5ngg/hqdefault.jpg</fanart>
 
 <regex>
 <name>makelist2</name>
@@ -133,7 +135,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR blue][B]****[COLOR white] JOGOS EM DESTAQUE [COLOR red] PLEXUS [COLOR blue]**** [/COLOR][/B]</title>
+<title>[COLOR olive][B]****[COLOR white] JOGOS EM DESTAQUE [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
 <link>http://chupamos.com</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
@@ -143,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] HULL CITY-MANCHESTER UNITED [COLOR red]•[/COLOR] [COLOR white][SAB-17:30H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] HULL CITY-MANCHESTER UNITED [COLOR red]•[/COLOR] [COLOR salmon][SAB-17:30H][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -158,7 +160,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] REAL MADRID-CELTA [COLOR red]•[/COLOR] [COLOR white][SAB-19:15H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] REAL MADRID-CELTA [COLOR red]•[/COLOR] [COLOR salmon][SAB-19:15H][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -173,7 +175,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ATHLETIC CLUB-FC BARCELONA [COLOR red]•[/COLOR] [COLOR white][DOM-19:15H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ATHLETIC CLUB-FC BARCELONA [COLOR red]•[/COLOR] [COLOR salmon][DOM-19:15H][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -189,15 +191,22 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 
+
+
+
 <item>
-<title>[COLOR blue][B]****[COLOR white] LIGA NOS [COLOR red] PLEXUL [COLOR blue]**** [/COLOR][/B]</title>
+<title>[COLOR olive][B]****[COLOR white] LIGA NOS 16/17 [COLOR red] PLEXUL [COLOR olive]**** [/COLOR][/B]</title>
 <link>http://chupamos.com</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
 
 
+
+
+
+
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][PLEXUS][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -212,7 +221,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR blue][PLEXUS][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR red][PLEXUS][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
