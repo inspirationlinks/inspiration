@@ -52,9 +52,22 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 </item>
 
+<item>                        
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail> 
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+</item>
+
+<item>                        
+<title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>                                            
+<thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>                  
+<sportsdevil>http://www.europeu2016.net/index.php?canal=cmtv</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
+</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CMTV [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<fanart></fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wqrwxy1436843726.png</thumbnail>
 <sportsdevil>http://www.sporttvsonline.net/index.php?canal=cmtv</sportsdevil>
 <referer>http://www.sporttvsonline.com</referer>
@@ -81,6 +94,13 @@
 <referer>http://www.liveflashplayer.net</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Bola TV [COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=abolatv</sportsdevil>
+<referer>http://www.europeu2016.com</referer>
 </item>
 
 <item>
