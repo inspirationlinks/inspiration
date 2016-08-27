@@ -135,7 +135,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR olive][B]****[COLOR white] JOGOS EM DESTAQUE [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
+<title>[COLOR olive][B]****[COLOR white] LIGAS EUROPEIAS [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
 <link>http://chupamos.com</link>
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 </item>
@@ -145,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] HULL CITY-MANCHESTER UNITED [COLOR red]•[/COLOR] [COLOR salmon][SAB-17:30H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LA LIGA [COLOR salmon]+[/COLOR] PREMIER LEAGUE [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -154,43 +154,99 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/6e/Premiership20072008.png</thumbnail>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] REAL MADRID-CELTA [COLOR red]•[/COLOR] [COLOR salmon][SAB-19:15H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LA LIGA [COLOR salmon]+[/COLOR] PREMIER LEAGUE [COLOR red]•[/COLOR] [COLOR salmon][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av1</page>
+<page>http://www.arenavision.in/av4</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
-<thumbnail>http://www.ogol.com.br/img/logos/competicoes/5_imgbank_d1_20150421164611.png</thumbnail>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ATHLETIC CLUB-FC BARCELONA [COLOR red]•[/COLOR] [COLOR salmon][DOM-19:15H][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av2</page>
+<page>http://www.arenavision.in/av11</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
-<thumbnail>http://www.ogol.com.br/img/logos/competicoes/5_imgbank_d1_20150421164611.png</thumbnail>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av26</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] BUNDESLIGA [COLOR salmon]+[/COLOR] BRASIL SERIE A [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av24</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
 </item>
 
 
-
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] FRENCH LIGUE1 [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av12</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] FRENCH LIGUE1 [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av14</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
 
 
 
