@@ -74,6 +74,31 @@
 <thumbnail>http://www.a-mazingshop.com/wp-content/uploads/2015/01/AMAZING-LOGO-BRANCO3.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] TV 538 MUSIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_2.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/85/538_logo_2012.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] HIT TV [COLOR red]•[/COLOR][/B]</title>
+<link>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8</link>
+<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC [COLOR red]•[/COLOR][/B]</title>
+<link>http://5.154.185.153/hls/live.m3u8</link>
+<thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] City Radio & TV [COLOR red]•[/COLOR] [COLOR white][BULGARIA][/B][/COLOR]</title>
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] REAL HIP HOP TV [COLOR red]•[/COLOR][/B]</title>
@@ -86,29 +111,6 @@
 <thumbnail>https://media.licdn.com/media/p/4/005/097/191/0d8cfc7.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] hit tv [COLOR red]•[/COLOR][/B]</title>
-<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
-<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] hit tv [COLOR red]•[/COLOR][/B]</title>
-<link>http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8</link>
-<thumbnail>http://www.hittv.es/images/logo.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC [COLOR red]•[/COLOR][/B]</title>
-<link>rtmp://5.154.185.153/live/live.flv</link>
-<thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] ATOMIC1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://5.154.185.153/hls/live.m3u8</link>
-<thumbnail>http://oi64.tinypic.com/2u584kp.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] RTL 102.5 [COLOR red]•[/COLOR] [COLOR white][IT][/B][/COLOR]</title>
@@ -126,11 +128,6 @@
 <link>http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8</link>
 <thumbnail>http://realjamaicantelevision.com/sites/default/files/retv_logo.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] TV 538 MUSIC [COLOR red]•[/COLOR][/B]</title>
-<link>http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_2.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/85/538_logo_2012.png</thumbnail>
-</item>
 
 
 <item>
@@ -143,11 +140,6 @@
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Electro Sound Tv [COLOR red]•[/COLOR][/B]</title>
 <link>http://www.electrosound.tv:1935/public/stream/chunklist.m3u8</link>
 <thumbnail>http://static.radio.net/images/broadcasts/0b/10/3697/c175.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] City Radio & TV [COLOR red]•[/COLOR] [COLOR white][BULGARIA][/B][/COLOR]</title>
-<link>http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif</thumbnail>
 </item>
 
 <item>
