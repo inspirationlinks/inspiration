@@ -2,17 +2,17 @@
 
 
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] WEATHER CHANNEL [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B] Pedido (Jony usuario)</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] WEATHER CHANNEL [COLOR red]•[/COLOR][COLOR white]  Pedido (Jony usuario) [/COLOR][/B]</title>
 <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
 <thumbnail>http://s32.postimg.org/wwca9x3lx/image.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] [rtmp]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [rtmp][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1?tvdireto swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B] [Sport Devil] </title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP 1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
 <referer>http://www.rtp.pt/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/quvwwq1438183825.png</thumbnail>
@@ -45,7 +45,7 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwtq1438186288.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B] [transmite jogos]</title>
+<title>[COLOR lime][B][COLOR red]•[/COLOR] RTP INTERNACIONAL [COLOR red]•[/COLOR][COLOR white] [RTMP][/COLOR][/B]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png</thumbnail>
 </item>
