@@ -188,12 +188,12 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 </item>
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] BUNDESLIGA [COLOR salmon]+[/COLOR] BRAZIL SERIE A  [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] FRENCH LIGUE1 [COLOR salmon]+[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
 <expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av24</page>
+<page>http://www.arenavision.in/av13</page>
 <referer>http://www.arenavision.in</referer>
 <setcookie>beget=begetok</setcookie>
 <name>#bassfox#</name>
