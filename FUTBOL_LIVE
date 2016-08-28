@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] FRENCH LIGUE1 [COLOR salmon]+[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/avS3</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
 
 
 
@@ -231,6 +244,13 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
 <fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] LIGA NOS [COLOR red]•[/COLOR] [COLOR salmon][SOPCAST][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/262492&mode=2&amp;mode=2&amp;name=INSPIR@TION_LINKS</link>
+<thumbnail>http://s4.postimg.org/x4998hvkt/liganos.png</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
 </item>
 
 <item>
