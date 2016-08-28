@@ -174,7 +174,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </item>
 
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon][/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] FRENCH LIGUE1 [COLOR salmon]+[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon][/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
