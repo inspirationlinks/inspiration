@@ -4,6 +4,7 @@
 
 
 
+
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -187,22 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 </regex>
 </item>
 <item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] ITALIA SERIE A [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
-<regex>
-<name>hash</name> 
-<expres>this.loadPlayer\("(.*?)"</expres>
-<page>http://www.arenavision.in/av26</page>
-<referer>http://www.arenavision.in</referer>
-<setcookie>beget=begetok</setcookie>
-<name>#bassfox#</name>
-<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/09/european-leagues.jpg</thumbnail>
-<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
-</regex>
-</item>
-
-<item>
-<title>[COLOR green][B][COLOR red]•[/COLOR] BUNDESLIGA [COLOR salmon]+[/COLOR] BRASIL SERIE A [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
+<title>[COLOR green][B][COLOR red]•[/COLOR] BUNDESLIGA [COLOR salmon]+[/COLOR] BRAZIL SERIE A  [COLOR red]•[/COLOR] [COLOR salmon] [/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
 <regex>
 <name>hash</name> 
@@ -310,6 +296,49 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 <referer>http://cdn2.zuuk.org/</referer>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
+
+
+<item>  
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<link>$doregex[get-rtmp]/privatestream/ app=privatestream/ playpath=$doregex[path] swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<regex>
+<name>get-rtmp</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?streamname=fawergge'):
+ 
+ import requests
+ import re
+ 
+ 
+ source = requests.get(url)
+ var_a = re.findall('var a = (.*?);', source.text)[0]
+ var_b = re.findall('var b = (.*?);', source.text)[0]
+ var_c = re.findall('var c = (.*?);', source.text)[0]
+ var_d = re.findall('var d = (.*?);', source.text)[0]
+ var_f = re.findall('var f = (.*?);', source.text)[0]
+ 
+ a= int(float(var_a))/int(float(var_f))
+ b= int(float(var_b))/int(float(var_f))
+ c= int(float(var_c))/int(float(var_f))
+ d= int(float(var_d))/int(float(var_f))
+ 
+ rtmp = 'rtmp://' + str(a) + '.' + str(b) + '.' + str(c) + '.' + str(d)
+ return rtmp
+ 
+ 
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>path</name>
+<expres>privatestream\/(.*?)';</expres>
+<page>http://privatestream.tv/player?streamname=fawergge</page>
+<referer>http://privatestream.tv/</referer>
+<agent></agent>
+</regex><thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
