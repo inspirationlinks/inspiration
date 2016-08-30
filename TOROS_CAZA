@@ -8,31 +8,26 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/797.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] CANAL Toros[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1345.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/804.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.lyngsat-logo.com/hires/cc/canalplus_es_toros.png</thumbnail>
 </item>
 
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] IBERALIA[/COLOR] [COLOR red]•[/COLOR][COLOR white] [OFF/ON][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=XXXXXXXXXXX&amp;name=INSPIR@TION</link>
+<link>rtmp://31.220.0.187/privatestream/ibero8?keys=E5jF32vU4PjOa3cbUme0Ow&keyt=1456789577 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
 <thumbnail>http://s32.postimg.org/oac3cdon5/iberalia.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CAZA E PESCA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1126.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/1611.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] CAZA E PESCA[/COLOR] [COLOR red]•[/COLOR][COLOR white]  [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.40:8000/live/cardsharing/yg4tdh/2485.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipro.newtvhd.com:8789/live/karimos/test/802.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vxwput1438005508.png</thumbnail>
 </item>
 
