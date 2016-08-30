@@ -55,12 +55,6 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://premium.exabytetv.info/xtc/oekxkosnenfkznenfkxkzndkd/972/exabytetv.m3u8</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR GP [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/1070.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
@@ -74,32 +68,10 @@
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/YvIODZDTbl/OmjuWqIxTM/2969.ts&amp;name=INSPIR@TION</link>
+<link>http://89.163.148.31:8000/live/support/support/6886.m3u8</link>
 <thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/3102.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] MOVISTAR F1 [COLOR red]•[/COLOR][COLOR white] [ESP] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/1343.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SKY F1 [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2528.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] SKY F1 [COLOR red]•[/COLOR][COLOR white] [IT] [/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globe2.midomed.com:80/live/joseph/joseph/2284.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/u975520w5/formula_1_pilot.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Digi Sport4[/COLOR][/B]</title>
