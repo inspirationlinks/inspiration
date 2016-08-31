@@ -9,7 +9,7 @@
 <thumbnail>http://s32.postimg.org/yz897441x/PT1.png</thumbnail>
 <fanart>http://s32.postimg.org/5w4r0ammd/por.png</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/qCjzdB</externallink>
+<externallink>https://goo.gl/Hbr6Ui</externallink>
 </channel>
 
 
@@ -18,7 +18,7 @@
 <thumbnail>http://s13.postimg.org/6evr5uvqf/futebol_total.png</thumbnail>
 <fanart>http://s32.postimg.org/lgz6ym4n9/LIVE.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/Gblj5y</externallink>
+<externallink>https://goo.gl/YQpz3Y</externallink>
 </channel>
 
 
@@ -27,7 +27,7 @@
 <thumbnail>http://s32.postimg.org/qugam7kat/info.png</thumbnail>
 <fanart>http://image.prntscr.com/image/cc64682066f94c99baa6c80419e25ef3.png</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/8hXJRZ</externallink>
+<externallink>https://goo.gl/dmBjdj</externallink>
 </channel>
 
 
@@ -36,7 +36,7 @@
 <name>[COLOR lime][B][COLOR red]•[/COLOR] F1 | MOTOGP [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/40iqz8685/motof1.png</thumbnail>
 <fanart>http://s32.postimg.org/3odmqqnet/MOTOF1.jpg</fanart>
-<externallink>http://goo.gl/sT8Nc7</externallink>
+<externallink>https://goo.gl/lRKWWy</externallink>
 <info>Canais MOROTIZADOS</info>
 </channel>
 
@@ -44,7 +44,7 @@
 <channel>
 <name>[COLOR lime][B][COLOR red]•[/COLOR] COMBATE [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/t11p7sf45/kombate.png</thumbnail>
-<externallink>http://goo.gl/hwUuzY</externallink>
+<externallink>https://goo.gl/kFNGUG</externallink>
 <fanart>http://oboi-colibri.ru/wp-content/uploads/2014/06/boech.jpg</fanart>
 <info>Listas Canais DE VARIAS MODALIDDES DE KOMBATE</info>
 </channel>
@@ -53,7 +53,7 @@
 <channel>
 <name>[COLOR lime][B][COLOR red]•[/COLOR] GOLF [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s32.postimg.org/xkdxtawzp/GOLF.png</thumbnail>
-<externallink>http://goo.gl/i2Evca</externallink>
+<externallink>https://goo.gl/xlOvJN</externallink>
 <fanart>http://s33.postimg.org/pq22u3gy7/wallhaven_18237.jpg</fanart>
 <info>Canais de GOLF</info>
 </channel>
@@ -63,15 +63,7 @@
 <thumbnail>http://s10.postimg.org/v1t30p1p5/music.png</thumbnail>
 <fanart>http://s10.postimg.org/uxz9kfw7t/wallhaven_157331.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/QjWZgp</externallink>
-</channel>
-
-<channel>
-<name>[COLOR lime][B][COLOR red]•[/COLOR] BRASIL [COLOR red]•[/COLOR][/B]</name>
-<thumbnail>http://s21.postimg.org/vfinsrqon/brasil.png</thumbnail>
-<fanart>http://wallpapercave.com/wp/Feg06s4.jpg</fanart>
-<link>http://fui.me</link>
-<externallink>http://pastebin.com/raw/KA962Aw2</externallink>
+<externallink>https://goo.gl/FTvutm</externallink>
 </channel>
 
 
@@ -80,25 +72,44 @@
 <thumbnail>http://s10.postimg.org/5x08hs6hl/icon.png</thumbnail>
 <fanart>http://s10.postimg.org/4j8lmh789/fanart.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/svHnC7</externallink>
+<externallink>https://goo.gl/NsGVrH</externallink>
 </channel>
-
 
 
 <channel>
-<name>[COLOR lime][B][COLOR red]•[/COLOR] PARCERIAS (OUTROS ADDONS) [COLOR red]•[/COLOR][/B]</name>
-<thumbnail>http://s21.postimg.org/yvas2bnx3/parcerias.png</thumbnail>
-<fanart>http://s21.postimg.org/yq6ilqn6f/Kodi_Addons.jpg</fanart>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] BRASIL [COLOR red]•[/COLOR][/B]</name>
+<thumbnail>http://s10.postimg.org/d9t5qy121/brasil_modelo_de_vetor_de_futebol_23_2147491249.jpg</thumbnail>
+<fanart>http://wallpapercave.com/wp/Feg06s4.jpg</fanart>
 <link>http://fui.me</link>
-<externallink>http://goo.gl/Kyczdg</externallink>
+<externallink>http://pastebin.com/raw/KA962Aw2</externallink>
 </channel>
+
 
 <channel>
 <name>[COLOR lime][B][COLOR red]•[/COLOR] ADVANCED SETTINGS [COLOR red]•[/COLOR][/B]</name>
 <thumbnail>http://s10.postimg.org/xi0veenyx/icon.png</thumbnail>
 <fanart>http://s10.postimg.org/jab6prba1/fanart.jpg</fanart>
-<link>http://goo.gl/aTFlNn</link>
+<link>https://goo.gl/9MEc6f</link>
 <externallink>https://goo.gl/9MEc6f</externallink>
 </channel>
+
+<channel>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] TeamBlue Live Events [COLOR red]•[/COLOR][/B]</name>
+<thumbnail>http://s32.postimg.org/tl2ppm1ol/icon.png</thumbnail>
+<fanart>http://s32.postimg.org/wt772nnyd/fanart.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>https://raw.githubusercontent.com/Teamblue65/Kodi-plugin-video/master/plugin.video.teamblue</externallink>
+</channel>
+
+
+
+<channel>
+<name>[COLOR lime][B][COLOR red]•[/COLOR] MARTUNIS [COLOR red]•[/COLOR][/B]</name>
+<thumbnail>http://s32.postimg.org/l09dyfrid/icon.png</thumbnail>
+<fanart>http://s32.postimg.org/o8dvbhds5/fanart.jpg</fanart>
+<link>http://fui.me</link>
+<externallink>http://pastebin.com/raw/K2X65rB3</externallink>
+</channel>
+
 
 </channels>
