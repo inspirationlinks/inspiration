@@ -4,6 +4,7 @@
 
 
 
+
 <item>
 <title>[COLOR olive][B]****[COLOR white] DESPORTO [COLOR red] AGENDA & EVENTOS [COLOR olive]**** [/COLOR][/B]</title>
 <link>rtmp://</link>
@@ -128,7 +129,47 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 
 
+ 	
+<item>
+<title>[COLOR olive][B]****[COLOR white] FIFA WORLD CUP QUALIFIERS [COLOR red] PLEXUS [COLOR olive]**** [/COLOR][/B]</title>
+<link>http://chupamos.com</link>
+<thumbnail>http://goo.gl/vOG4SC</thumbnail>
+<fanart>http://goo.gl/vOG4SC</fanart>
+</item>
 
+
+
+
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] JOGOS DOS GRUPOS [COLOR white] B [COLOR salmon]|[/COLOR] C [COLOR salmon]|[/COLOR] E [COLOR salmon]|[/COLOR] F[/COLOR] [COLOR red]•[/COLOR][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av2</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://goo.gl/vOG4SC</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green][B][COLOR red]•[/COLOR] JOGOS DOS GRUPOS [COLOR white] A [COLOR salmon]|[/COLOR] G[/COLOR] [COLOR red]•[/COLOR][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=INSPIR@TION_LINKS</link>
+<regex>
+<name>hash</name> 
+<expres>this.loadPlayer\("(.*?)"</expres>
+<page>http://www.arenavision.in/av6</page>
+<referer>http://www.arenavision.in</referer>
+<setcookie>beget=begetok</setcookie>
+<name>#bassfox#</name>
+<thumbnail>http://goo.gl/vOG4SC</thumbnail>
+<fanart>http://s15.postimg.org/pyrcvek2z/PLEXUS.jpg</fanart>
+</regex>
+</item>
 
 
 
@@ -268,33 +309,15 @@ def GetLSProData(page_data,Cookie_Jar,m, param=''):
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.94.76:8000/live/chris28de/TNKXmSgQSn/1619.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/210070886404/566a94fd44fc2/2325.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/902.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/320.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.62.141:8000/live/VOwCu3atg2/5GGpzlD1b6/727.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/1813.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
-
-
-<item> 
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
-<referer>http://wizhdsports.to/live/stream20.php?width=650&height=480</referer>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
 
 <item> 
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
@@ -405,13 +428,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [/COLOR][/B]</title>
-<link>http://5.249.85.21:9981/stream/channelid/270099002?ticket=0E984B521AD556BCAF7FDFA78DA87C6145751B04&profile=pass</link>
-<thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] BTV [COLOR red]•[/COLOR][COLOR white] [F4M][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.13.76:2709/live/Seil001apo/8mc9Z6c9yB/907.ts&amp;name=INSPIR@TION</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/4239.ts&amp;name=INSPIR@TION</link>
 <thumbnail>http://s32.postimg.org/9q46f9k79/btv.png</thumbnail>
 </item>
 
@@ -456,20 +474,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 
 
 
-
-
-
-
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Voetbal [COLOR red]•[/COLOR][COLOR blue] [liga NOS][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2621.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
+<item> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] PREMIERE BR [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
+<referer>http://wizhdsports.to/live/stream20.php?width=650&height=480</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Ziggo Sport Select  [COLOR red]•[/COLOR][COLOR white] [NL][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/viktor/viktor1/2622.ts&amp;name=INSPIR@TION</link>
-<thumbnail>http://grandprixradio.nl/images/partners/Ziggo/Ziggo_Sport_Logo.jpg</thumbnail>
-</item>
+
 
 
 <item>
@@ -519,11 +530,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://frocus.net/images/logotv/original/nova-sport-hd.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
-<link>http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
+
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport1 [COLOR red]•[/COLOR][/B]</title>
 <link>http://188.247.133.18:8888/ipvt_002</link>
@@ -535,28 +542,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport2 [COLOR red]•[/COLOR][/B]</title>
-<link>http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport3 [COLOR red]•[/COLOR][/B]</title>
-<link>http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
 <link>http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8</link>
-<thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR lime][B][COLOR red]•[/COLOR] Arena Sport4 [COLOR red]•[/COLOR][/B]</title>
-<link>http://195.230.24.166:1935/live/898953arenasport4.stream/playlist.m3u8</link>
 <thumbnail>http://s32.postimg.org/mmcmutvgl/tvarenasport1.jpg</thumbnail>
 </item>
 <item>
