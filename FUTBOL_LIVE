@@ -368,6 +368,13 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 </regex><thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
 </item>
 
+<item> 
+<title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
+<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
+<referer>http://wizhdsports.to/live/stream20.php?width=650&height=480</referer>
+<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR lime][B][COLOR red]•[/COLOR] Sport TV1 [COLOR red]•[/COLOR][COLOR white] [rtmp] [/COLOR][/B]</title>
@@ -472,14 +479,6 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://privatestream.tv/player?stre
 <thumbnail></thumbnail>
 </item>
 
-
-
-<item> 
-<title>[COLOR lime][B][COLOR red]•[/COLOR] PREMIERE BR [COLOR red]•[/COLOR][COLOR white] [Sport Devil/P2P][/COLOR][/B]</title>
-<sportsdevil>http://wizhdsports.to/live/stream20.php?width=650&height=480</sportsdevil>
-<referer>http://wizhdsports.to/live/stream20.php?width=650&height=480</referer>
-<thumbnail>http://s32.postimg.org/7dmzq6sud/sportvs.png</thumbnail>
-</item>
 
 
 
