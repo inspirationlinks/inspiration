@@ -1,47 +1,159 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-# Folder config file
-Desktop.ini
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
 
-# Windows shortcuts
-*.lnk
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PORTUGAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/hmgel7vmf/canaispt.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
 
-# =========================
-# Operating System Files
-# =========================
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] PORTUGAL [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/hmgel7vmf/canaispt.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/qCjzdB</externallink>
+</item>
 
-# OSX
-# =========================
 
-.DS_Store
-.AppleDouble
-.LSOverride
 
-# Thumbnails
-._*
+=====================================================================================================================
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] DESPORTO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/5lqd6qytz/folder_blue_award_icon.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] DESPORTO [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/5lqd6qytz/folder_blue_award_icon.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/D4yXsA</externallink>
+</item>
+
+
+=====================================================================================================================
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] MUSIC [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/ff7kjk0yf/folder_blue_music_icon.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] MUSIC [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/ff7kjk0yf/folder_blue_music_icon.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/QjWZgp</externallink>
+</item>
+
+
+
+=====================================================================================================================
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] VIDEOCLUB INSPIRATION [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/tdzoia0uv/FILM.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] VIDEOCLUB INSPIRATION [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/tdzoia0uv/FILM.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://pastebin.com/raw/M7wtBLZ5</externallink>
+</item>
+
+
+
+=====================================================================================================================
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FILMES & SERIES [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/tdzoia0uv/FILM.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FILMES & SERIES [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/tdzoia0uv/FILM.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>http://textuploader.com/dse26/raw</externallink>
+</item>
+
+
+
+=====================================================================================================================
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] OUTROS ADDONS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/5ojfl2h93/Kodi.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] OUTROS ADDONS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/5ojfl2h93/Kodi.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/Kyczdg</externallink>
+</item>
+
+
+
+=====================================================================================================================
+
+
+
+<channels>
+<channel>
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SETTINGS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/mc6c9tmmv/ferramenta.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] SETTINGS [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</title>
+<link>http://fui.me</link>
+<thumbnail>http://s21.postimg.org/mc6c9tmmv/ferramenta.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<externallink>https://goo.gl/9MEc6f</externallink>
+</item>
+
+<name>[COLOR darkgrey][B][COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] FILMES & SERIES [COLOR green]|[/COLOR][COLOR gold]|[/COLOR][COLOR red]|[/COLOR] [/B]</name>
+<thumbnail>http://s21.postimg.org/tdzoia0uv/FILM.png</thumbnail>
+<fanart>http://s21.postimg.org/6ngdod4uv/fanart.jpg</fanart>
+<link>http://goo.gl/9MEc6f</link>
+<externallink>http://textuploader.com/dse26/raw</externallink>
+</channel>
+
